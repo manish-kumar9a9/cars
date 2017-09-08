@@ -41,7 +41,7 @@
 					<li><a href="<?php echo AUTH_PANEL_URL . 'web_option/google_map'; ?>">Cars on Map </a></li>
                     <li><a href="<?php echo AUTH_PANEL_URL . 'car/non_approved_car_list'; ?>">Non Approved</a></li>
                     <li><a  href="<?php echo AUTH_PANEL_URL . 'car/approved_car_list'; ?>">Approved</a></li>
-                    <li><a  href="<?php echo AUTH_PANEL_URL . 'car/approved_car_list'; ?>">Featured</a></li>
+                    <li><a  href="<?php echo AUTH_PANEL_URL . 'car/featured_car_list'; ?>">Featured</a></li>
                     <li><a  href="<?php echo AUTH_PANEL_URL . 'car/deleted_car_list'; ?>">Deleted Cars</a></li>
                     <li><a  href="<?php echo AUTH_PANEL_URL . 'car/reported_car_list'; ?>">Reported Cars</a></li>
                 </ul>

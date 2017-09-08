@@ -198,6 +198,136 @@ class Car extends MX_Controller {
 		$data['page_data'] = $this->load->view('car_data/approved_car_list', array(), TRUE);
 		echo modules::run(AUTH_DEFAULT_TEMPLATE, $data);
 	}
+	/*
+         * GET LIST OF APPROVED CARS
+         */
+
+	public function featured_car_list() {
+
+		////
+		$sql = "SELECT ucd.id as id , ucd.carPlateNumber as carPlateNumber , ucd.featured, ucd.createdDate as 
+		createdDate, "
+			. "concat(uu.firstName,' ',uu.lastName) as user_name , "
+			. "ucm.name as maker ,"
+			. " ucmd.name as model , "
+			. "uccb.insured_value as insured_value"
+			. " FROM urend_car_details as ucd left join urend_users as uu on uu.userId = ucd.fk_user_id left join urend_car_makes as ucm on ucm.id = ucd.make left join urend_car_models as ucmd on ucmd.id = ucd.model left join urend_car_contract_base_info as uccb on uccb.car_id = ucd.id WHERE is_verified =1   ";
+
+		/*if (!empty($requestData['columns'][0]['search']['value'])) {
+			$sql.=" AND concat(uu.firstName,' ',uu.lastName)  LIKE '" . $requestData['columns'][0]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][1]['search']['value'])) {
+			$sql.=" AND carPlateNumber LIKE '" . $requestData['columns'][1]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][2]['search']['value'])) {
+			$sql.=" AND ucm.name LIKE '" . $requestData['columns'][2]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][3]['search']['value'])) {
+			$sql.=" AND ucmd.name LIKE '" . $requestData['columns'][3]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][4]['search']['value'])) {
+			$sql.=" AND uccb.insured_value  LIKE '" . $requestData['columns'][4]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][5]['search']['value'])) {
+			$sql.=" AND createdDate LIKE '" . $requestData['columns'][5]['search']['value'] . "%' ";
+		}*/
+
+		$query = $this->db->query($sql)->result();
+
+		$totalFiltered = count($query); // when there is a search parameter then we have to modify total number filtered rows as per search result.
+
+		//$sql.=" ORDER BY " . $columns[$requestData['order'][0]['column']] . "   " . $requestData['order'][0]['dir']
+			//. "   LIMIT " . $requestData['start'] . " ," . $requestData['length'] . "   ";  // adding length
+
+		$result = $this->db->query($sql)->result();
+		/////
+		//print_r($result); die();
+		$temp['ter'] = $result;
+		$data['page_data'] = $this->load->view('car_data/featured_car_list', $temp, TRUE);
+		echo modules::run(AUTH_DEFAULT_TEMPLATE, $data);
+
+	}
+
+	public function ajax_featured_cars() {
+		// storing  request (ie, get/post) global array to a variable
+		$requestData = $_REQUEST;
+
+		$columns = array(
+			// datatable column index  => database column name
+			0 => 'user_name',
+			1 => 'carPlateNumber',
+			2 => 'maker',
+			3 => 'model',
+			4 => 'insured_value',
+			5=> 'createdDate'
+		);
+		// getting total number records without any search
+		$this->db->where('is_verified', '1');
+		$this->db->from('urend_car_details');
+		$totalData = $this->db->count_all_results();
+
+		$totalFiltered = $totalData;
+
+		$sql = "SELECT ucd.id as id , ucd.carPlateNumber as carPlateNumber , ucd.createdDate as createdDate, "
+			. "concat(uu.firstName,' ',uu.lastName) as user_name , "
+			. "ucm.name as maker ,"
+			. " ucmd.name as model , "
+			. "uccb.insured_value as insured_value"
+			. " FROM urend_car_details as ucd left join urend_users as uu on uu.userId = ucd.fk_user_id left join urend_car_makes as ucm on ucm.id = ucd.make left join urend_car_models as ucmd on ucmd.id = ucd.model left join urend_car_contract_base_info as uccb on uccb.car_id = ucd.id WHERE is_verified =1   ";
+
+		if (!empty($requestData['columns'][0]['search']['value'])) {
+			$sql.=" AND concat(uu.firstName,' ',uu.lastName)  LIKE '" . $requestData['columns'][0]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][1]['search']['value'])) {
+			$sql.=" AND carPlateNumber LIKE '" . $requestData['columns'][1]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][2]['search']['value'])) {
+			$sql.=" AND ucm.name LIKE '" . $requestData['columns'][2]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][3]['search']['value'])) {
+			$sql.=" AND ucmd.name LIKE '" . $requestData['columns'][3]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][4]['search']['value'])) {
+			$sql.=" AND uccb.insured_value  LIKE '" . $requestData['columns'][4]['search']['value'] . "%' ";
+		}
+		if (!empty($requestData['columns'][5]['search']['value'])) {
+			$sql.=" AND createdDate LIKE '" . $requestData['columns'][5]['search']['value'] . "%' ";
+		}
+
+		$query = $this->db->query($sql)->result();
+
+		$totalFiltered = count($query); // when there is a search parameter then we have to modify total number filtered rows as per search result.
+
+		$sql.=" ORDER BY " . $columns[$requestData['order'][0]['column']] . "   " . $requestData['order'][0]['dir'] . "   LIMIT " . $requestData['start'] . " ," . $requestData['length'] . "   ";  // adding length
+
+		$result = $this->db->query($sql)->result();
+
+		return $result;
+		//$data = array();
+
+//		foreach ($result as $r) {  // preparing an array
+//			$nestedData = array();
+//			$nestedData[] = $r->user_name ;
+//			$nestedData[] = $r->carPlateNumber;
+//			$nestedData[] =$r->maker;
+//			$nestedData[] = $r->model;
+//			$nestedData[] = $r->insured_value;
+//			$nestedData[] = $r->createdDate;
+//
+//			$nestedData[] = "<a class='btn-sm btn btn-info' href='" . AUTH_PANEL_URL . "web_user/user_car_detail/" . $r->id . "'>View</a>";
+//			/* $nestedData[] = ($r->verification_document == 1) ? "Approved" : "<a onclick='return confirm(\"Are you sure want to approve ? \");' href='" . base_url() . "index.php/admin/web_user/verify_user_document/" . $r->userId . "' >Approve it </a>"; */
+//			$data[] = $nestedData;
+//		}
+//
+//		$json_data = array(
+//			"draw" => intval($requestData['draw']), // for every request/draw by clientside , they send a number as a parameter, when they recieve a response/data they first check the draw number, so we are sending same number in draw.
+//			"recordsTotal" => intval($totalData), // total number of records
+//			"recordsFiltered" => intval($totalFiltered), // total number of records after searching, if there is no searching then totalFiltered = totalData
+//			"data" => $data   // total data array
+//		);
+//
+//		echo json_encode($json_data);  // send data as json format
+	}
 
 	public function ajax_approved_cars() {
 		// storing  request (ie, get/post) global array to a variable
@@ -263,7 +393,7 @@ class Car extends MX_Controller {
 			$nestedData[] = $r->model;
 			$nestedData[] = $r->insured_value;
 			$nestedData[] = $r->createdDate;
-			
+
 			$nestedData[] = "<a class='btn-sm btn btn-info' href='" . AUTH_PANEL_URL . "web_user/user_car_detail/" . $r->id . "'>View</a>";
 			/* $nestedData[] = ($r->verification_document == 1) ? "Approved" : "<a onclick='return confirm(\"Are you sure want to approve ? \");' href='" . base_url() . "index.php/admin/web_user/verify_user_document/" . $r->userId . "' >Approve it </a>"; */
 			$data[] = $nestedData;
@@ -491,4 +621,10 @@ class Car extends MX_Controller {
 		die;
 	}
 
+	public function make_feature(){
+		$id = $_POST['key'];
+		$result = $this->db->select('*')->get_where('urend_car_details', array('id', $id))->row();
+		$param = array('featured', 1);
+		print_r($result);
+	}
 }
