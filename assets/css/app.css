@@ -1,0 +1,122 @@
+
+textarea{font-family:'Ubuntu', sans-serif;}
+select{font-family:'Ubuntu', sans-serif;}
+body {
+  left: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.jumbotronMobileMenu{
+  display: none;
+}
+.mobilemenu {
+  background: #000;
+  left: -100%;  /* start off behind the scenes */
+  height: 100%;
+  position: fixed;
+  width:35%;
+  top: -20px;
+  padding-top: 27px;
+  z-index: 5;
+}
+
+.jumbotron {
+  height: 100%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+.mobilemenu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-left:32px;
+}
+
+.mobilemenu li {
+  width: 100%;
+  line-height: 35px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  padding-left: 15%;
+}
+.mobilemenu li:hover{background:#000;}
+
+.mobilemenu a {
+  color: #fff ;
+  font-size: 14px;
+  text-decoration: none;
+  font-family:'Ubuntu', sans-serif;
+}
+.mobilemenu a:hover{color:#08AE9E;}
+.icon-close {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom:24px;
+  padding-right:7px;
+  float:left;
+}
+.icon-close2 {
+  cursor: pointer;
+  padding-left: 12%;
+  padding-top: 10px;
+  padding-bottom:24px;
+   float:left;
+}
+.icon-close3 {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom:24px;
+    float:left;
+}
+
+.sidemenu-login{float:left;display:table;content:"";padding-left:30%;}
+.sidemenu-login img{width:40px; height:40px;border-radius:150px;border:solid 2px #CCCCCC;float:left;}
+.sidemenu-login span{color:#fff;font-family: 'ralewaymedium';font-size:14px;vertical-align:top;padding-top:14px;float:left;padding-left:5px;}
+.icon-close img.close1{width:15px;vertical-align: middle;}
+.icon-close2 img.close2{width:75px;vertical-align: middle;}
+.icon-menu {
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-menu i {
+  margin-right: 5px;
+}
+
+
+/*******************************************
+      MEDIA QUERIES
+********************************************/
+@media only screen and (max-width: 1180px) and (min-width: 852px){
+   .mobilemenu{width:50%;}
+}
+@media only screen and (max-width: 851px) and (min-width: 500px){
+   .mobilemenu{width:60%;}
+}
+@media only screen and (max-width: 499px){
+   .mobilemenu{width:90%;}
+}
+
+@media only screen and (max-width: 850px){
+  .jumbotronMobileMenu{
+      display: block;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .icon-menu {font-size: 22px;}
+  
+  .mobilemenu a {font-size: 13px;}
+  .jumbotron {}
+}

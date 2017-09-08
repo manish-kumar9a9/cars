@@ -1,0 +1,218 @@
+.help-center-text {
+    width: 50%;
+    margin: auto;
+    position: relative;
+	    text-align: center;
+}
+.help-center-detail {
+    background-color: rgba(0, 0, 0, 0.02);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+	padding: 8em 0;
+}
+.help-center-detail form input[type=text] {
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid rgba(17, 21, 16, 0);
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.56);
+    padding: 12px 20px 12px 20px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+	color:#eee;
+}
+
+.help-center-detail form input[type=text]:focus {
+    width: 100%;
+}
+.help {
+    min-height: 410px !important;
+    max-height:200px !important;
+	height:410px !important;
+}
+.help-center-detail h1{
+font-weight: 900;
+    font-size: 42px;
+    font-family: fantasy;
+}
+<!--- tab-content---->
+.help-background{
+	
+	}
+
+/* Tab Content - menucool.com */
+.tab-content-container > ul{
+	margin:0;
+	padding:0;	
+	
+}
+ul.tabs
+{
+  padding: 29px 87px;
+    font-size: 0;
+    /* margin: 24px 0; */
+    list-style-type: none;
+    text-align: left;
+    background: #f0f0f0;
+}
+        
+ul.tabs li
+{
+    display: inline;
+    margin: 0;
+   
+}
+ .right-border{
+	 
+	border-right:1px solid #afafaf !important; 
+	 
+ }
+ul.tabs li a
+{
+   font: normal 19px Verdana;
+    text-decoration: none;
+    position: relative;
+    padding: 1em 4em;
+   color: #000;
+	    font-weight: 600;
+    background: #F0F0F0 url(tabbg.gif) 0 0 repeat-x;
+     outline: none;
+	text-transform: uppercase;
+}
+        
+ul.tabs li a:visited
+{
+    color: #000;
+}
+        
+ul.tabs li a:hover
+{
+   
+    background:#F0F0F0 url(tabbg.gif) 0 -36px repeat-x;
+}
+        
+ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+        position: relative;
+    top: 0px;
+        font-weight: 600;
+    background: #eee;
+    
+	color:#00968a;
+}
+        
+        
+ul.tabs li.selected a:hover
+{
+    text-decoration: none;
+}
+     
+
+div.tabcontents
+{
+    padding: 30px 0;
+    background-color:#FFF;
+    border-radius: 0 3px 3px 3px;
+}
+.tab-content-container{width: 60%; margin:auto; padding: 4em 0;
+}
+/*---- main accordian----*/
+/* Main
+__________________________________________ */
+.main-wrapper {
+  float: left;
+  width: 100%;
+}
+.main-wrapper h2 {
+  color: #242628;
+  display: block;
+  font-family: 'ChunkFiveRegular', Arial, sans-serif;
+  font-size: 3em;
+  font-weight: bold;
+  line-height: 2em;
+  margin: 6% 0 1%;
+  text-decoration: none;
+  text-transform: capitalize;
+  text-shadow: 1px 1px #555;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  text-align: center;
+  max-width: 100%;
+  width: 100%;
+}
+.rlAccordion > h3 {
+ background-color: #ffffff;
+    background-image: -moz-linear-gradient(center bottom, #005d7c 0%, #0088b5 100%);
+    background-image: -o-linear-gradient(center bottom, #005d7c 0%, #0088b5 100%);
+    background-image: -webkit-linear-gradient(left bottom, left top, color-stop(0, #005d7c), color-stop(1, #0088b5));
+    background-image: -ms-linear-gradient(top, #005d7c 0%, #0088b5 100%);
+    background-image: linear-gradient(top, #005d7c 0%, #0088b5 100%);
+    border: 1px solid rgba(189, 189, 189, 0.36);
+    /* border-radius: 5px; */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.55); */
+    color: #08ae9e;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 16px auto;
+    padding: 3%;
+    text-decoration: none;
+    /* text-shadow: 1px 1px 0 #004E68; */
+}
+.rlAccordion > h3 > span {
+  float: right;
+  font-family: arial, serif, sans-serif;
+}
+.rlAccordion > h3 + div {
+  display: none;
+  padding: 2% 5%;
+}
+/* Footer
+__________________________________________ */
+footer {
+  float: left;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+}
+.copy p {
+  float: right;
+  font-size: 1.2em;
+  margin: 6% 0;
+  opacity: 0.3;
+  transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+}
+.copy p:hover {
+  opacity: 0.9;
+}
+/* IE7
+__________________________________________ */
+/* position of minus and plus sign in IE7 */
+/* if your html structure is based in HTML5, consider use a SHIV*/
+.ie7 .rlAccordion h3 span {
+  position: absolute;
+  right: 20px;
+}
+.btn-support{
+background: #08ae9e;
+    border: none;
+    padding: 1em !important;
+    color: #fff;
+    margin: 11px auto 2em;
+	    margin-bottom: 30px !important;
+	
+}
+.btn-support:hover,.btn-support:focus{
+background:#151615;
+	
+	color: #fff;
+	
+}
+.help-center-button > strong{ font-size: 16px;
+    font-weight: 500;
+    font-family: sans-serif;
+	}

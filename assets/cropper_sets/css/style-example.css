@@ -1,0 +1,22 @@
+/* 
+    Author     : Tomaz Dragar
+    Mail       : <tomaz@dragar.net>
+    Homepage   : http://www.dragar.net
+*/
+
+.simple-cropper-images{
+  width: 820px;
+  margin: 0 auto 20px;
+  
+}
+
+.cropme{
+  float: left;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+

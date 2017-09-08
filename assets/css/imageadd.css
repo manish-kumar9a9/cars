@@ -1,0 +1,162 @@
+.step5slider .gamepart div{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  outline: none;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.step5slider .gamepart br { display: block; line-height: 1.6em; } 
+.step5slider .gamepart nav{ display: block; }
+ol, ul { list-style: none; }
+#w {display: block;max-width: 830px;min-width: 300px;margin: 0 auto;padding: 2px 3px;}
+.step5slider .crsl-items { display: block;}
+.step5slider .crsl-item {background: #fff;padding: 8px;height:300px!important;}
+.step5slider .crsl-item .crop-btn{margin:0 auto;}
+.step5slider .crsl-item .thumbnail {display: block;position: relative;margin-bottom: 10px;cursor: pointer;width:480px;height:270px;margin:0 auto;border:solid 2px #666666;text-align:center;}
+.step5slider .crsl-item .thumbnail input[type="file"]{display:none;}
+.step5slider .crsl-item .thumbnail input[type="button"]{display:none;}
+.step5slider .crsl-item .thumbnail .imageBox1{position: absolute;left: 0;right: 0;top: 0;bottom: 0;width: 100%;background-position: center center;background-size: 100%;display: inline-block;    background-repeat: no-repeat;}
+.step5slider .crsl-item .thumbnail .imageBox2{position: absolute;left: 0;right: 0;top: 0;bottom: 0;width: 100%;background-position: center center;background-size: 100%;display: inline-block;    background-repeat: no-repeat;}
+.step5slider .crsl-item .thumbnail .imageBox3{position: absolute;left: 0;right: 0;top: 0;bottom: 0;width: 100%;background-position: center center;background-size: 100%;display: inline-block;    background-repeat: no-repeat;}
+.step5slider .crsl-item .thumbnail .imageBox4{position: absolute;left: 0;right: 0;top: 0;bottom: 0;width: 100%;background-position: center center;background-size: 100%;display: inline-block;    background-repeat: no-repeat;}
+.step5slider .crsl-item .thumbnail .imageBox5{position: absolute;left: 0;right: 0;top: 0;bottom: 0;width: 100%;background-position: center center;background-size: 100%;display: inline-block;    background-repeat: no-repeat;}
+
+.step5slider .crsl-item .thumbnail .imageBox img{}
+.step5slider .crsl-item .thumbnail a {text-align:center;}
+.step5slider .crsl-item .thumbnail a img{width:auto;margin:0 auto;}
+.step5slider .crsl-item .thumbnail img { display: block; -webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;transition: all 0.3s linear;width:100%;height:100%;}.step5slider .crsl-item .thumbnail:hover img {opacity: 0.8;}
+/** posts slider nav **/
+.step5slider .slidernav {display: block;text-align: center;margin-bottom: 5px;position:relative;}
+.step5slider .slidernav .previous{left:-20px;position:absolute;z-index:9;margin-top:130px;background:url(../image/slideleft.png) no-repeat;width:22px;height:26px;}
+.step5slider .slidernav .next{right:-20px;position:absolute;z-index:9;margin-top:130px;background:url(../image/slideright.png) no-repeat;width:22px;height:26px;}
+.step5slider .slidernav a {display: inline-block;padding: 5px 8px;margin-right: 0px;font-size: 1.4em;background: #fff; color: #666;}
+.step5slider .slidernav a:active {-webkit-box-shadow: 1px 1px 0 rgba(0,0,0,0.2); -moz-box-shadow: 1px 1px 0 rgba(0,0,0,0.2); box-shadow: 1px 1px 0 rgba(0,0,0,0.2);}
+
+
+.ownerfavcar h2{font-size:36px;margin:10px 0px;color:#333;}
+.ownerfavcar .devide{width:100px;height:2px;background:#08ae9e;margin:10px 0px 30px;}
+.ownerfavcar .gamepart div{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  outline: none;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.ownerfavcar .gamepart br { display: block; line-height: 1.6em; } 
+.ownerfavcar .gamepart nav{ display: block; }
+#w {display: block;max-width: 830px;min-width: 300px;margin: 0 auto;padding: 2px 3px;}
+.ownerfavcar .crsl-items { display: block;}
+.ownerfavcar .crsl-item {background: #fff;padding: 8px;}
+.ownerfavcar .crsl-item .thumbnail {display: block;position: relative;margin-bottom: 10px;cursor: pointer;width:480px;height:270px;margin:0 auto;border:solid 2px #666666;border-radius: 9px;text-align:center;}
+.ownerfavcar .crsl-item .thumbnail img { display: block; -webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;transition: all 0.3s linear;width:100%;height:100%;border-radius: 5px;}
+.ownerfavcar .crsl-item .thumbnail:hover img {opacity: 0.8;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl{position:absolute;bottom:0;width:100%;height:60px;background:rgba(0,0,0,.6);}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav1{width:25%;float:left;text-align:center;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav1 img{width:40px;height:40px;border-radius:150px;border: solid 4px #00ae9e;margin:-20px auto 0px;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav1 p{color:#fff;font-family:'ralewaysemibold';font-size:12px;margin:0;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav2{width:50%;float:left;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav2 h2{color:#fff;font-family:'ralewaysemibold';font-size:14px;margin:12px 0px;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav2 h2 span{color:#fff;font-family:'ralewaymedium';font-size:13px;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav3{width:25%;float:left;}
+.ownerfavcar .crsl-item .thumbnail .fav-car-dtl .fav3 div{border: solid 1px #00ae9e;text-align:center;color:#00ae9e;font-family:'ralewaymedium';font-size:14px;padding:11px 0px;border-radius: 5px;width:100%;max-width:100%;margin-top:10px;}
+/** posts slider nav **/
+.ownerfavcar .slidernav {display: block;text-align: center;margin-bottom: 5px;position:relative;}
+.ownerfavcar .slidernav .previous{left:-20px;position:absolute;z-index:9;margin-top:-150px;background:url(../image/gameleft.png) no-repeat;width:22px;height:26px;}
+.ownerfavcar .slidernav .next{right:-20px;position:absolute;z-index:9;margin-top:-150px;background:url(../image/gamenext.png) no-repeat;width:22px;height:26px;}
+.ownerfavcar .slidernav a {display: inline-block;padding: 5px 8px;margin-right: 0px;font-size: 1.4em;background: #fff; color: #666;}
+.ownerfavcar .slidernav a:active {-webkit-box-shadow: 1px 1px 0 rgba(0,0,0,0.2); -moz-box-shadow: 1px 1px 0 rgba(0,0,0,0.2); box-shadow: 1px 1px 0 rgba(0,0,0,0.2);}
+.img-show-popup{position: fixed;width: 100%;height: 100%;left: 0;top: 0;background: rgba(0,0,0,0.7);z-index:999;}
+.img-popup1{display:none;}.img-popup2{display:none;}.img-popup3{display:none;}.img-popup4{display:none;}
+.img-show-popup .pop-up{width: 500px;
+    min-height: 400px;
+    position: fixed;
+    top: 53%;z-index:99999;
+    left: 50%;
+	padding:10px 20px;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    background: #fff;}
+.img-show-popup .imageBox
+{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    border:1px solid #aaa;
+    background: #fff;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    cursor:move;
+}
+
+.img-show-popup .imageBox .thumbBox
+{
+    position: absolute;
+    top: 4%;
+    left: 4%;
+    width: 92%;
+    height: 90%;
+    box-sizing: border-box;
+    border: 1px solid rgb(102, 102, 102);
+    box-shadow: 0 0 0 1000px rgba(0, 0, 0, 0.5);
+    background: none repeat scroll 0% 0% transparent;
+}
+
+.img-show-popup .imageBox .spinner
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    line-height: 400px;
+    background: rgba(0,0,0,0.7);
+}
+.img-show-popup .action
+        {
+            width: 400px;
+            height: 30px;
+            margin: 10px 0;
+        }
+/** media queries **/
+@media screen and (max-width: 1024px) { 
+.step5slider .crsl-item .thumbnail {}
+.ownerfavcar .crsl-item .thumbnail {}
+}
+@media screen and (max-width: 660px) {
+.step5slider .crsl-item h3 { font-size: 1.65em; }
+.ownerfavcar .crsl-item h3 { font-size: 1.65em; }
+}
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	.step5slider .crsl-item{height:226px!important;}
+	.step5slider .crsl-item .thumbnail{height:222px;}
+	.step5slider .slidernav .previous{margin-top:65px;}
+.step5slider .slidernav .next{margin-top:65px;}
+}
+
+@media only screen and (max-width: 479px){
+	.step5slider .crsl-item{height:176px!important;}
+	.step5slider .crsl-item .thumbnail{height:172px;}
+	.step5slider .slidernav .previous{margin-top:65px;}
+	.step5slider .slidernav .next{margin-top:65px;}
+	.top-menu .top-left .search-bar{padding-left:5px;}
+	.top-menu .top-left .top-logo{padding-left:5px;}
+}
+
