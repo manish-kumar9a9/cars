@@ -178,78 +178,101 @@
                     <div id="customerCarousel" class="carousel slide margin-top-20" data-ride="carousel">
                         <div class="row">
                             <div class="carousel-inner" role="listbox">
-                                <div class="item active">
+                                <?php $i=0;?>
+                                <?php foreach($breaks as $values):?>
+                                    <div class="item  <?php if($i ==0){ echo "active";}?>">
+                                        <?php foreach($values as $owner):?>
+                                            <div class="col-sm-3 margin-top-20 margin-bottom-20">
+                                                <img src="<?php echo base_url(); ?>assets/image/person2.png"/>
+                                                <div>
+                                                    <div class="name"><?php echo $owner->firstName." "
+                                                            .$owner->lastName ?></div>
+                                                    <div class="car"><?php echo $owner->company." "
+                                                            .$owner->modelnmae ?></div>
+                                                    <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                                </div>
+                                            </div>
+                                        <?php endforeach;?>
+                                    </div>
+                                    <?php $i++;?>
+                                <?php endforeach;?>
+                                <!--<div class="item active">
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person1.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person1.png"/>
                                         <div>
                                             <div class="name">Jason</div>
                                             <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person2.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person2.png"/>
                                         <div>
                                             <div class="name">Mariza</div>
                                             <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person3.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person3.png"/>
                                         <div>
                                             <div class="name">Sofia</div>
                                             <div class="car">BMX X1</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person4.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person4.png"/>
                                         <div>
                                             <div class="name">Jason</div>
                                             <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="item">
+                                </div>-->
+                                <!--<div class="item">
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person2.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person2.png"/>
                                         <div>
                                             <div class="name">Jason</div>
                                             <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person1.png"/>
-                                        <div>
-                                            <div class="name">Jason</div>
-                                            <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person4.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person1.png"/>
                                         <div>
                                             <div class="name">Jason</div>
                                             <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
                                     <div class="col-sm-3 margin-top-20 margin-bottom-20">
-                                        <img src="<?php echo base_url(); ?>assets/image/person3.png"/>
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person4.png"/>
                                         <div>
                                             <div class="name">Jason</div>
                                             <div class="car">VW Golf GTI</div>
-                                            <div class="white button"><?php echo $this->lang->line('VIEW_CAR');?></div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
                                         </div>
                                     </div>
-                                </div>
+                                    <div class="col-sm-3 margin-top-20 margin-bottom-20">
+                                        <img src="<?php /*echo base_url(); */?>assets/image/person3.png"/>
+                                        <div>
+                                            <div class="name">Jason</div>
+                                            <div class="car">VW Golf GTI</div>
+                                            <div class="white button"><?php /*echo $this->lang->line('VIEW_CAR');*/?></div>
+                                        </div>
+                                    </div>
+                                </div>-->
                             </div>
                             <ol class="carousel-indicators">
-                                <li data-target="#customerCarousel" data-slide-to="0" class="active"></li>
-                                <li data-target="#customerCarousel" data-slide-to="1"></li>
+                                <?php foreach($breaks as $key=> $values):?>
+                                    <li data-target="#customerCarousel" data-slide-to="<?php echo $key ?>"
+                                    class="<?php if($key ==0){
+                                        echo "active";}?>"></li>
+                                <?php endforeach;?>
+                                <!--<li data-target="#customerCarousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#customerCarousel" data-slide-to="1"></li>-->
                                 <!-- divide by 4 your total and place here as many data-slide-to as you want. -->
                             </ol>
                         </div>

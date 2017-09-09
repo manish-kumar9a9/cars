@@ -310,4 +310,6 @@ class UserModel extends CI_Model {
         }
         return array();
     }
+    
+    
 }

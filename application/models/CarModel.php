@@ -171,4 +171,13 @@ WHERE cd.featured = 1;")->result();
 
         return $result;
     }
+
+    public function get_owner_list(){
+        $result = $this->db->query("SELECT cd.id, cd.fk_user_id, make, model type, cm.name AS  modelnmae, cc.name AS company, firstName, lastName 
+                                    FROM urend_car_details AS cd JOIN
+                                    urend_car_models AS cm ON cd.model = cm.id JOIN 
+                                    urend_car_makes AS cc ON cd.make = cc.id JOIN
+                                    urend_users AS uu ON cd.fk_user_id = uu.userId ")->result();
+        return $result;
+    }
 }

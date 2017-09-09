@@ -21,9 +21,33 @@ class Welcome extends CI_Controller {
 		{
 			$temp[$row->id] = $row;
 		}
-
 		$data['featured_cars'] = $temp;
-		//array_unique($data['featured_cars']);
+
+        //owners list
+        $owners= $this->CarModel->get_owner_list();
+        $ownertemp = [];
+        foreach ($owners as $owner)
+        {
+            $ownertemp[$owner->fk_user_id] = $owner;
+        }
+        $beaktemp = [];
+        $tot =  ceil(count($owners)/4);
+        for($i=0; $i < $tot ; $i++)
+        {
+            $j=0;
+            foreach ($owners as $key=> $owner)
+            {
+                if($j == 4){break;}
+                $beaktemp[$i][] = $owner;
+                unset($owners[$key]);
+                $j++;
+
+            }
+        }
+        //print_r($beaktemp); die();
+        $data['owners'] = $ownertemp;
+        $data['breaks'] = $beaktemp;
+
 		//log_message('info', "7777777777777777777777777777777temp >> ".gettype($temp));
 
 		$this->load->view('index', $data);
