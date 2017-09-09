@@ -13,7 +13,7 @@
 				<a href="javascript:;" class="fa fa-times"></a>
 			</span>
 			<span class="pull-right"> <button onClick="makeBulkFeatures()" class="btn btn-info btn-xs">Make
-					Feature</button></span>
+					Featured</button></span>
 
 		</header>
 		<div class="panel-body">
@@ -21,7 +21,7 @@
 				<table  class="display table table-bordered table-striped" id="approved-grid">
 					<thead>
 						<tr>
-							<th><input id="chk-allselect" type="checkbox" ></th>
+							<th>Mark</th>
 							<th>Owner Name</th>
 							<th>Car Plate Number</th>
 							<th>Make</th>
@@ -49,7 +49,7 @@
 									<?php else: ?>
 										<button onClick="makeFeatures(<?php echo $row->id ?>, false)" class="btn
 										btn-danger
-											btn-xs">Make Feature</button>
+											btn-xs">Make Featured</button>
 									<?php endif; ?>
 								</span>
 							</td>
