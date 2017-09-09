@@ -5874,3 +5874,6980 @@ INFO - 2017-09-09 12:49:45 --> Model Class Initialized
 INFO - 2017-09-09 12:49:45 --> Language file loaded: language/english/master_lang.php
 INFO - 2017-09-09 12:49:45 --> Final output sent to browser
 INFO - 2017-09-09 12:49:47 --> Final output sent to browser
+INFO - 2017-09-09 13:05:29 --> Config Class Initialized
+INFO - 2017-09-09 13:05:29 --> Hooks Class Initialized
+INFO - 2017-09-09 13:05:29 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:05:29 --> URI Class Initialized
+INFO - 2017-09-09 13:05:29 --> Router Class Initialized
+INFO - 2017-09-09 13:05:29 --> Output Class Initialized
+INFO - 2017-09-09 13:05:29 --> Security Class Initialized
+INFO - 2017-09-09 13:05:29 --> Input Class Initialized
+INFO - 2017-09-09 13:05:29 --> Language Class Initialized
+INFO - 2017-09-09 13:05:29 --> Language Class Initialized
+INFO - 2017-09-09 13:05:29 --> Config Class Initialized
+INFO - 2017-09-09 13:05:29 --> Loader Class Initialized
+INFO - 2017-09-09 13:05:29 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:05:29 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:05:29 --> Email Class Initialized
+INFO - 2017-09-09 13:05:29 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:05:29 --> Controller Class Initialized
+INFO - 2017-09-09 13:05:29 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:05:29 --> Model Class Initialized
+INFO - 2017-09-09 13:05:29 --> Model Class Initialized
+INFO - 2017-09-09 13:05:29 --> Config Class Initialized
+INFO - 2017-09-09 13:05:29 --> Hooks Class Initialized
+INFO - 2017-09-09 13:05:29 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:05:29 --> URI Class Initialized
+INFO - 2017-09-09 13:05:29 --> Router Class Initialized
+INFO - 2017-09-09 13:05:29 --> Output Class Initialized
+INFO - 2017-09-09 13:05:29 --> Security Class Initialized
+INFO - 2017-09-09 13:05:29 --> Input Class Initialized
+INFO - 2017-09-09 13:05:29 --> Language Class Initialized
+INFO - 2017-09-09 13:05:29 --> Language Class Initialized
+INFO - 2017-09-09 13:05:29 --> Config Class Initialized
+INFO - 2017-09-09 13:05:29 --> Loader Class Initialized
+INFO - 2017-09-09 13:05:29 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:05:29 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:05:29 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:05:29 --> Email Class Initialized
+INFO - 2017-09-09 13:05:29 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:05:29 --> Controller Class Initialized
+INFO - 2017-09-09 13:05:29 --> Model Class Initialized
+INFO - 2017-09-09 13:05:29 --> Model Class Initialized
+INFO - 2017-09-09 13:05:29 --> Model Class Initialized
+INFO - 2017-09-09 13:05:29 --> Model Class Initialized
+INFO - 2017-09-09 13:05:29 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:05:29 --> Final output sent to browser
+INFO - 2017-09-09 13:05:31 --> Final output sent to browser
+INFO - 2017-09-09 13:08:25 --> Config Class Initialized
+INFO - 2017-09-09 13:08:25 --> Hooks Class Initialized
+INFO - 2017-09-09 13:08:25 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:08:25 --> URI Class Initialized
+INFO - 2017-09-09 13:08:25 --> Router Class Initialized
+INFO - 2017-09-09 13:08:25 --> Output Class Initialized
+INFO - 2017-09-09 13:08:25 --> Security Class Initialized
+INFO - 2017-09-09 13:08:25 --> Input Class Initialized
+INFO - 2017-09-09 13:08:25 --> Language Class Initialized
+INFO - 2017-09-09 13:08:25 --> Language Class Initialized
+INFO - 2017-09-09 13:08:25 --> Config Class Initialized
+INFO - 2017-09-09 13:08:25 --> Loader Class Initialized
+INFO - 2017-09-09 13:08:25 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:08:25 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:08:25 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:08:25 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:08:25 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:08:25 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:08:25 --> Email Class Initialized
+INFO - 2017-09-09 13:08:25 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:08:25 --> Controller Class Initialized
+INFO - 2017-09-09 13:08:25 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:08:25 --> Model Class Initialized
+INFO - 2017-09-09 13:08:25 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Config Class Initialized
+INFO - 2017-09-09 13:08:48 --> Hooks Class Initialized
+INFO - 2017-09-09 13:08:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:08:48 --> URI Class Initialized
+INFO - 2017-09-09 13:08:48 --> Router Class Initialized
+INFO - 2017-09-09 13:08:48 --> Output Class Initialized
+INFO - 2017-09-09 13:08:48 --> Security Class Initialized
+INFO - 2017-09-09 13:08:48 --> Input Class Initialized
+INFO - 2017-09-09 13:08:48 --> Language Class Initialized
+INFO - 2017-09-09 13:08:48 --> Language Class Initialized
+INFO - 2017-09-09 13:08:48 --> Config Class Initialized
+INFO - 2017-09-09 13:08:48 --> Loader Class Initialized
+INFO - 2017-09-09 13:08:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:08:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:08:48 --> Email Class Initialized
+INFO - 2017-09-09 13:08:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:08:48 --> Controller Class Initialized
+INFO - 2017-09-09 13:08:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:08:48 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Config Class Initialized
+INFO - 2017-09-09 13:08:48 --> Hooks Class Initialized
+INFO - 2017-09-09 13:08:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:08:48 --> URI Class Initialized
+INFO - 2017-09-09 13:08:48 --> Router Class Initialized
+INFO - 2017-09-09 13:08:48 --> Output Class Initialized
+INFO - 2017-09-09 13:08:48 --> Security Class Initialized
+INFO - 2017-09-09 13:08:48 --> Input Class Initialized
+INFO - 2017-09-09 13:08:48 --> Language Class Initialized
+INFO - 2017-09-09 13:08:48 --> Language Class Initialized
+INFO - 2017-09-09 13:08:48 --> Config Class Initialized
+INFO - 2017-09-09 13:08:48 --> Loader Class Initialized
+INFO - 2017-09-09 13:08:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:08:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:08:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:08:48 --> Email Class Initialized
+INFO - 2017-09-09 13:08:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:08:48 --> Controller Class Initialized
+INFO - 2017-09-09 13:08:48 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Model Class Initialized
+INFO - 2017-09-09 13:08:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:08:48 --> Final output sent to browser
+INFO - 2017-09-09 13:08:49 --> Final output sent to browser
+INFO - 2017-09-09 13:10:00 --> Config Class Initialized
+INFO - 2017-09-09 13:10:00 --> Hooks Class Initialized
+INFO - 2017-09-09 13:10:00 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:10:00 --> URI Class Initialized
+INFO - 2017-09-09 13:10:00 --> Router Class Initialized
+INFO - 2017-09-09 13:10:00 --> Output Class Initialized
+INFO - 2017-09-09 13:10:00 --> Security Class Initialized
+INFO - 2017-09-09 13:10:00 --> Input Class Initialized
+INFO - 2017-09-09 13:10:00 --> Language Class Initialized
+INFO - 2017-09-09 13:10:00 --> Language Class Initialized
+INFO - 2017-09-09 13:10:00 --> Config Class Initialized
+INFO - 2017-09-09 13:10:00 --> Loader Class Initialized
+INFO - 2017-09-09 13:10:00 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:10:00 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:10:00 --> Email Class Initialized
+INFO - 2017-09-09 13:10:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:10:00 --> Controller Class Initialized
+INFO - 2017-09-09 13:10:00 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:10:00 --> Model Class Initialized
+INFO - 2017-09-09 13:10:00 --> Model Class Initialized
+INFO - 2017-09-09 13:10:00 --> Config Class Initialized
+INFO - 2017-09-09 13:10:00 --> Hooks Class Initialized
+INFO - 2017-09-09 13:10:00 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:10:00 --> URI Class Initialized
+INFO - 2017-09-09 13:10:00 --> Router Class Initialized
+INFO - 2017-09-09 13:10:00 --> Output Class Initialized
+INFO - 2017-09-09 13:10:00 --> Security Class Initialized
+INFO - 2017-09-09 13:10:00 --> Input Class Initialized
+INFO - 2017-09-09 13:10:00 --> Language Class Initialized
+INFO - 2017-09-09 13:10:00 --> Language Class Initialized
+INFO - 2017-09-09 13:10:00 --> Config Class Initialized
+INFO - 2017-09-09 13:10:00 --> Loader Class Initialized
+INFO - 2017-09-09 13:10:00 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:10:00 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:10:00 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:10:00 --> Email Class Initialized
+INFO - 2017-09-09 13:10:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:10:00 --> Controller Class Initialized
+INFO - 2017-09-09 13:10:00 --> Model Class Initialized
+INFO - 2017-09-09 13:10:00 --> Model Class Initialized
+INFO - 2017-09-09 13:10:00 --> Model Class Initialized
+INFO - 2017-09-09 13:10:00 --> Model Class Initialized
+INFO - 2017-09-09 13:10:00 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:10:00 --> Final output sent to browser
+INFO - 2017-09-09 13:10:04 --> Final output sent to browser
+INFO - 2017-09-09 13:15:23 --> Config Class Initialized
+INFO - 2017-09-09 13:15:23 --> Hooks Class Initialized
+INFO - 2017-09-09 13:15:23 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:15:23 --> URI Class Initialized
+INFO - 2017-09-09 13:15:23 --> Router Class Initialized
+INFO - 2017-09-09 13:15:23 --> Output Class Initialized
+INFO - 2017-09-09 13:15:23 --> Security Class Initialized
+INFO - 2017-09-09 13:15:23 --> Input Class Initialized
+INFO - 2017-09-09 13:15:23 --> Language Class Initialized
+INFO - 2017-09-09 13:15:23 --> Language Class Initialized
+INFO - 2017-09-09 13:15:23 --> Config Class Initialized
+INFO - 2017-09-09 13:15:23 --> Loader Class Initialized
+INFO - 2017-09-09 13:15:23 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:15:23 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:15:23 --> Email Class Initialized
+INFO - 2017-09-09 13:15:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:15:23 --> Controller Class Initialized
+INFO - 2017-09-09 13:15:23 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:15:23 --> Model Class Initialized
+INFO - 2017-09-09 13:15:23 --> Model Class Initialized
+INFO - 2017-09-09 13:15:23 --> Config Class Initialized
+INFO - 2017-09-09 13:15:23 --> Hooks Class Initialized
+INFO - 2017-09-09 13:15:23 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:15:23 --> URI Class Initialized
+INFO - 2017-09-09 13:15:23 --> Router Class Initialized
+INFO - 2017-09-09 13:15:23 --> Output Class Initialized
+INFO - 2017-09-09 13:15:23 --> Security Class Initialized
+INFO - 2017-09-09 13:15:23 --> Input Class Initialized
+INFO - 2017-09-09 13:15:23 --> Language Class Initialized
+INFO - 2017-09-09 13:15:23 --> Language Class Initialized
+INFO - 2017-09-09 13:15:23 --> Config Class Initialized
+INFO - 2017-09-09 13:15:23 --> Loader Class Initialized
+INFO - 2017-09-09 13:15:23 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:15:23 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:15:23 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:15:23 --> Email Class Initialized
+INFO - 2017-09-09 13:15:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:15:23 --> Controller Class Initialized
+INFO - 2017-09-09 13:15:23 --> Model Class Initialized
+INFO - 2017-09-09 13:15:23 --> Model Class Initialized
+INFO - 2017-09-09 13:15:23 --> Model Class Initialized
+INFO - 2017-09-09 13:15:23 --> Model Class Initialized
+INFO - 2017-09-09 13:15:23 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:15:23 --> Final output sent to browser
+INFO - 2017-09-09 13:15:30 --> Final output sent to browser
+INFO - 2017-09-09 13:25:15 --> Config Class Initialized
+INFO - 2017-09-09 13:25:15 --> Hooks Class Initialized
+INFO - 2017-09-09 13:25:15 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:25:15 --> URI Class Initialized
+INFO - 2017-09-09 13:25:15 --> Router Class Initialized
+INFO - 2017-09-09 13:25:15 --> Output Class Initialized
+INFO - 2017-09-09 13:25:15 --> Security Class Initialized
+INFO - 2017-09-09 13:25:15 --> Input Class Initialized
+INFO - 2017-09-09 13:25:15 --> Language Class Initialized
+INFO - 2017-09-09 13:25:15 --> Language Class Initialized
+INFO - 2017-09-09 13:25:15 --> Config Class Initialized
+INFO - 2017-09-09 13:25:15 --> Loader Class Initialized
+INFO - 2017-09-09 13:25:15 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:25:15 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:25:15 --> Email Class Initialized
+INFO - 2017-09-09 13:25:15 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:25:15 --> Controller Class Initialized
+INFO - 2017-09-09 13:25:15 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:25:15 --> Model Class Initialized
+INFO - 2017-09-09 13:25:15 --> Model Class Initialized
+INFO - 2017-09-09 13:25:15 --> Config Class Initialized
+INFO - 2017-09-09 13:25:15 --> Hooks Class Initialized
+INFO - 2017-09-09 13:25:15 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:25:15 --> URI Class Initialized
+INFO - 2017-09-09 13:25:15 --> Router Class Initialized
+INFO - 2017-09-09 13:25:15 --> Output Class Initialized
+INFO - 2017-09-09 13:25:15 --> Security Class Initialized
+INFO - 2017-09-09 13:25:15 --> Input Class Initialized
+INFO - 2017-09-09 13:25:15 --> Language Class Initialized
+INFO - 2017-09-09 13:25:15 --> Language Class Initialized
+INFO - 2017-09-09 13:25:15 --> Config Class Initialized
+INFO - 2017-09-09 13:25:15 --> Loader Class Initialized
+INFO - 2017-09-09 13:25:15 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:25:15 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:25:15 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:25:15 --> Email Class Initialized
+INFO - 2017-09-09 13:25:15 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:25:15 --> Controller Class Initialized
+INFO - 2017-09-09 13:25:15 --> Model Class Initialized
+INFO - 2017-09-09 13:25:15 --> Model Class Initialized
+INFO - 2017-09-09 13:25:15 --> Model Class Initialized
+INFO - 2017-09-09 13:25:15 --> Model Class Initialized
+INFO - 2017-09-09 13:25:15 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:25:15 --> Final output sent to browser
+INFO - 2017-09-09 13:25:17 --> Final output sent to browser
+INFO - 2017-09-09 13:25:49 --> Config Class Initialized
+INFO - 2017-09-09 13:25:49 --> Hooks Class Initialized
+INFO - 2017-09-09 13:25:49 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:25:49 --> URI Class Initialized
+INFO - 2017-09-09 13:25:49 --> Router Class Initialized
+INFO - 2017-09-09 13:25:49 --> Output Class Initialized
+INFO - 2017-09-09 13:25:49 --> Security Class Initialized
+INFO - 2017-09-09 13:25:49 --> Input Class Initialized
+INFO - 2017-09-09 13:25:49 --> Language Class Initialized
+INFO - 2017-09-09 13:25:49 --> Language Class Initialized
+INFO - 2017-09-09 13:25:49 --> Config Class Initialized
+INFO - 2017-09-09 13:25:49 --> Loader Class Initialized
+INFO - 2017-09-09 13:25:49 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:25:49 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:25:49 --> Email Class Initialized
+INFO - 2017-09-09 13:25:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:25:49 --> Controller Class Initialized
+INFO - 2017-09-09 13:25:49 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:25:49 --> Model Class Initialized
+INFO - 2017-09-09 13:25:49 --> Model Class Initialized
+INFO - 2017-09-09 13:25:49 --> Config Class Initialized
+INFO - 2017-09-09 13:25:49 --> Hooks Class Initialized
+INFO - 2017-09-09 13:25:49 --> Utf8 Class Initialized
+INFO - 2017-09-09 13:25:49 --> URI Class Initialized
+INFO - 2017-09-09 13:25:49 --> Router Class Initialized
+INFO - 2017-09-09 13:25:49 --> Output Class Initialized
+INFO - 2017-09-09 13:25:49 --> Security Class Initialized
+INFO - 2017-09-09 13:25:49 --> Input Class Initialized
+INFO - 2017-09-09 13:25:49 --> Language Class Initialized
+INFO - 2017-09-09 13:25:49 --> Language Class Initialized
+INFO - 2017-09-09 13:25:49 --> Config Class Initialized
+INFO - 2017-09-09 13:25:49 --> Loader Class Initialized
+INFO - 2017-09-09 13:25:49 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: url_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: custom_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: push_helper
+INFO - 2017-09-09 13:25:49 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 13:25:49 --> Database Driver Class Initialized
+INFO - 2017-09-09 13:25:49 --> Email Class Initialized
+INFO - 2017-09-09 13:25:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 13:25:49 --> Controller Class Initialized
+INFO - 2017-09-09 13:25:49 --> Model Class Initialized
+INFO - 2017-09-09 13:25:49 --> Model Class Initialized
+INFO - 2017-09-09 13:25:49 --> Model Class Initialized
+INFO - 2017-09-09 13:25:49 --> Model Class Initialized
+INFO - 2017-09-09 13:25:49 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 13:25:49 --> Final output sent to browser
+INFO - 2017-09-09 13:25:51 --> Final output sent to browser
+INFO - 2017-09-09 14:19:29 --> Config Class Initialized
+INFO - 2017-09-09 14:19:29 --> Hooks Class Initialized
+INFO - 2017-09-09 14:19:29 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:19:29 --> URI Class Initialized
+INFO - 2017-09-09 14:19:29 --> Router Class Initialized
+INFO - 2017-09-09 14:19:29 --> Output Class Initialized
+INFO - 2017-09-09 14:19:29 --> Security Class Initialized
+INFO - 2017-09-09 14:19:29 --> Input Class Initialized
+INFO - 2017-09-09 14:19:29 --> Language Class Initialized
+INFO - 2017-09-09 14:19:29 --> Language Class Initialized
+INFO - 2017-09-09 14:19:29 --> Config Class Initialized
+INFO - 2017-09-09 14:19:29 --> Loader Class Initialized
+INFO - 2017-09-09 14:19:29 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:19:29 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:19:29 --> Email Class Initialized
+INFO - 2017-09-09 14:19:29 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:19:29 --> Controller Class Initialized
+INFO - 2017-09-09 14:19:29 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:19:29 --> Model Class Initialized
+INFO - 2017-09-09 14:19:29 --> Model Class Initialized
+INFO - 2017-09-09 14:19:29 --> Config Class Initialized
+INFO - 2017-09-09 14:19:29 --> Hooks Class Initialized
+INFO - 2017-09-09 14:19:29 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:19:29 --> URI Class Initialized
+INFO - 2017-09-09 14:19:29 --> Router Class Initialized
+INFO - 2017-09-09 14:19:29 --> Output Class Initialized
+INFO - 2017-09-09 14:19:29 --> Security Class Initialized
+INFO - 2017-09-09 14:19:29 --> Input Class Initialized
+INFO - 2017-09-09 14:19:29 --> Language Class Initialized
+INFO - 2017-09-09 14:19:29 --> Language Class Initialized
+INFO - 2017-09-09 14:19:29 --> Config Class Initialized
+INFO - 2017-09-09 14:19:29 --> Loader Class Initialized
+INFO - 2017-09-09 14:19:29 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:19:29 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:19:29 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:19:29 --> Email Class Initialized
+INFO - 2017-09-09 14:19:29 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:19:29 --> Controller Class Initialized
+INFO - 2017-09-09 14:19:29 --> Model Class Initialized
+INFO - 2017-09-09 14:19:29 --> Model Class Initialized
+INFO - 2017-09-09 14:19:29 --> Model Class Initialized
+INFO - 2017-09-09 14:19:29 --> Model Class Initialized
+INFO - 2017-09-09 14:19:29 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:19:29 --> Final output sent to browser
+INFO - 2017-09-09 14:19:31 --> Final output sent to browser
+INFO - 2017-09-09 14:20:45 --> Config Class Initialized
+INFO - 2017-09-09 14:20:45 --> Hooks Class Initialized
+INFO - 2017-09-09 14:20:45 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:20:45 --> URI Class Initialized
+INFO - 2017-09-09 14:20:45 --> Router Class Initialized
+INFO - 2017-09-09 14:20:45 --> Output Class Initialized
+INFO - 2017-09-09 14:20:45 --> Security Class Initialized
+INFO - 2017-09-09 14:20:45 --> Input Class Initialized
+INFO - 2017-09-09 14:20:45 --> Language Class Initialized
+INFO - 2017-09-09 14:20:45 --> Language Class Initialized
+INFO - 2017-09-09 14:20:45 --> Config Class Initialized
+INFO - 2017-09-09 14:20:45 --> Loader Class Initialized
+INFO - 2017-09-09 14:20:45 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:20:45 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:20:45 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:20:45 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:20:45 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:20:45 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:20:45 --> Email Class Initialized
+INFO - 2017-09-09 14:20:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:20:45 --> Controller Class Initialized
+INFO - 2017-09-09 14:20:45 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:20:45 --> Model Class Initialized
+INFO - 2017-09-09 14:20:45 --> Model Class Initialized
+INFO - 2017-09-09 14:20:46 --> Config Class Initialized
+INFO - 2017-09-09 14:20:46 --> Hooks Class Initialized
+INFO - 2017-09-09 14:20:46 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:20:46 --> URI Class Initialized
+INFO - 2017-09-09 14:20:46 --> Router Class Initialized
+INFO - 2017-09-09 14:20:46 --> Output Class Initialized
+INFO - 2017-09-09 14:20:46 --> Security Class Initialized
+INFO - 2017-09-09 14:20:46 --> Input Class Initialized
+INFO - 2017-09-09 14:20:46 --> Language Class Initialized
+INFO - 2017-09-09 14:20:46 --> Language Class Initialized
+INFO - 2017-09-09 14:20:46 --> Config Class Initialized
+INFO - 2017-09-09 14:20:46 --> Loader Class Initialized
+INFO - 2017-09-09 14:20:46 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:20:46 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:20:46 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:20:46 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:20:46 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:20:46 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:20:46 --> Email Class Initialized
+INFO - 2017-09-09 14:20:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:20:46 --> Controller Class Initialized
+INFO - 2017-09-09 14:20:46 --> Model Class Initialized
+INFO - 2017-09-09 14:20:46 --> Model Class Initialized
+INFO - 2017-09-09 14:20:46 --> Model Class Initialized
+INFO - 2017-09-09 14:20:46 --> Model Class Initialized
+INFO - 2017-09-09 14:20:46 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:20:46 --> Final output sent to browser
+INFO - 2017-09-09 14:20:47 --> Final output sent to browser
+INFO - 2017-09-09 14:21:42 --> Config Class Initialized
+INFO - 2017-09-09 14:21:42 --> Hooks Class Initialized
+INFO - 2017-09-09 14:21:42 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:21:42 --> URI Class Initialized
+INFO - 2017-09-09 14:21:42 --> Router Class Initialized
+INFO - 2017-09-09 14:21:42 --> Output Class Initialized
+INFO - 2017-09-09 14:21:42 --> Security Class Initialized
+INFO - 2017-09-09 14:21:42 --> Input Class Initialized
+INFO - 2017-09-09 14:21:42 --> Language Class Initialized
+INFO - 2017-09-09 14:21:42 --> Language Class Initialized
+INFO - 2017-09-09 14:21:42 --> Config Class Initialized
+INFO - 2017-09-09 14:21:42 --> Loader Class Initialized
+INFO - 2017-09-09 14:21:42 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:21:42 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:21:42 --> Email Class Initialized
+INFO - 2017-09-09 14:21:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:21:42 --> Controller Class Initialized
+INFO - 2017-09-09 14:21:42 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:21:42 --> Model Class Initialized
+INFO - 2017-09-09 14:21:42 --> Model Class Initialized
+INFO - 2017-09-09 14:21:42 --> array
+INFO - 2017-09-09 14:21:42 --> Config Class Initialized
+INFO - 2017-09-09 14:21:42 --> Hooks Class Initialized
+INFO - 2017-09-09 14:21:42 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:21:42 --> URI Class Initialized
+INFO - 2017-09-09 14:21:42 --> Router Class Initialized
+INFO - 2017-09-09 14:21:42 --> Output Class Initialized
+INFO - 2017-09-09 14:21:42 --> Security Class Initialized
+INFO - 2017-09-09 14:21:42 --> Input Class Initialized
+INFO - 2017-09-09 14:21:42 --> Language Class Initialized
+INFO - 2017-09-09 14:21:42 --> Language Class Initialized
+INFO - 2017-09-09 14:21:42 --> Config Class Initialized
+INFO - 2017-09-09 14:21:42 --> Loader Class Initialized
+INFO - 2017-09-09 14:21:42 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:21:42 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:21:42 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:21:42 --> Email Class Initialized
+INFO - 2017-09-09 14:21:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:21:42 --> Controller Class Initialized
+INFO - 2017-09-09 14:21:42 --> Model Class Initialized
+INFO - 2017-09-09 14:21:42 --> Model Class Initialized
+INFO - 2017-09-09 14:21:42 --> Model Class Initialized
+INFO - 2017-09-09 14:21:42 --> Model Class Initialized
+INFO - 2017-09-09 14:21:42 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:21:42 --> Final output sent to browser
+INFO - 2017-09-09 14:21:44 --> Final output sent to browser
+INFO - 2017-09-09 14:22:21 --> Config Class Initialized
+INFO - 2017-09-09 14:22:21 --> Hooks Class Initialized
+INFO - 2017-09-09 14:22:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:22:21 --> URI Class Initialized
+INFO - 2017-09-09 14:22:21 --> Router Class Initialized
+INFO - 2017-09-09 14:22:21 --> Output Class Initialized
+INFO - 2017-09-09 14:22:21 --> Security Class Initialized
+INFO - 2017-09-09 14:22:21 --> Input Class Initialized
+INFO - 2017-09-09 14:22:21 --> Language Class Initialized
+INFO - 2017-09-09 14:22:21 --> Language Class Initialized
+INFO - 2017-09-09 14:22:21 --> Config Class Initialized
+INFO - 2017-09-09 14:22:21 --> Loader Class Initialized
+INFO - 2017-09-09 14:22:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:22:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:22:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:22:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:22:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:22:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:22:21 --> Email Class Initialized
+INFO - 2017-09-09 14:22:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:22:21 --> Controller Class Initialized
+INFO - 2017-09-09 14:22:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:22:21 --> Model Class Initialized
+INFO - 2017-09-09 14:22:21 --> Model Class Initialized
+INFO - 2017-09-09 14:22:21 --> 7777777777777777777777777777777array
+INFO - 2017-09-09 14:22:22 --> Config Class Initialized
+INFO - 2017-09-09 14:22:22 --> Hooks Class Initialized
+INFO - 2017-09-09 14:22:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:22:22 --> URI Class Initialized
+INFO - 2017-09-09 14:22:22 --> Router Class Initialized
+INFO - 2017-09-09 14:22:22 --> Output Class Initialized
+INFO - 2017-09-09 14:22:22 --> Security Class Initialized
+INFO - 2017-09-09 14:22:22 --> Input Class Initialized
+INFO - 2017-09-09 14:22:22 --> Language Class Initialized
+INFO - 2017-09-09 14:22:22 --> Language Class Initialized
+INFO - 2017-09-09 14:22:22 --> Config Class Initialized
+INFO - 2017-09-09 14:22:22 --> Loader Class Initialized
+INFO - 2017-09-09 14:22:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:22:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:22:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:22:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:22:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:22:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:22:22 --> Email Class Initialized
+INFO - 2017-09-09 14:22:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:22:22 --> Controller Class Initialized
+INFO - 2017-09-09 14:22:22 --> Model Class Initialized
+INFO - 2017-09-09 14:22:22 --> Model Class Initialized
+INFO - 2017-09-09 14:22:22 --> Model Class Initialized
+INFO - 2017-09-09 14:22:22 --> Model Class Initialized
+INFO - 2017-09-09 14:22:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:22:22 --> Final output sent to browser
+INFO - 2017-09-09 14:22:24 --> Final output sent to browser
+INFO - 2017-09-09 14:23:51 --> Config Class Initialized
+INFO - 2017-09-09 14:23:51 --> Hooks Class Initialized
+INFO - 2017-09-09 14:23:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:23:51 --> URI Class Initialized
+INFO - 2017-09-09 14:23:51 --> Router Class Initialized
+INFO - 2017-09-09 14:23:51 --> Output Class Initialized
+INFO - 2017-09-09 14:23:51 --> Security Class Initialized
+INFO - 2017-09-09 14:23:51 --> Input Class Initialized
+INFO - 2017-09-09 14:23:51 --> Language Class Initialized
+INFO - 2017-09-09 14:23:51 --> Language Class Initialized
+INFO - 2017-09-09 14:23:51 --> Config Class Initialized
+INFO - 2017-09-09 14:23:51 --> Loader Class Initialized
+INFO - 2017-09-09 14:23:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:23:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:23:51 --> Email Class Initialized
+INFO - 2017-09-09 14:23:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:23:51 --> Controller Class Initialized
+INFO - 2017-09-09 14:23:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:23:51 --> Model Class Initialized
+INFO - 2017-09-09 14:23:51 --> Model Class Initialized
+INFO - 2017-09-09 14:23:51 --> 7777777777777777777777777777777array
+INFO - 2017-09-09 14:23:51 --> Config Class Initialized
+INFO - 2017-09-09 14:23:51 --> Hooks Class Initialized
+INFO - 2017-09-09 14:23:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:23:51 --> URI Class Initialized
+INFO - 2017-09-09 14:23:51 --> Router Class Initialized
+INFO - 2017-09-09 14:23:51 --> Output Class Initialized
+INFO - 2017-09-09 14:23:51 --> Security Class Initialized
+INFO - 2017-09-09 14:23:51 --> Input Class Initialized
+INFO - 2017-09-09 14:23:51 --> Language Class Initialized
+INFO - 2017-09-09 14:23:51 --> Language Class Initialized
+INFO - 2017-09-09 14:23:51 --> Config Class Initialized
+INFO - 2017-09-09 14:23:51 --> Loader Class Initialized
+INFO - 2017-09-09 14:23:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:23:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:23:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:23:51 --> Email Class Initialized
+INFO - 2017-09-09 14:23:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:23:51 --> Controller Class Initialized
+INFO - 2017-09-09 14:23:51 --> Model Class Initialized
+INFO - 2017-09-09 14:23:51 --> Model Class Initialized
+INFO - 2017-09-09 14:23:51 --> Model Class Initialized
+INFO - 2017-09-09 14:23:51 --> Model Class Initialized
+INFO - 2017-09-09 14:23:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:23:51 --> Final output sent to browser
+INFO - 2017-09-09 14:23:53 --> Final output sent to browser
+INFO - 2017-09-09 14:35:30 --> Config Class Initialized
+INFO - 2017-09-09 14:35:30 --> Hooks Class Initialized
+INFO - 2017-09-09 14:35:30 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:35:30 --> URI Class Initialized
+INFO - 2017-09-09 14:35:30 --> Router Class Initialized
+INFO - 2017-09-09 14:35:30 --> Output Class Initialized
+INFO - 2017-09-09 14:35:30 --> Security Class Initialized
+INFO - 2017-09-09 14:35:30 --> Input Class Initialized
+INFO - 2017-09-09 14:35:30 --> Language Class Initialized
+INFO - 2017-09-09 14:35:30 --> Language Class Initialized
+INFO - 2017-09-09 14:35:30 --> Config Class Initialized
+INFO - 2017-09-09 14:35:30 --> Loader Class Initialized
+INFO - 2017-09-09 14:35:30 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:35:30 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:35:30 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:35:30 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:35:30 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:35:30 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:35:30 --> Email Class Initialized
+INFO - 2017-09-09 14:35:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:35:30 --> Controller Class Initialized
+INFO - 2017-09-09 14:35:30 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:35:30 --> Model Class Initialized
+INFO - 2017-09-09 14:35:30 --> Model Class Initialized
+INFO - 2017-09-09 14:35:30 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:35:31 --> Config Class Initialized
+INFO - 2017-09-09 14:35:31 --> Hooks Class Initialized
+INFO - 2017-09-09 14:35:31 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:35:31 --> URI Class Initialized
+INFO - 2017-09-09 14:35:31 --> Router Class Initialized
+INFO - 2017-09-09 14:35:31 --> Output Class Initialized
+INFO - 2017-09-09 14:35:31 --> Security Class Initialized
+INFO - 2017-09-09 14:35:31 --> Input Class Initialized
+INFO - 2017-09-09 14:35:31 --> Language Class Initialized
+INFO - 2017-09-09 14:35:31 --> Language Class Initialized
+INFO - 2017-09-09 14:35:31 --> Config Class Initialized
+INFO - 2017-09-09 14:35:31 --> Loader Class Initialized
+INFO - 2017-09-09 14:35:31 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:35:31 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:35:31 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:35:31 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:35:31 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:35:31 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:35:31 --> Email Class Initialized
+INFO - 2017-09-09 14:35:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:35:31 --> Controller Class Initialized
+INFO - 2017-09-09 14:35:31 --> Model Class Initialized
+INFO - 2017-09-09 14:35:31 --> Model Class Initialized
+INFO - 2017-09-09 14:35:31 --> Model Class Initialized
+INFO - 2017-09-09 14:35:31 --> Model Class Initialized
+INFO - 2017-09-09 14:35:31 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:35:31 --> Final output sent to browser
+INFO - 2017-09-09 14:35:32 --> Final output sent to browser
+INFO - 2017-09-09 14:35:57 --> Config Class Initialized
+INFO - 2017-09-09 14:35:57 --> Hooks Class Initialized
+INFO - 2017-09-09 14:35:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:35:57 --> URI Class Initialized
+INFO - 2017-09-09 14:35:57 --> Router Class Initialized
+INFO - 2017-09-09 14:35:57 --> Output Class Initialized
+INFO - 2017-09-09 14:35:57 --> Security Class Initialized
+INFO - 2017-09-09 14:35:57 --> Input Class Initialized
+INFO - 2017-09-09 14:35:57 --> Language Class Initialized
+INFO - 2017-09-09 14:35:57 --> Language Class Initialized
+INFO - 2017-09-09 14:35:57 --> Config Class Initialized
+INFO - 2017-09-09 14:35:57 --> Loader Class Initialized
+INFO - 2017-09-09 14:35:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:35:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:35:57 --> Email Class Initialized
+INFO - 2017-09-09 14:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:35:57 --> Controller Class Initialized
+INFO - 2017-09-09 14:35:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:35:57 --> Model Class Initialized
+INFO - 2017-09-09 14:35:57 --> Model Class Initialized
+INFO - 2017-09-09 14:35:57 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:35:57 --> Config Class Initialized
+INFO - 2017-09-09 14:35:57 --> Hooks Class Initialized
+INFO - 2017-09-09 14:35:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:35:57 --> URI Class Initialized
+INFO - 2017-09-09 14:35:57 --> Router Class Initialized
+INFO - 2017-09-09 14:35:57 --> Output Class Initialized
+INFO - 2017-09-09 14:35:57 --> Security Class Initialized
+INFO - 2017-09-09 14:35:57 --> Input Class Initialized
+INFO - 2017-09-09 14:35:57 --> Language Class Initialized
+INFO - 2017-09-09 14:35:57 --> Language Class Initialized
+INFO - 2017-09-09 14:35:57 --> Config Class Initialized
+INFO - 2017-09-09 14:35:57 --> Loader Class Initialized
+INFO - 2017-09-09 14:35:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:35:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:35:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:35:57 --> Email Class Initialized
+INFO - 2017-09-09 14:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:35:57 --> Controller Class Initialized
+INFO - 2017-09-09 14:35:57 --> Model Class Initialized
+INFO - 2017-09-09 14:35:57 --> Model Class Initialized
+INFO - 2017-09-09 14:35:57 --> Model Class Initialized
+INFO - 2017-09-09 14:35:57 --> Model Class Initialized
+INFO - 2017-09-09 14:35:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:35:57 --> Final output sent to browser
+INFO - 2017-09-09 14:35:59 --> Final output sent to browser
+INFO - 2017-09-09 14:36:09 --> Config Class Initialized
+INFO - 2017-09-09 14:36:09 --> Hooks Class Initialized
+INFO - 2017-09-09 14:36:09 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:36:09 --> URI Class Initialized
+INFO - 2017-09-09 14:36:09 --> Router Class Initialized
+INFO - 2017-09-09 14:36:09 --> Output Class Initialized
+INFO - 2017-09-09 14:36:09 --> Security Class Initialized
+INFO - 2017-09-09 14:36:09 --> Input Class Initialized
+INFO - 2017-09-09 14:36:09 --> Language Class Initialized
+INFO - 2017-09-09 14:36:09 --> Language Class Initialized
+INFO - 2017-09-09 14:36:09 --> Config Class Initialized
+INFO - 2017-09-09 14:36:09 --> Loader Class Initialized
+INFO - 2017-09-09 14:36:09 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:36:09 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:36:09 --> Email Class Initialized
+INFO - 2017-09-09 14:36:09 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:36:09 --> Controller Class Initialized
+INFO - 2017-09-09 14:36:09 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:36:09 --> Model Class Initialized
+INFO - 2017-09-09 14:36:09 --> Model Class Initialized
+INFO - 2017-09-09 14:36:09 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:36:09 --> Config Class Initialized
+INFO - 2017-09-09 14:36:09 --> Hooks Class Initialized
+INFO - 2017-09-09 14:36:09 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:36:09 --> URI Class Initialized
+INFO - 2017-09-09 14:36:09 --> Router Class Initialized
+INFO - 2017-09-09 14:36:09 --> Output Class Initialized
+INFO - 2017-09-09 14:36:09 --> Security Class Initialized
+INFO - 2017-09-09 14:36:09 --> Input Class Initialized
+INFO - 2017-09-09 14:36:09 --> Language Class Initialized
+INFO - 2017-09-09 14:36:09 --> Language Class Initialized
+INFO - 2017-09-09 14:36:09 --> Config Class Initialized
+INFO - 2017-09-09 14:36:09 --> Loader Class Initialized
+INFO - 2017-09-09 14:36:09 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:36:09 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:36:09 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:36:09 --> Email Class Initialized
+INFO - 2017-09-09 14:36:09 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:36:09 --> Controller Class Initialized
+INFO - 2017-09-09 14:36:09 --> Model Class Initialized
+INFO - 2017-09-09 14:36:09 --> Model Class Initialized
+INFO - 2017-09-09 14:36:09 --> Model Class Initialized
+INFO - 2017-09-09 14:36:09 --> Model Class Initialized
+INFO - 2017-09-09 14:36:09 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:36:09 --> Final output sent to browser
+INFO - 2017-09-09 14:36:11 --> Final output sent to browser
+INFO - 2017-09-09 14:55:25 --> Config Class Initialized
+INFO - 2017-09-09 14:55:25 --> Hooks Class Initialized
+INFO - 2017-09-09 14:55:25 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:55:25 --> URI Class Initialized
+INFO - 2017-09-09 14:55:25 --> Router Class Initialized
+INFO - 2017-09-09 14:55:25 --> Output Class Initialized
+INFO - 2017-09-09 14:55:25 --> Security Class Initialized
+INFO - 2017-09-09 14:55:25 --> Input Class Initialized
+INFO - 2017-09-09 14:55:25 --> Language Class Initialized
+INFO - 2017-09-09 14:55:25 --> Language Class Initialized
+INFO - 2017-09-09 14:55:25 --> Config Class Initialized
+INFO - 2017-09-09 14:55:25 --> Loader Class Initialized
+INFO - 2017-09-09 14:55:25 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:55:25 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:55:25 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:55:25 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:55:25 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:55:25 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:55:25 --> Email Class Initialized
+INFO - 2017-09-09 14:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:55:25 --> Controller Class Initialized
+INFO - 2017-09-09 14:55:25 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:55:25 --> Model Class Initialized
+INFO - 2017-09-09 14:55:25 --> Model Class Initialized
+INFO - 2017-09-09 14:55:30 --> Config Class Initialized
+INFO - 2017-09-09 14:55:30 --> Hooks Class Initialized
+INFO - 2017-09-09 14:55:30 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:55:30 --> URI Class Initialized
+INFO - 2017-09-09 14:55:30 --> Router Class Initialized
+INFO - 2017-09-09 14:55:30 --> Output Class Initialized
+INFO - 2017-09-09 14:55:30 --> Security Class Initialized
+INFO - 2017-09-09 14:55:30 --> Input Class Initialized
+INFO - 2017-09-09 14:55:30 --> Language Class Initialized
+INFO - 2017-09-09 14:55:30 --> Language Class Initialized
+INFO - 2017-09-09 14:55:30 --> Config Class Initialized
+INFO - 2017-09-09 14:55:30 --> Loader Class Initialized
+INFO - 2017-09-09 14:55:30 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:55:30 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:55:30 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:55:30 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:55:30 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:55:30 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:55:30 --> Email Class Initialized
+INFO - 2017-09-09 14:55:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:55:30 --> Controller Class Initialized
+INFO - 2017-09-09 14:55:30 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:55:30 --> Model Class Initialized
+INFO - 2017-09-09 14:55:30 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> Config Class Initialized
+INFO - 2017-09-09 14:56:43 --> Hooks Class Initialized
+INFO - 2017-09-09 14:56:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:56:43 --> URI Class Initialized
+INFO - 2017-09-09 14:56:43 --> Router Class Initialized
+INFO - 2017-09-09 14:56:43 --> Output Class Initialized
+INFO - 2017-09-09 14:56:43 --> Security Class Initialized
+INFO - 2017-09-09 14:56:43 --> Input Class Initialized
+INFO - 2017-09-09 14:56:43 --> Language Class Initialized
+INFO - 2017-09-09 14:56:43 --> Language Class Initialized
+INFO - 2017-09-09 14:56:43 --> Config Class Initialized
+INFO - 2017-09-09 14:56:43 --> Loader Class Initialized
+INFO - 2017-09-09 14:56:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:56:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:56:43 --> Email Class Initialized
+INFO - 2017-09-09 14:56:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:56:43 --> Controller Class Initialized
+INFO - 2017-09-09 14:56:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:56:43 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:56:43 --> Config Class Initialized
+INFO - 2017-09-09 14:56:43 --> Hooks Class Initialized
+INFO - 2017-09-09 14:56:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:56:43 --> URI Class Initialized
+INFO - 2017-09-09 14:56:43 --> Router Class Initialized
+INFO - 2017-09-09 14:56:43 --> Output Class Initialized
+INFO - 2017-09-09 14:56:43 --> Security Class Initialized
+INFO - 2017-09-09 14:56:43 --> Input Class Initialized
+INFO - 2017-09-09 14:56:43 --> Language Class Initialized
+INFO - 2017-09-09 14:56:43 --> Language Class Initialized
+INFO - 2017-09-09 14:56:43 --> Config Class Initialized
+INFO - 2017-09-09 14:56:43 --> Loader Class Initialized
+INFO - 2017-09-09 14:56:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:56:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:56:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:56:43 --> Email Class Initialized
+INFO - 2017-09-09 14:56:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:56:43 --> Controller Class Initialized
+INFO - 2017-09-09 14:56:43 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> Model Class Initialized
+INFO - 2017-09-09 14:56:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:56:43 --> Final output sent to browser
+INFO - 2017-09-09 14:56:45 --> Final output sent to browser
+INFO - 2017-09-09 14:56:46 --> Config Class Initialized
+INFO - 2017-09-09 14:56:46 --> Hooks Class Initialized
+INFO - 2017-09-09 14:56:46 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:56:46 --> URI Class Initialized
+INFO - 2017-09-09 14:56:46 --> Router Class Initialized
+INFO - 2017-09-09 14:56:46 --> Output Class Initialized
+INFO - 2017-09-09 14:56:46 --> Security Class Initialized
+INFO - 2017-09-09 14:56:46 --> Input Class Initialized
+INFO - 2017-09-09 14:56:46 --> Language Class Initialized
+INFO - 2017-09-09 14:56:46 --> Language Class Initialized
+INFO - 2017-09-09 14:56:46 --> Config Class Initialized
+INFO - 2017-09-09 14:56:46 --> Loader Class Initialized
+INFO - 2017-09-09 14:56:46 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:56:46 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:56:46 --> Email Class Initialized
+INFO - 2017-09-09 14:56:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:56:46 --> Controller Class Initialized
+INFO - 2017-09-09 14:56:46 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:56:46 --> Model Class Initialized
+INFO - 2017-09-09 14:56:46 --> Model Class Initialized
+INFO - 2017-09-09 14:56:46 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:56:46 --> Config Class Initialized
+INFO - 2017-09-09 14:56:46 --> Hooks Class Initialized
+INFO - 2017-09-09 14:56:46 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:56:46 --> URI Class Initialized
+INFO - 2017-09-09 14:56:46 --> Router Class Initialized
+INFO - 2017-09-09 14:56:46 --> Output Class Initialized
+INFO - 2017-09-09 14:56:46 --> Security Class Initialized
+INFO - 2017-09-09 14:56:46 --> Input Class Initialized
+INFO - 2017-09-09 14:56:46 --> Language Class Initialized
+INFO - 2017-09-09 14:56:46 --> Language Class Initialized
+INFO - 2017-09-09 14:56:46 --> Config Class Initialized
+INFO - 2017-09-09 14:56:46 --> Loader Class Initialized
+INFO - 2017-09-09 14:56:46 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:56:46 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:56:46 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:56:46 --> Email Class Initialized
+INFO - 2017-09-09 14:56:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:56:46 --> Controller Class Initialized
+INFO - 2017-09-09 14:56:46 --> Model Class Initialized
+INFO - 2017-09-09 14:56:46 --> Model Class Initialized
+INFO - 2017-09-09 14:56:46 --> Model Class Initialized
+INFO - 2017-09-09 14:56:46 --> Model Class Initialized
+INFO - 2017-09-09 14:56:46 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:56:46 --> Final output sent to browser
+INFO - 2017-09-09 14:56:47 --> Final output sent to browser
+INFO - 2017-09-09 14:57:59 --> Config Class Initialized
+INFO - 2017-09-09 14:57:59 --> Hooks Class Initialized
+INFO - 2017-09-09 14:57:59 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:57:59 --> URI Class Initialized
+INFO - 2017-09-09 14:57:59 --> Router Class Initialized
+INFO - 2017-09-09 14:57:59 --> Output Class Initialized
+INFO - 2017-09-09 14:57:59 --> Security Class Initialized
+INFO - 2017-09-09 14:57:59 --> Input Class Initialized
+INFO - 2017-09-09 14:57:59 --> Language Class Initialized
+INFO - 2017-09-09 14:57:59 --> Language Class Initialized
+INFO - 2017-09-09 14:57:59 --> Config Class Initialized
+INFO - 2017-09-09 14:57:59 --> Loader Class Initialized
+INFO - 2017-09-09 14:57:59 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:57:59 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:57:59 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:57:59 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:57:59 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:57:59 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:57:59 --> Email Class Initialized
+INFO - 2017-09-09 14:57:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:57:59 --> Controller Class Initialized
+INFO - 2017-09-09 14:57:59 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:57:59 --> Model Class Initialized
+INFO - 2017-09-09 14:57:59 --> Model Class Initialized
+INFO - 2017-09-09 14:57:59 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:58:08 --> Config Class Initialized
+INFO - 2017-09-09 14:58:08 --> Hooks Class Initialized
+INFO - 2017-09-09 14:58:08 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:58:08 --> URI Class Initialized
+INFO - 2017-09-09 14:58:08 --> Router Class Initialized
+INFO - 2017-09-09 14:58:08 --> Output Class Initialized
+INFO - 2017-09-09 14:58:08 --> Security Class Initialized
+INFO - 2017-09-09 14:58:08 --> Input Class Initialized
+INFO - 2017-09-09 14:58:08 --> Language Class Initialized
+INFO - 2017-09-09 14:58:08 --> Language Class Initialized
+INFO - 2017-09-09 14:58:08 --> Config Class Initialized
+INFO - 2017-09-09 14:58:08 --> Loader Class Initialized
+INFO - 2017-09-09 14:58:08 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:58:08 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:58:08 --> Email Class Initialized
+INFO - 2017-09-09 14:58:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:58:08 --> Controller Class Initialized
+INFO - 2017-09-09 14:58:08 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:58:08 --> Model Class Initialized
+INFO - 2017-09-09 14:58:08 --> Model Class Initialized
+INFO - 2017-09-09 14:58:08 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:58:08 --> Config Class Initialized
+INFO - 2017-09-09 14:58:08 --> Hooks Class Initialized
+INFO - 2017-09-09 14:58:08 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:58:08 --> URI Class Initialized
+INFO - 2017-09-09 14:58:08 --> Router Class Initialized
+INFO - 2017-09-09 14:58:08 --> Output Class Initialized
+INFO - 2017-09-09 14:58:08 --> Security Class Initialized
+INFO - 2017-09-09 14:58:08 --> Input Class Initialized
+INFO - 2017-09-09 14:58:08 --> Language Class Initialized
+INFO - 2017-09-09 14:58:08 --> Language Class Initialized
+INFO - 2017-09-09 14:58:08 --> Config Class Initialized
+INFO - 2017-09-09 14:58:08 --> Loader Class Initialized
+INFO - 2017-09-09 14:58:08 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:58:08 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:58:08 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:58:08 --> Email Class Initialized
+INFO - 2017-09-09 14:58:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:58:08 --> Controller Class Initialized
+INFO - 2017-09-09 14:58:08 --> Model Class Initialized
+INFO - 2017-09-09 14:58:08 --> Model Class Initialized
+INFO - 2017-09-09 14:58:08 --> Model Class Initialized
+INFO - 2017-09-09 14:58:08 --> Model Class Initialized
+INFO - 2017-09-09 14:58:08 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:58:08 --> Final output sent to browser
+INFO - 2017-09-09 14:58:11 --> Final output sent to browser
+INFO - 2017-09-09 14:58:51 --> Config Class Initialized
+INFO - 2017-09-09 14:58:51 --> Hooks Class Initialized
+INFO - 2017-09-09 14:58:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:58:51 --> URI Class Initialized
+INFO - 2017-09-09 14:58:51 --> Router Class Initialized
+INFO - 2017-09-09 14:58:51 --> Output Class Initialized
+INFO - 2017-09-09 14:58:51 --> Security Class Initialized
+INFO - 2017-09-09 14:58:51 --> Input Class Initialized
+INFO - 2017-09-09 14:58:51 --> Language Class Initialized
+INFO - 2017-09-09 14:58:51 --> Language Class Initialized
+INFO - 2017-09-09 14:58:51 --> Config Class Initialized
+INFO - 2017-09-09 14:58:51 --> Loader Class Initialized
+INFO - 2017-09-09 14:58:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:58:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:58:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:58:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:58:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:58:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:58:51 --> Email Class Initialized
+INFO - 2017-09-09 14:58:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:58:51 --> Controller Class Initialized
+INFO - 2017-09-09 14:58:51 --> Model Class Initialized
+INFO - 2017-09-09 14:58:51 --> Model Class Initialized
+INFO - 2017-09-09 14:58:51 --> Model Class Initialized
+INFO - 2017-09-09 14:58:51 --> Model Class Initialized
+INFO - 2017-09-09 14:58:51 --> Model Class Initialized
+INFO - 2017-09-09 14:58:51 --> Model Class Initialized
+INFO - 2017-09-09 14:58:51 --> Helper loaded: form_helper
+INFO - 2017-09-09 14:58:51 --> Form Validation Class Initialized
+INFO - 2017-09-09 14:58:51 --> Final output sent to browser
+INFO - 2017-09-09 14:58:52 --> Config Class Initialized
+INFO - 2017-09-09 14:58:52 --> Hooks Class Initialized
+INFO - 2017-09-09 14:58:52 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:58:52 --> URI Class Initialized
+INFO - 2017-09-09 14:58:52 --> Router Class Initialized
+INFO - 2017-09-09 14:58:52 --> Output Class Initialized
+INFO - 2017-09-09 14:58:52 --> Security Class Initialized
+INFO - 2017-09-09 14:58:52 --> Input Class Initialized
+INFO - 2017-09-09 14:58:52 --> Language Class Initialized
+INFO - 2017-09-09 14:58:52 --> Language Class Initialized
+INFO - 2017-09-09 14:58:52 --> Config Class Initialized
+INFO - 2017-09-09 14:58:52 --> Loader Class Initialized
+INFO - 2017-09-09 14:58:52 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:58:52 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:58:52 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:58:52 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:58:52 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:58:52 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:58:52 --> Email Class Initialized
+INFO - 2017-09-09 14:58:52 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:58:52 --> Controller Class Initialized
+INFO - 2017-09-09 14:58:59 --> Config Class Initialized
+INFO - 2017-09-09 14:58:59 --> Hooks Class Initialized
+INFO - 2017-09-09 14:58:59 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:58:59 --> URI Class Initialized
+INFO - 2017-09-09 14:58:59 --> Router Class Initialized
+INFO - 2017-09-09 14:58:59 --> Output Class Initialized
+INFO - 2017-09-09 14:58:59 --> Security Class Initialized
+INFO - 2017-09-09 14:58:59 --> Input Class Initialized
+INFO - 2017-09-09 14:58:59 --> Language Class Initialized
+INFO - 2017-09-09 14:58:59 --> Language Class Initialized
+INFO - 2017-09-09 14:58:59 --> Config Class Initialized
+INFO - 2017-09-09 14:58:59 --> Loader Class Initialized
+INFO - 2017-09-09 14:58:59 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:58:59 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:58:59 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:58:59 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:58:59 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:58:59 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:58:59 --> Email Class Initialized
+INFO - 2017-09-09 14:58:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:58:59 --> Controller Class Initialized
+INFO - 2017-09-09 14:58:59 --> Model Class Initialized
+INFO - 2017-09-09 14:58:59 --> Model Class Initialized
+INFO - 2017-09-09 14:58:59 --> Model Class Initialized
+INFO - 2017-09-09 14:58:59 --> Model Class Initialized
+INFO - 2017-09-09 14:58:59 --> Model Class Initialized
+INFO - 2017-09-09 14:58:59 --> Model Class Initialized
+INFO - 2017-09-09 14:58:59 --> Helper loaded: form_helper
+INFO - 2017-09-09 14:58:59 --> Form Validation Class Initialized
+INFO - 2017-09-09 14:58:59 --> USER_INFO 3
+INFO - 2017-09-09 14:58:59 --> ID: 3 CURRENT: 1 New :0
+INFO - 2017-09-09 14:58:59 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '3'
+INFO - 2017-09-09 14:58:59 --> Final output sent to browser
+INFO - 2017-09-09 14:59:02 --> Config Class Initialized
+INFO - 2017-09-09 14:59:02 --> Hooks Class Initialized
+INFO - 2017-09-09 14:59:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:59:02 --> URI Class Initialized
+INFO - 2017-09-09 14:59:02 --> Router Class Initialized
+INFO - 2017-09-09 14:59:02 --> Output Class Initialized
+INFO - 2017-09-09 14:59:02 --> Security Class Initialized
+INFO - 2017-09-09 14:59:02 --> Input Class Initialized
+INFO - 2017-09-09 14:59:02 --> Language Class Initialized
+INFO - 2017-09-09 14:59:02 --> Language Class Initialized
+INFO - 2017-09-09 14:59:02 --> Config Class Initialized
+INFO - 2017-09-09 14:59:02 --> Loader Class Initialized
+INFO - 2017-09-09 14:59:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:59:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:59:02 --> Email Class Initialized
+INFO - 2017-09-09 14:59:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:59:02 --> Controller Class Initialized
+INFO - 2017-09-09 14:59:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:59:02 --> Model Class Initialized
+INFO - 2017-09-09 14:59:02 --> Model Class Initialized
+INFO - 2017-09-09 14:59:02 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 14:59:02 --> Config Class Initialized
+INFO - 2017-09-09 14:59:02 --> Hooks Class Initialized
+INFO - 2017-09-09 14:59:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 14:59:02 --> URI Class Initialized
+INFO - 2017-09-09 14:59:02 --> Router Class Initialized
+INFO - 2017-09-09 14:59:02 --> Output Class Initialized
+INFO - 2017-09-09 14:59:02 --> Security Class Initialized
+INFO - 2017-09-09 14:59:02 --> Input Class Initialized
+INFO - 2017-09-09 14:59:02 --> Language Class Initialized
+INFO - 2017-09-09 14:59:02 --> Language Class Initialized
+INFO - 2017-09-09 14:59:02 --> Config Class Initialized
+INFO - 2017-09-09 14:59:02 --> Loader Class Initialized
+INFO - 2017-09-09 14:59:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 14:59:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 14:59:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 14:59:02 --> Email Class Initialized
+INFO - 2017-09-09 14:59:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 14:59:02 --> Controller Class Initialized
+INFO - 2017-09-09 14:59:02 --> Model Class Initialized
+INFO - 2017-09-09 14:59:02 --> Model Class Initialized
+INFO - 2017-09-09 14:59:02 --> Model Class Initialized
+INFO - 2017-09-09 14:59:02 --> Model Class Initialized
+INFO - 2017-09-09 14:59:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 14:59:02 --> Final output sent to browser
+INFO - 2017-09-09 14:59:03 --> Final output sent to browser
+INFO - 2017-09-09 15:00:38 --> Config Class Initialized
+INFO - 2017-09-09 15:00:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:00:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:00:38 --> URI Class Initialized
+INFO - 2017-09-09 15:00:38 --> Router Class Initialized
+INFO - 2017-09-09 15:00:38 --> Output Class Initialized
+INFO - 2017-09-09 15:00:38 --> Security Class Initialized
+INFO - 2017-09-09 15:00:38 --> Input Class Initialized
+INFO - 2017-09-09 15:00:38 --> Language Class Initialized
+INFO - 2017-09-09 15:00:38 --> Language Class Initialized
+INFO - 2017-09-09 15:00:38 --> Config Class Initialized
+INFO - 2017-09-09 15:00:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:00:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:00:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:00:38 --> Email Class Initialized
+INFO - 2017-09-09 15:00:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:00:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:00:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:00:38 --> Model Class Initialized
+INFO - 2017-09-09 15:00:38 --> Model Class Initialized
+INFO - 2017-09-09 15:00:38 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:00:38 --> Config Class Initialized
+INFO - 2017-09-09 15:00:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:00:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:00:38 --> URI Class Initialized
+INFO - 2017-09-09 15:00:38 --> Router Class Initialized
+INFO - 2017-09-09 15:00:38 --> Output Class Initialized
+INFO - 2017-09-09 15:00:38 --> Security Class Initialized
+INFO - 2017-09-09 15:00:38 --> Input Class Initialized
+INFO - 2017-09-09 15:00:38 --> Language Class Initialized
+INFO - 2017-09-09 15:00:38 --> Language Class Initialized
+INFO - 2017-09-09 15:00:38 --> Config Class Initialized
+INFO - 2017-09-09 15:00:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:00:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:00:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:00:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:00:38 --> Email Class Initialized
+INFO - 2017-09-09 15:00:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:00:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:00:38 --> Model Class Initialized
+INFO - 2017-09-09 15:00:38 --> Model Class Initialized
+INFO - 2017-09-09 15:00:38 --> Model Class Initialized
+INFO - 2017-09-09 15:00:38 --> Model Class Initialized
+INFO - 2017-09-09 15:00:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:00:38 --> Final output sent to browser
+INFO - 2017-09-09 15:00:40 --> Final output sent to browser
+INFO - 2017-09-09 15:00:44 --> Config Class Initialized
+INFO - 2017-09-09 15:00:44 --> Hooks Class Initialized
+INFO - 2017-09-09 15:00:44 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:00:44 --> URI Class Initialized
+INFO - 2017-09-09 15:00:44 --> Router Class Initialized
+INFO - 2017-09-09 15:00:44 --> Output Class Initialized
+INFO - 2017-09-09 15:00:44 --> Security Class Initialized
+INFO - 2017-09-09 15:00:44 --> Input Class Initialized
+INFO - 2017-09-09 15:00:44 --> Language Class Initialized
+INFO - 2017-09-09 15:00:44 --> Language Class Initialized
+INFO - 2017-09-09 15:00:44 --> Config Class Initialized
+INFO - 2017-09-09 15:00:44 --> Loader Class Initialized
+INFO - 2017-09-09 15:00:44 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:00:44 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:00:44 --> Email Class Initialized
+INFO - 2017-09-09 15:00:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:00:44 --> Controller Class Initialized
+INFO - 2017-09-09 15:00:44 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:00:44 --> Model Class Initialized
+INFO - 2017-09-09 15:00:44 --> Model Class Initialized
+INFO - 2017-09-09 15:00:44 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:00:44 --> Config Class Initialized
+INFO - 2017-09-09 15:00:44 --> Hooks Class Initialized
+INFO - 2017-09-09 15:00:44 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:00:44 --> URI Class Initialized
+INFO - 2017-09-09 15:00:44 --> Router Class Initialized
+INFO - 2017-09-09 15:00:44 --> Output Class Initialized
+INFO - 2017-09-09 15:00:44 --> Security Class Initialized
+INFO - 2017-09-09 15:00:44 --> Input Class Initialized
+INFO - 2017-09-09 15:00:44 --> Language Class Initialized
+INFO - 2017-09-09 15:00:44 --> Language Class Initialized
+INFO - 2017-09-09 15:00:44 --> Config Class Initialized
+INFO - 2017-09-09 15:00:44 --> Loader Class Initialized
+INFO - 2017-09-09 15:00:44 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:00:44 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:00:44 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:00:44 --> Email Class Initialized
+INFO - 2017-09-09 15:00:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:00:44 --> Controller Class Initialized
+INFO - 2017-09-09 15:00:44 --> Model Class Initialized
+INFO - 2017-09-09 15:00:44 --> Model Class Initialized
+INFO - 2017-09-09 15:00:44 --> Model Class Initialized
+INFO - 2017-09-09 15:00:44 --> Model Class Initialized
+INFO - 2017-09-09 15:00:44 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:00:44 --> Final output sent to browser
+INFO - 2017-09-09 15:00:45 --> Final output sent to browser
+INFO - 2017-09-09 15:02:03 --> Config Class Initialized
+INFO - 2017-09-09 15:02:03 --> Hooks Class Initialized
+INFO - 2017-09-09 15:02:03 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:02:03 --> URI Class Initialized
+INFO - 2017-09-09 15:02:03 --> Router Class Initialized
+INFO - 2017-09-09 15:02:03 --> Output Class Initialized
+INFO - 2017-09-09 15:02:03 --> Security Class Initialized
+INFO - 2017-09-09 15:02:03 --> Input Class Initialized
+INFO - 2017-09-09 15:02:03 --> Language Class Initialized
+INFO - 2017-09-09 15:02:03 --> Language Class Initialized
+INFO - 2017-09-09 15:02:03 --> Config Class Initialized
+INFO - 2017-09-09 15:02:03 --> Loader Class Initialized
+INFO - 2017-09-09 15:02:03 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:02:03 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:02:03 --> Email Class Initialized
+INFO - 2017-09-09 15:02:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:02:03 --> Controller Class Initialized
+INFO - 2017-09-09 15:02:03 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:02:03 --> Model Class Initialized
+INFO - 2017-09-09 15:02:03 --> Model Class Initialized
+INFO - 2017-09-09 15:02:03 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:02:03 --> Config Class Initialized
+INFO - 2017-09-09 15:02:03 --> Hooks Class Initialized
+INFO - 2017-09-09 15:02:03 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:02:03 --> URI Class Initialized
+INFO - 2017-09-09 15:02:03 --> Router Class Initialized
+INFO - 2017-09-09 15:02:03 --> Output Class Initialized
+INFO - 2017-09-09 15:02:03 --> Security Class Initialized
+INFO - 2017-09-09 15:02:03 --> Input Class Initialized
+INFO - 2017-09-09 15:02:03 --> Language Class Initialized
+INFO - 2017-09-09 15:02:03 --> Language Class Initialized
+INFO - 2017-09-09 15:02:03 --> Config Class Initialized
+INFO - 2017-09-09 15:02:03 --> Loader Class Initialized
+INFO - 2017-09-09 15:02:03 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:02:03 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:02:03 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:02:03 --> Email Class Initialized
+INFO - 2017-09-09 15:02:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:02:03 --> Controller Class Initialized
+INFO - 2017-09-09 15:02:03 --> Model Class Initialized
+INFO - 2017-09-09 15:02:03 --> Model Class Initialized
+INFO - 2017-09-09 15:02:03 --> Model Class Initialized
+INFO - 2017-09-09 15:02:03 --> Model Class Initialized
+INFO - 2017-09-09 15:02:03 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:02:03 --> Final output sent to browser
+INFO - 2017-09-09 15:02:05 --> Final output sent to browser
+INFO - 2017-09-09 15:02:38 --> Config Class Initialized
+INFO - 2017-09-09 15:02:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:02:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:02:38 --> URI Class Initialized
+INFO - 2017-09-09 15:02:38 --> Router Class Initialized
+INFO - 2017-09-09 15:02:38 --> Output Class Initialized
+INFO - 2017-09-09 15:02:38 --> Security Class Initialized
+INFO - 2017-09-09 15:02:38 --> Input Class Initialized
+INFO - 2017-09-09 15:02:38 --> Language Class Initialized
+INFO - 2017-09-09 15:02:38 --> Language Class Initialized
+INFO - 2017-09-09 15:02:38 --> Config Class Initialized
+INFO - 2017-09-09 15:02:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:02:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:02:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:02:38 --> Email Class Initialized
+INFO - 2017-09-09 15:02:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:02:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:02:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:02:38 --> Model Class Initialized
+INFO - 2017-09-09 15:02:38 --> Model Class Initialized
+INFO - 2017-09-09 15:02:38 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:02:38 --> Config Class Initialized
+INFO - 2017-09-09 15:02:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:02:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:02:38 --> URI Class Initialized
+INFO - 2017-09-09 15:02:38 --> Router Class Initialized
+INFO - 2017-09-09 15:02:38 --> Output Class Initialized
+INFO - 2017-09-09 15:02:38 --> Security Class Initialized
+INFO - 2017-09-09 15:02:38 --> Input Class Initialized
+INFO - 2017-09-09 15:02:38 --> Language Class Initialized
+INFO - 2017-09-09 15:02:38 --> Language Class Initialized
+INFO - 2017-09-09 15:02:38 --> Config Class Initialized
+INFO - 2017-09-09 15:02:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:02:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:02:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:02:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:02:38 --> Email Class Initialized
+INFO - 2017-09-09 15:02:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:02:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:02:38 --> Model Class Initialized
+INFO - 2017-09-09 15:02:38 --> Model Class Initialized
+INFO - 2017-09-09 15:02:38 --> Model Class Initialized
+INFO - 2017-09-09 15:02:38 --> Model Class Initialized
+INFO - 2017-09-09 15:02:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:02:38 --> Final output sent to browser
+INFO - 2017-09-09 15:02:41 --> Final output sent to browser
+INFO - 2017-09-09 15:02:47 --> Config Class Initialized
+INFO - 2017-09-09 15:02:47 --> Hooks Class Initialized
+INFO - 2017-09-09 15:02:47 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:02:47 --> URI Class Initialized
+INFO - 2017-09-09 15:02:47 --> Router Class Initialized
+INFO - 2017-09-09 15:02:47 --> Output Class Initialized
+INFO - 2017-09-09 15:02:47 --> Security Class Initialized
+INFO - 2017-09-09 15:02:47 --> Input Class Initialized
+INFO - 2017-09-09 15:02:47 --> Language Class Initialized
+INFO - 2017-09-09 15:02:47 --> Language Class Initialized
+INFO - 2017-09-09 15:02:47 --> Config Class Initialized
+INFO - 2017-09-09 15:02:47 --> Loader Class Initialized
+INFO - 2017-09-09 15:02:47 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:02:47 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:02:47 --> Email Class Initialized
+INFO - 2017-09-09 15:02:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:02:47 --> Controller Class Initialized
+INFO - 2017-09-09 15:02:47 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:02:47 --> Model Class Initialized
+INFO - 2017-09-09 15:02:47 --> Model Class Initialized
+INFO - 2017-09-09 15:02:47 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:02:47 --> Config Class Initialized
+INFO - 2017-09-09 15:02:47 --> Hooks Class Initialized
+INFO - 2017-09-09 15:02:47 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:02:47 --> URI Class Initialized
+INFO - 2017-09-09 15:02:47 --> Router Class Initialized
+INFO - 2017-09-09 15:02:47 --> Output Class Initialized
+INFO - 2017-09-09 15:02:47 --> Security Class Initialized
+INFO - 2017-09-09 15:02:47 --> Input Class Initialized
+INFO - 2017-09-09 15:02:47 --> Language Class Initialized
+INFO - 2017-09-09 15:02:47 --> Language Class Initialized
+INFO - 2017-09-09 15:02:47 --> Config Class Initialized
+INFO - 2017-09-09 15:02:47 --> Loader Class Initialized
+INFO - 2017-09-09 15:02:47 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:02:47 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:02:47 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:02:47 --> Email Class Initialized
+INFO - 2017-09-09 15:02:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:02:47 --> Controller Class Initialized
+INFO - 2017-09-09 15:02:47 --> Model Class Initialized
+INFO - 2017-09-09 15:02:47 --> Model Class Initialized
+INFO - 2017-09-09 15:02:47 --> Model Class Initialized
+INFO - 2017-09-09 15:02:47 --> Model Class Initialized
+INFO - 2017-09-09 15:02:47 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:02:47 --> Final output sent to browser
+INFO - 2017-09-09 15:02:49 --> Final output sent to browser
+INFO - 2017-09-09 15:03:18 --> Config Class Initialized
+INFO - 2017-09-09 15:03:18 --> Hooks Class Initialized
+INFO - 2017-09-09 15:03:18 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:03:18 --> URI Class Initialized
+INFO - 2017-09-09 15:03:18 --> Router Class Initialized
+INFO - 2017-09-09 15:03:18 --> Output Class Initialized
+INFO - 2017-09-09 15:03:18 --> Security Class Initialized
+INFO - 2017-09-09 15:03:18 --> Input Class Initialized
+INFO - 2017-09-09 15:03:18 --> Language Class Initialized
+INFO - 2017-09-09 15:03:18 --> Language Class Initialized
+INFO - 2017-09-09 15:03:18 --> Config Class Initialized
+INFO - 2017-09-09 15:03:18 --> Loader Class Initialized
+INFO - 2017-09-09 15:03:18 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:03:18 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:03:18 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:03:18 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:03:18 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:03:18 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:03:18 --> Email Class Initialized
+INFO - 2017-09-09 15:03:18 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:03:18 --> Controller Class Initialized
+INFO - 2017-09-09 15:03:18 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:03:18 --> Model Class Initialized
+INFO - 2017-09-09 15:03:18 --> Model Class Initialized
+INFO - 2017-09-09 15:03:18 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:03:19 --> Config Class Initialized
+INFO - 2017-09-09 15:03:19 --> Hooks Class Initialized
+INFO - 2017-09-09 15:03:19 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:03:19 --> URI Class Initialized
+INFO - 2017-09-09 15:03:19 --> Router Class Initialized
+INFO - 2017-09-09 15:03:19 --> Output Class Initialized
+INFO - 2017-09-09 15:03:19 --> Security Class Initialized
+INFO - 2017-09-09 15:03:19 --> Input Class Initialized
+INFO - 2017-09-09 15:03:19 --> Language Class Initialized
+INFO - 2017-09-09 15:03:19 --> Language Class Initialized
+INFO - 2017-09-09 15:03:19 --> Config Class Initialized
+INFO - 2017-09-09 15:03:19 --> Loader Class Initialized
+INFO - 2017-09-09 15:03:19 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:03:19 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:03:19 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:03:19 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:03:19 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:03:19 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:03:19 --> Email Class Initialized
+INFO - 2017-09-09 15:03:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:03:19 --> Controller Class Initialized
+INFO - 2017-09-09 15:03:19 --> Model Class Initialized
+INFO - 2017-09-09 15:03:19 --> Model Class Initialized
+INFO - 2017-09-09 15:03:19 --> Model Class Initialized
+INFO - 2017-09-09 15:03:19 --> Model Class Initialized
+INFO - 2017-09-09 15:03:19 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:03:19 --> Final output sent to browser
+INFO - 2017-09-09 15:03:20 --> Final output sent to browser
+INFO - 2017-09-09 15:04:20 --> Config Class Initialized
+INFO - 2017-09-09 15:04:20 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:20 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:20 --> URI Class Initialized
+INFO - 2017-09-09 15:04:20 --> Router Class Initialized
+INFO - 2017-09-09 15:04:20 --> Output Class Initialized
+INFO - 2017-09-09 15:04:20 --> Security Class Initialized
+INFO - 2017-09-09 15:04:20 --> Input Class Initialized
+INFO - 2017-09-09 15:04:20 --> Language Class Initialized
+INFO - 2017-09-09 15:04:20 --> Language Class Initialized
+INFO - 2017-09-09 15:04:20 --> Config Class Initialized
+INFO - 2017-09-09 15:04:20 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:20 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:20 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:20 --> Email Class Initialized
+INFO - 2017-09-09 15:04:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:20 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:20 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:04:20 --> Model Class Initialized
+INFO - 2017-09-09 15:04:20 --> Model Class Initialized
+INFO - 2017-09-09 15:04:20 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:04:20 --> Config Class Initialized
+INFO - 2017-09-09 15:04:20 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:20 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:20 --> URI Class Initialized
+INFO - 2017-09-09 15:04:20 --> Router Class Initialized
+INFO - 2017-09-09 15:04:20 --> Output Class Initialized
+INFO - 2017-09-09 15:04:20 --> Security Class Initialized
+INFO - 2017-09-09 15:04:20 --> Input Class Initialized
+INFO - 2017-09-09 15:04:20 --> Language Class Initialized
+INFO - 2017-09-09 15:04:20 --> Language Class Initialized
+INFO - 2017-09-09 15:04:20 --> Config Class Initialized
+INFO - 2017-09-09 15:04:20 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:20 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:20 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:20 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:20 --> Email Class Initialized
+INFO - 2017-09-09 15:04:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:20 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:20 --> Model Class Initialized
+INFO - 2017-09-09 15:04:20 --> Model Class Initialized
+INFO - 2017-09-09 15:04:20 --> Model Class Initialized
+INFO - 2017-09-09 15:04:20 --> Model Class Initialized
+INFO - 2017-09-09 15:04:20 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:04:20 --> Final output sent to browser
+INFO - 2017-09-09 15:04:23 --> Final output sent to browser
+INFO - 2017-09-09 15:04:36 --> Config Class Initialized
+INFO - 2017-09-09 15:04:36 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:36 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:36 --> URI Class Initialized
+INFO - 2017-09-09 15:04:36 --> Router Class Initialized
+INFO - 2017-09-09 15:04:36 --> Output Class Initialized
+INFO - 2017-09-09 15:04:36 --> Security Class Initialized
+INFO - 2017-09-09 15:04:36 --> Input Class Initialized
+INFO - 2017-09-09 15:04:36 --> Language Class Initialized
+INFO - 2017-09-09 15:04:36 --> Language Class Initialized
+INFO - 2017-09-09 15:04:36 --> Config Class Initialized
+INFO - 2017-09-09 15:04:36 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:36 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:36 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:36 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:36 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:36 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:36 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:36 --> Email Class Initialized
+INFO - 2017-09-09 15:04:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:36 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:36 --> Model Class Initialized
+INFO - 2017-09-09 15:04:36 --> Model Class Initialized
+INFO - 2017-09-09 15:04:36 --> Model Class Initialized
+INFO - 2017-09-09 15:04:36 --> Model Class Initialized
+INFO - 2017-09-09 15:04:36 --> Model Class Initialized
+INFO - 2017-09-09 15:04:36 --> Model Class Initialized
+INFO - 2017-09-09 15:04:36 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:04:36 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:04:36 --> USER_INFO 1
+INFO - 2017-09-09 15:04:36 --> ID: 1 CURRENT: 1 New :0
+INFO - 2017-09-09 15:04:36 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '1'
+INFO - 2017-09-09 15:04:36 --> Final output sent to browser
+INFO - 2017-09-09 15:04:42 --> Config Class Initialized
+INFO - 2017-09-09 15:04:42 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:42 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:42 --> URI Class Initialized
+INFO - 2017-09-09 15:04:42 --> Router Class Initialized
+INFO - 2017-09-09 15:04:42 --> Output Class Initialized
+INFO - 2017-09-09 15:04:42 --> Security Class Initialized
+INFO - 2017-09-09 15:04:42 --> Input Class Initialized
+INFO - 2017-09-09 15:04:42 --> Language Class Initialized
+INFO - 2017-09-09 15:04:42 --> Language Class Initialized
+INFO - 2017-09-09 15:04:42 --> Config Class Initialized
+INFO - 2017-09-09 15:04:42 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:42 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:42 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:42 --> Email Class Initialized
+INFO - 2017-09-09 15:04:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:42 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:42 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:04:42 --> Model Class Initialized
+INFO - 2017-09-09 15:04:42 --> Model Class Initialized
+INFO - 2017-09-09 15:04:42 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:04:42 --> Config Class Initialized
+INFO - 2017-09-09 15:04:42 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:42 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:42 --> URI Class Initialized
+INFO - 2017-09-09 15:04:42 --> Router Class Initialized
+INFO - 2017-09-09 15:04:42 --> Output Class Initialized
+INFO - 2017-09-09 15:04:42 --> Security Class Initialized
+INFO - 2017-09-09 15:04:42 --> Input Class Initialized
+INFO - 2017-09-09 15:04:42 --> Language Class Initialized
+INFO - 2017-09-09 15:04:42 --> Language Class Initialized
+INFO - 2017-09-09 15:04:42 --> Config Class Initialized
+INFO - 2017-09-09 15:04:42 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:42 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:42 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:42 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:42 --> Email Class Initialized
+INFO - 2017-09-09 15:04:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:42 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:42 --> Model Class Initialized
+INFO - 2017-09-09 15:04:42 --> Model Class Initialized
+INFO - 2017-09-09 15:04:42 --> Model Class Initialized
+INFO - 2017-09-09 15:04:42 --> Model Class Initialized
+INFO - 2017-09-09 15:04:42 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:04:42 --> Final output sent to browser
+INFO - 2017-09-09 15:04:44 --> Final output sent to browser
+INFO - 2017-09-09 15:04:55 --> Config Class Initialized
+INFO - 2017-09-09 15:04:55 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:55 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:55 --> URI Class Initialized
+INFO - 2017-09-09 15:04:55 --> Router Class Initialized
+INFO - 2017-09-09 15:04:55 --> Output Class Initialized
+INFO - 2017-09-09 15:04:55 --> Security Class Initialized
+INFO - 2017-09-09 15:04:55 --> Input Class Initialized
+INFO - 2017-09-09 15:04:55 --> Language Class Initialized
+INFO - 2017-09-09 15:04:55 --> Language Class Initialized
+INFO - 2017-09-09 15:04:55 --> Config Class Initialized
+INFO - 2017-09-09 15:04:55 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:55 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:55 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:55 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:55 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:55 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:55 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:55 --> Email Class Initialized
+INFO - 2017-09-09 15:04:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:55 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:55 --> Model Class Initialized
+INFO - 2017-09-09 15:04:55 --> Model Class Initialized
+INFO - 2017-09-09 15:04:55 --> Model Class Initialized
+INFO - 2017-09-09 15:04:55 --> Model Class Initialized
+INFO - 2017-09-09 15:04:55 --> Model Class Initialized
+INFO - 2017-09-09 15:04:55 --> Model Class Initialized
+INFO - 2017-09-09 15:04:55 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:04:55 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:04:55 --> USER_INFO 1
+INFO - 2017-09-09 15:04:55 --> ID: 1 CURRENT: 0 New :1
+INFO - 2017-09-09 15:04:55 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 1
+WHERE `id` = '1'
+INFO - 2017-09-09 15:04:55 --> Final output sent to browser
+INFO - 2017-09-09 15:04:56 --> Config Class Initialized
+INFO - 2017-09-09 15:04:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:56 --> URI Class Initialized
+INFO - 2017-09-09 15:04:56 --> Router Class Initialized
+INFO - 2017-09-09 15:04:56 --> Output Class Initialized
+INFO - 2017-09-09 15:04:56 --> Security Class Initialized
+INFO - 2017-09-09 15:04:56 --> Input Class Initialized
+INFO - 2017-09-09 15:04:56 --> Language Class Initialized
+INFO - 2017-09-09 15:04:56 --> Language Class Initialized
+INFO - 2017-09-09 15:04:56 --> Config Class Initialized
+INFO - 2017-09-09 15:04:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:56 --> Email Class Initialized
+INFO - 2017-09-09 15:04:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:56 --> Model Class Initialized
+INFO - 2017-09-09 15:04:56 --> Model Class Initialized
+INFO - 2017-09-09 15:04:56 --> Model Class Initialized
+INFO - 2017-09-09 15:04:56 --> Model Class Initialized
+INFO - 2017-09-09 15:04:56 --> Model Class Initialized
+INFO - 2017-09-09 15:04:56 --> Model Class Initialized
+INFO - 2017-09-09 15:04:56 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:04:56 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:04:56 --> USER_INFO 5
+INFO - 2017-09-09 15:04:56 --> ID: 5 CURRENT: 0 New :1
+INFO - 2017-09-09 15:04:56 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 1
+WHERE `id` = '5'
+INFO - 2017-09-09 15:04:56 --> Final output sent to browser
+INFO - 2017-09-09 15:04:59 --> Config Class Initialized
+INFO - 2017-09-09 15:04:59 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:59 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:59 --> URI Class Initialized
+INFO - 2017-09-09 15:04:59 --> Router Class Initialized
+INFO - 2017-09-09 15:04:59 --> Output Class Initialized
+INFO - 2017-09-09 15:04:59 --> Security Class Initialized
+INFO - 2017-09-09 15:04:59 --> Input Class Initialized
+INFO - 2017-09-09 15:04:59 --> Language Class Initialized
+INFO - 2017-09-09 15:04:59 --> Language Class Initialized
+INFO - 2017-09-09 15:04:59 --> Config Class Initialized
+INFO - 2017-09-09 15:04:59 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:59 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:59 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:59 --> Email Class Initialized
+INFO - 2017-09-09 15:04:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:59 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:59 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:04:59 --> Model Class Initialized
+INFO - 2017-09-09 15:04:59 --> Model Class Initialized
+INFO - 2017-09-09 15:04:59 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:04:59 --> Config Class Initialized
+INFO - 2017-09-09 15:04:59 --> Hooks Class Initialized
+INFO - 2017-09-09 15:04:59 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:04:59 --> URI Class Initialized
+INFO - 2017-09-09 15:04:59 --> Router Class Initialized
+INFO - 2017-09-09 15:04:59 --> Output Class Initialized
+INFO - 2017-09-09 15:04:59 --> Security Class Initialized
+INFO - 2017-09-09 15:04:59 --> Input Class Initialized
+INFO - 2017-09-09 15:04:59 --> Language Class Initialized
+INFO - 2017-09-09 15:04:59 --> Language Class Initialized
+INFO - 2017-09-09 15:04:59 --> Config Class Initialized
+INFO - 2017-09-09 15:04:59 --> Loader Class Initialized
+INFO - 2017-09-09 15:04:59 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:04:59 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:04:59 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:04:59 --> Email Class Initialized
+INFO - 2017-09-09 15:04:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:04:59 --> Controller Class Initialized
+INFO - 2017-09-09 15:04:59 --> Model Class Initialized
+INFO - 2017-09-09 15:04:59 --> Model Class Initialized
+INFO - 2017-09-09 15:04:59 --> Model Class Initialized
+INFO - 2017-09-09 15:04:59 --> Model Class Initialized
+INFO - 2017-09-09 15:04:59 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:04:59 --> Final output sent to browser
+INFO - 2017-09-09 15:05:01 --> Final output sent to browser
+INFO - 2017-09-09 15:05:38 --> Config Class Initialized
+INFO - 2017-09-09 15:05:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:05:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:05:38 --> URI Class Initialized
+INFO - 2017-09-09 15:05:38 --> Router Class Initialized
+INFO - 2017-09-09 15:05:38 --> Output Class Initialized
+INFO - 2017-09-09 15:05:38 --> Security Class Initialized
+INFO - 2017-09-09 15:05:38 --> Input Class Initialized
+INFO - 2017-09-09 15:05:38 --> Language Class Initialized
+INFO - 2017-09-09 15:05:38 --> Language Class Initialized
+INFO - 2017-09-09 15:05:38 --> Config Class Initialized
+INFO - 2017-09-09 15:05:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:05:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:05:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:05:38 --> Email Class Initialized
+INFO - 2017-09-09 15:05:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:05:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:05:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:05:38 --> Model Class Initialized
+INFO - 2017-09-09 15:05:38 --> Model Class Initialized
+INFO - 2017-09-09 15:05:38 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:05:38 --> Config Class Initialized
+INFO - 2017-09-09 15:05:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:05:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:05:38 --> URI Class Initialized
+INFO - 2017-09-09 15:05:38 --> Router Class Initialized
+INFO - 2017-09-09 15:05:38 --> Output Class Initialized
+INFO - 2017-09-09 15:05:38 --> Security Class Initialized
+INFO - 2017-09-09 15:05:38 --> Input Class Initialized
+INFO - 2017-09-09 15:05:38 --> Language Class Initialized
+INFO - 2017-09-09 15:05:38 --> Language Class Initialized
+INFO - 2017-09-09 15:05:38 --> Config Class Initialized
+INFO - 2017-09-09 15:05:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:05:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:05:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:05:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:05:38 --> Email Class Initialized
+INFO - 2017-09-09 15:05:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:05:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:05:38 --> Model Class Initialized
+INFO - 2017-09-09 15:05:38 --> Model Class Initialized
+INFO - 2017-09-09 15:05:38 --> Model Class Initialized
+INFO - 2017-09-09 15:05:38 --> Model Class Initialized
+INFO - 2017-09-09 15:05:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:05:38 --> Final output sent to browser
+INFO - 2017-09-09 15:05:40 --> Final output sent to browser
+INFO - 2017-09-09 15:06:23 --> Config Class Initialized
+INFO - 2017-09-09 15:06:23 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:23 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:23 --> URI Class Initialized
+INFO - 2017-09-09 15:06:23 --> Router Class Initialized
+INFO - 2017-09-09 15:06:23 --> Output Class Initialized
+INFO - 2017-09-09 15:06:23 --> Security Class Initialized
+INFO - 2017-09-09 15:06:23 --> Input Class Initialized
+INFO - 2017-09-09 15:06:23 --> Language Class Initialized
+INFO - 2017-09-09 15:06:23 --> Language Class Initialized
+INFO - 2017-09-09 15:06:23 --> Config Class Initialized
+INFO - 2017-09-09 15:06:23 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:23 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:23 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:23 --> Email Class Initialized
+INFO - 2017-09-09 15:06:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:23 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:23 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:06:23 --> Model Class Initialized
+INFO - 2017-09-09 15:06:23 --> Model Class Initialized
+INFO - 2017-09-09 15:06:23 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:06:23 --> Config Class Initialized
+INFO - 2017-09-09 15:06:23 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:23 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:23 --> URI Class Initialized
+INFO - 2017-09-09 15:06:23 --> Router Class Initialized
+INFO - 2017-09-09 15:06:23 --> Output Class Initialized
+INFO - 2017-09-09 15:06:23 --> Security Class Initialized
+INFO - 2017-09-09 15:06:23 --> Input Class Initialized
+INFO - 2017-09-09 15:06:23 --> Language Class Initialized
+INFO - 2017-09-09 15:06:23 --> Language Class Initialized
+INFO - 2017-09-09 15:06:23 --> Config Class Initialized
+INFO - 2017-09-09 15:06:23 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:23 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:23 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:23 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:23 --> Email Class Initialized
+INFO - 2017-09-09 15:06:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:23 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:23 --> Model Class Initialized
+INFO - 2017-09-09 15:06:23 --> Model Class Initialized
+INFO - 2017-09-09 15:06:23 --> Model Class Initialized
+INFO - 2017-09-09 15:06:23 --> Model Class Initialized
+INFO - 2017-09-09 15:06:23 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:06:23 --> Final output sent to browser
+INFO - 2017-09-09 15:06:25 --> Final output sent to browser
+INFO - 2017-09-09 15:06:32 --> Config Class Initialized
+INFO - 2017-09-09 15:06:32 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:32 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:32 --> URI Class Initialized
+INFO - 2017-09-09 15:06:32 --> Router Class Initialized
+INFO - 2017-09-09 15:06:32 --> Output Class Initialized
+INFO - 2017-09-09 15:06:32 --> Security Class Initialized
+INFO - 2017-09-09 15:06:32 --> Input Class Initialized
+INFO - 2017-09-09 15:06:32 --> Language Class Initialized
+INFO - 2017-09-09 15:06:32 --> Language Class Initialized
+INFO - 2017-09-09 15:06:32 --> Config Class Initialized
+INFO - 2017-09-09 15:06:32 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:32 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:32 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:32 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:32 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:32 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:32 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:32 --> Email Class Initialized
+INFO - 2017-09-09 15:06:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:32 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:32 --> Model Class Initialized
+INFO - 2017-09-09 15:06:32 --> Model Class Initialized
+INFO - 2017-09-09 15:06:32 --> Model Class Initialized
+INFO - 2017-09-09 15:06:32 --> Model Class Initialized
+INFO - 2017-09-09 15:06:32 --> Model Class Initialized
+INFO - 2017-09-09 15:06:32 --> Model Class Initialized
+INFO - 2017-09-09 15:06:32 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:32 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:32 --> USER_INFO 2
+INFO - 2017-09-09 15:06:32 --> ID: 2 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:32 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '2'
+INFO - 2017-09-09 15:06:32 --> Final output sent to browser
+INFO - 2017-09-09 15:06:33 --> Config Class Initialized
+INFO - 2017-09-09 15:06:33 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:33 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:33 --> URI Class Initialized
+INFO - 2017-09-09 15:06:33 --> Router Class Initialized
+INFO - 2017-09-09 15:06:33 --> Output Class Initialized
+INFO - 2017-09-09 15:06:33 --> Security Class Initialized
+INFO - 2017-09-09 15:06:33 --> Input Class Initialized
+INFO - 2017-09-09 15:06:33 --> Language Class Initialized
+INFO - 2017-09-09 15:06:33 --> Language Class Initialized
+INFO - 2017-09-09 15:06:33 --> Config Class Initialized
+INFO - 2017-09-09 15:06:33 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:33 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:33 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:33 --> Email Class Initialized
+INFO - 2017-09-09 15:06:33 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:33 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:33 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:33 --> USER_INFO 1
+INFO - 2017-09-09 15:06:33 --> ID: 1 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:33 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '1'
+INFO - 2017-09-09 15:06:33 --> Final output sent to browser
+INFO - 2017-09-09 15:06:33 --> Config Class Initialized
+INFO - 2017-09-09 15:06:33 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:33 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:33 --> URI Class Initialized
+INFO - 2017-09-09 15:06:33 --> Router Class Initialized
+INFO - 2017-09-09 15:06:33 --> Output Class Initialized
+INFO - 2017-09-09 15:06:33 --> Security Class Initialized
+INFO - 2017-09-09 15:06:33 --> Input Class Initialized
+INFO - 2017-09-09 15:06:33 --> Language Class Initialized
+INFO - 2017-09-09 15:06:33 --> Language Class Initialized
+INFO - 2017-09-09 15:06:33 --> Config Class Initialized
+INFO - 2017-09-09 15:06:33 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:33 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:33 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:33 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:33 --> Email Class Initialized
+INFO - 2017-09-09 15:06:33 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:33 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Model Class Initialized
+INFO - 2017-09-09 15:06:33 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:33 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:33 --> USER_INFO 4
+INFO - 2017-09-09 15:06:33 --> ID: 4 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:33 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '4'
+INFO - 2017-09-09 15:06:33 --> Final output sent to browser
+INFO - 2017-09-09 15:06:34 --> Config Class Initialized
+INFO - 2017-09-09 15:06:34 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:34 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:34 --> URI Class Initialized
+INFO - 2017-09-09 15:06:34 --> Router Class Initialized
+INFO - 2017-09-09 15:06:34 --> Output Class Initialized
+INFO - 2017-09-09 15:06:34 --> Security Class Initialized
+INFO - 2017-09-09 15:06:34 --> Input Class Initialized
+INFO - 2017-09-09 15:06:34 --> Language Class Initialized
+INFO - 2017-09-09 15:06:34 --> Language Class Initialized
+INFO - 2017-09-09 15:06:34 --> Config Class Initialized
+INFO - 2017-09-09 15:06:34 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:34 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:34 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:34 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:34 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:34 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:34 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:34 --> Email Class Initialized
+INFO - 2017-09-09 15:06:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:34 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:34 --> Model Class Initialized
+INFO - 2017-09-09 15:06:34 --> Model Class Initialized
+INFO - 2017-09-09 15:06:34 --> Model Class Initialized
+INFO - 2017-09-09 15:06:34 --> Model Class Initialized
+INFO - 2017-09-09 15:06:34 --> Model Class Initialized
+INFO - 2017-09-09 15:06:34 --> Model Class Initialized
+INFO - 2017-09-09 15:06:34 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:34 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:34 --> USER_INFO 5
+INFO - 2017-09-09 15:06:34 --> ID: 5 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:34 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '5'
+INFO - 2017-09-09 15:06:34 --> Final output sent to browser
+INFO - 2017-09-09 15:06:36 --> Config Class Initialized
+INFO - 2017-09-09 15:06:36 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:36 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:36 --> URI Class Initialized
+INFO - 2017-09-09 15:06:36 --> Router Class Initialized
+INFO - 2017-09-09 15:06:36 --> Output Class Initialized
+INFO - 2017-09-09 15:06:36 --> Security Class Initialized
+INFO - 2017-09-09 15:06:36 --> Input Class Initialized
+INFO - 2017-09-09 15:06:36 --> Language Class Initialized
+INFO - 2017-09-09 15:06:36 --> Language Class Initialized
+INFO - 2017-09-09 15:06:36 --> Config Class Initialized
+INFO - 2017-09-09 15:06:36 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:36 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:36 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:36 --> Email Class Initialized
+INFO - 2017-09-09 15:06:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:36 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:36 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:36 --> USER_INFO 6
+INFO - 2017-09-09 15:06:36 --> ID: 6 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:36 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '6'
+INFO - 2017-09-09 15:06:36 --> Final output sent to browser
+INFO - 2017-09-09 15:06:36 --> Config Class Initialized
+INFO - 2017-09-09 15:06:36 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:36 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:36 --> URI Class Initialized
+INFO - 2017-09-09 15:06:36 --> Router Class Initialized
+INFO - 2017-09-09 15:06:36 --> Output Class Initialized
+INFO - 2017-09-09 15:06:36 --> Security Class Initialized
+INFO - 2017-09-09 15:06:36 --> Input Class Initialized
+INFO - 2017-09-09 15:06:36 --> Language Class Initialized
+INFO - 2017-09-09 15:06:36 --> Language Class Initialized
+INFO - 2017-09-09 15:06:36 --> Config Class Initialized
+INFO - 2017-09-09 15:06:36 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:36 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:36 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:36 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:36 --> Email Class Initialized
+INFO - 2017-09-09 15:06:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:36 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Model Class Initialized
+INFO - 2017-09-09 15:06:36 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:36 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:36 --> USER_INFO 7
+INFO - 2017-09-09 15:06:36 --> ID: 7 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:36 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '7'
+INFO - 2017-09-09 15:06:36 --> Final output sent to browser
+INFO - 2017-09-09 15:06:38 --> Config Class Initialized
+INFO - 2017-09-09 15:06:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:38 --> URI Class Initialized
+INFO - 2017-09-09 15:06:38 --> Router Class Initialized
+INFO - 2017-09-09 15:06:38 --> Output Class Initialized
+INFO - 2017-09-09 15:06:38 --> Security Class Initialized
+INFO - 2017-09-09 15:06:38 --> Input Class Initialized
+INFO - 2017-09-09 15:06:38 --> Language Class Initialized
+INFO - 2017-09-09 15:06:38 --> Language Class Initialized
+INFO - 2017-09-09 15:06:38 --> Config Class Initialized
+INFO - 2017-09-09 15:06:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:38 --> Email Class Initialized
+INFO - 2017-09-09 15:06:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:38 --> Model Class Initialized
+INFO - 2017-09-09 15:06:38 --> Model Class Initialized
+INFO - 2017-09-09 15:06:38 --> Model Class Initialized
+INFO - 2017-09-09 15:06:38 --> Model Class Initialized
+INFO - 2017-09-09 15:06:38 --> Model Class Initialized
+INFO - 2017-09-09 15:06:38 --> Model Class Initialized
+INFO - 2017-09-09 15:06:38 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:38 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:38 --> USER_INFO 10
+INFO - 2017-09-09 15:06:38 --> ID: 10 CURRENT: 1 New :0
+INFO - 2017-09-09 15:06:38 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 0
+WHERE `id` = '10'
+INFO - 2017-09-09 15:06:38 --> Final output sent to browser
+INFO - 2017-09-09 15:06:40 --> Config Class Initialized
+INFO - 2017-09-09 15:06:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:40 --> URI Class Initialized
+INFO - 2017-09-09 15:06:40 --> Router Class Initialized
+INFO - 2017-09-09 15:06:40 --> Output Class Initialized
+INFO - 2017-09-09 15:06:40 --> Security Class Initialized
+INFO - 2017-09-09 15:06:40 --> Input Class Initialized
+INFO - 2017-09-09 15:06:40 --> Language Class Initialized
+INFO - 2017-09-09 15:06:40 --> Language Class Initialized
+INFO - 2017-09-09 15:06:40 --> Config Class Initialized
+INFO - 2017-09-09 15:06:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:40 --> Email Class Initialized
+INFO - 2017-09-09 15:06:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:40 --> Model Class Initialized
+INFO - 2017-09-09 15:06:40 --> Model Class Initialized
+INFO - 2017-09-09 15:06:40 --> Model Class Initialized
+INFO - 2017-09-09 15:06:40 --> Model Class Initialized
+INFO - 2017-09-09 15:06:40 --> Model Class Initialized
+INFO - 2017-09-09 15:06:40 --> Model Class Initialized
+INFO - 2017-09-09 15:06:40 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:06:40 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:06:40 --> Final output sent to browser
+INFO - 2017-09-09 15:06:41 --> Config Class Initialized
+INFO - 2017-09-09 15:06:41 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:41 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:41 --> URI Class Initialized
+INFO - 2017-09-09 15:06:41 --> Router Class Initialized
+INFO - 2017-09-09 15:06:41 --> Output Class Initialized
+INFO - 2017-09-09 15:06:41 --> Security Class Initialized
+INFO - 2017-09-09 15:06:41 --> Input Class Initialized
+INFO - 2017-09-09 15:06:41 --> Language Class Initialized
+INFO - 2017-09-09 15:06:41 --> Language Class Initialized
+INFO - 2017-09-09 15:06:41 --> Config Class Initialized
+INFO - 2017-09-09 15:06:41 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:41 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:41 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:41 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:41 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:41 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:41 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:41 --> Email Class Initialized
+INFO - 2017-09-09 15:06:41 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:41 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:43 --> Config Class Initialized
+INFO - 2017-09-09 15:06:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:43 --> URI Class Initialized
+INFO - 2017-09-09 15:06:43 --> Router Class Initialized
+INFO - 2017-09-09 15:06:43 --> Output Class Initialized
+INFO - 2017-09-09 15:06:43 --> Security Class Initialized
+INFO - 2017-09-09 15:06:43 --> Input Class Initialized
+INFO - 2017-09-09 15:06:43 --> Language Class Initialized
+INFO - 2017-09-09 15:06:43 --> Language Class Initialized
+INFO - 2017-09-09 15:06:43 --> Config Class Initialized
+INFO - 2017-09-09 15:06:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:43 --> Email Class Initialized
+INFO - 2017-09-09 15:06:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:06:43 --> Model Class Initialized
+INFO - 2017-09-09 15:06:43 --> Model Class Initialized
+INFO - 2017-09-09 15:06:43 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:06:43 --> Config Class Initialized
+INFO - 2017-09-09 15:06:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:06:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:06:43 --> URI Class Initialized
+INFO - 2017-09-09 15:06:43 --> Router Class Initialized
+INFO - 2017-09-09 15:06:43 --> Output Class Initialized
+INFO - 2017-09-09 15:06:43 --> Security Class Initialized
+INFO - 2017-09-09 15:06:43 --> Input Class Initialized
+INFO - 2017-09-09 15:06:43 --> Language Class Initialized
+INFO - 2017-09-09 15:06:43 --> Language Class Initialized
+INFO - 2017-09-09 15:06:43 --> Config Class Initialized
+INFO - 2017-09-09 15:06:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:06:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:06:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:06:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:06:43 --> Email Class Initialized
+INFO - 2017-09-09 15:06:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:06:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:06:43 --> Model Class Initialized
+INFO - 2017-09-09 15:06:43 --> Model Class Initialized
+INFO - 2017-09-09 15:06:43 --> Model Class Initialized
+INFO - 2017-09-09 15:06:43 --> Model Class Initialized
+INFO - 2017-09-09 15:06:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:06:43 --> Final output sent to browser
+INFO - 2017-09-09 15:06:46 --> Final output sent to browser
+INFO - 2017-09-09 15:14:37 --> Config Class Initialized
+INFO - 2017-09-09 15:14:37 --> Hooks Class Initialized
+INFO - 2017-09-09 15:14:37 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:14:37 --> URI Class Initialized
+INFO - 2017-09-09 15:14:37 --> Router Class Initialized
+INFO - 2017-09-09 15:14:37 --> Output Class Initialized
+INFO - 2017-09-09 15:14:37 --> Security Class Initialized
+INFO - 2017-09-09 15:14:37 --> Input Class Initialized
+INFO - 2017-09-09 15:14:37 --> Language Class Initialized
+INFO - 2017-09-09 15:14:37 --> Language Class Initialized
+INFO - 2017-09-09 15:14:37 --> Config Class Initialized
+INFO - 2017-09-09 15:14:37 --> Loader Class Initialized
+INFO - 2017-09-09 15:14:37 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:14:37 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:14:37 --> Email Class Initialized
+INFO - 2017-09-09 15:14:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:14:37 --> Controller Class Initialized
+INFO - 2017-09-09 15:14:37 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:14:37 --> Model Class Initialized
+INFO - 2017-09-09 15:14:37 --> Model Class Initialized
+INFO - 2017-09-09 15:14:37 --> 7777777777777777777777777777777temp >> array
+INFO - 2017-09-09 15:14:37 --> Config Class Initialized
+INFO - 2017-09-09 15:14:37 --> Hooks Class Initialized
+INFO - 2017-09-09 15:14:37 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:14:37 --> URI Class Initialized
+INFO - 2017-09-09 15:14:37 --> Router Class Initialized
+INFO - 2017-09-09 15:14:37 --> Output Class Initialized
+INFO - 2017-09-09 15:14:37 --> Security Class Initialized
+INFO - 2017-09-09 15:14:37 --> Input Class Initialized
+INFO - 2017-09-09 15:14:37 --> Language Class Initialized
+INFO - 2017-09-09 15:14:37 --> Language Class Initialized
+INFO - 2017-09-09 15:14:37 --> Config Class Initialized
+INFO - 2017-09-09 15:14:37 --> Loader Class Initialized
+INFO - 2017-09-09 15:14:37 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:14:37 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:14:37 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:14:37 --> Email Class Initialized
+INFO - 2017-09-09 15:14:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:14:37 --> Controller Class Initialized
+INFO - 2017-09-09 15:14:37 --> Model Class Initialized
+INFO - 2017-09-09 15:14:37 --> Model Class Initialized
+INFO - 2017-09-09 15:14:37 --> Model Class Initialized
+INFO - 2017-09-09 15:14:37 --> Model Class Initialized
+INFO - 2017-09-09 15:14:37 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:14:37 --> Final output sent to browser
+INFO - 2017-09-09 15:14:57 --> Config Class Initialized
+INFO - 2017-09-09 15:14:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:14:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:14:57 --> URI Class Initialized
+INFO - 2017-09-09 15:14:57 --> Router Class Initialized
+INFO - 2017-09-09 15:14:57 --> Output Class Initialized
+INFO - 2017-09-09 15:14:57 --> Security Class Initialized
+INFO - 2017-09-09 15:14:57 --> Input Class Initialized
+INFO - 2017-09-09 15:14:57 --> Language Class Initialized
+INFO - 2017-09-09 15:14:57 --> Language Class Initialized
+INFO - 2017-09-09 15:14:57 --> Config Class Initialized
+INFO - 2017-09-09 15:14:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:14:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:14:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:14:57 --> Email Class Initialized
+INFO - 2017-09-09 15:14:57 --> Final output sent to browser
+INFO - 2017-09-09 15:14:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:14:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:14:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:14:57 --> Model Class Initialized
+INFO - 2017-09-09 15:14:57 --> Model Class Initialized
+INFO - 2017-09-09 15:14:57 --> Config Class Initialized
+INFO - 2017-09-09 15:14:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:14:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:14:57 --> URI Class Initialized
+INFO - 2017-09-09 15:14:57 --> Router Class Initialized
+INFO - 2017-09-09 15:14:57 --> Output Class Initialized
+INFO - 2017-09-09 15:14:57 --> Security Class Initialized
+INFO - 2017-09-09 15:14:57 --> Input Class Initialized
+INFO - 2017-09-09 15:14:57 --> Language Class Initialized
+INFO - 2017-09-09 15:14:57 --> Language Class Initialized
+INFO - 2017-09-09 15:14:57 --> Config Class Initialized
+INFO - 2017-09-09 15:14:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:14:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:14:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:14:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:14:57 --> Email Class Initialized
+INFO - 2017-09-09 15:14:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:14:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:14:57 --> Model Class Initialized
+INFO - 2017-09-09 15:14:57 --> Model Class Initialized
+INFO - 2017-09-09 15:14:57 --> Model Class Initialized
+INFO - 2017-09-09 15:14:57 --> Model Class Initialized
+INFO - 2017-09-09 15:14:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:14:57 --> Final output sent to browser
+INFO - 2017-09-09 15:15:00 --> Config Class Initialized
+INFO - 2017-09-09 15:15:00 --> Hooks Class Initialized
+INFO - 2017-09-09 15:15:00 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:15:00 --> URI Class Initialized
+INFO - 2017-09-09 15:15:00 --> Router Class Initialized
+INFO - 2017-09-09 15:15:00 --> Output Class Initialized
+INFO - 2017-09-09 15:15:00 --> Security Class Initialized
+INFO - 2017-09-09 15:15:00 --> Input Class Initialized
+INFO - 2017-09-09 15:15:00 --> Language Class Initialized
+INFO - 2017-09-09 15:15:00 --> Language Class Initialized
+INFO - 2017-09-09 15:15:00 --> Config Class Initialized
+INFO - 2017-09-09 15:15:00 --> Loader Class Initialized
+INFO - 2017-09-09 15:15:00 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:15:00 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:15:00 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:15:00 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:15:00 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:15:00 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:15:00 --> Email Class Initialized
+INFO - 2017-09-09 15:15:14 --> Final output sent to browser
+INFO - 2017-09-09 15:15:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:15:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:15:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:15:14 --> Model Class Initialized
+INFO - 2017-09-09 15:15:14 --> Model Class Initialized
+INFO - 2017-09-09 15:15:14 --> Config Class Initialized
+INFO - 2017-09-09 15:15:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:15:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:15:14 --> URI Class Initialized
+INFO - 2017-09-09 15:15:14 --> Router Class Initialized
+INFO - 2017-09-09 15:15:14 --> Output Class Initialized
+INFO - 2017-09-09 15:15:14 --> Security Class Initialized
+INFO - 2017-09-09 15:15:14 --> Input Class Initialized
+INFO - 2017-09-09 15:15:14 --> Language Class Initialized
+INFO - 2017-09-09 15:15:14 --> Language Class Initialized
+INFO - 2017-09-09 15:15:14 --> Config Class Initialized
+INFO - 2017-09-09 15:15:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:15:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:15:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:15:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:15:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:15:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:15:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:15:14 --> Email Class Initialized
+INFO - 2017-09-09 15:15:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:15:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:15:14 --> Model Class Initialized
+INFO - 2017-09-09 15:15:14 --> Model Class Initialized
+INFO - 2017-09-09 15:15:14 --> Model Class Initialized
+INFO - 2017-09-09 15:15:14 --> Model Class Initialized
+INFO - 2017-09-09 15:15:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:15:14 --> Final output sent to browser
+INFO - 2017-09-09 15:15:16 --> Final output sent to browser
+INFO - 2017-09-09 15:15:22 --> Config Class Initialized
+INFO - 2017-09-09 15:15:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:15:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:15:22 --> URI Class Initialized
+INFO - 2017-09-09 15:15:22 --> Router Class Initialized
+INFO - 2017-09-09 15:15:22 --> Output Class Initialized
+INFO - 2017-09-09 15:15:22 --> Security Class Initialized
+INFO - 2017-09-09 15:15:22 --> Input Class Initialized
+INFO - 2017-09-09 15:15:22 --> Language Class Initialized
+INFO - 2017-09-09 15:15:22 --> Language Class Initialized
+INFO - 2017-09-09 15:15:22 --> Config Class Initialized
+INFO - 2017-09-09 15:15:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:15:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:15:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:15:22 --> Email Class Initialized
+INFO - 2017-09-09 15:15:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:15:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:15:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:15:22 --> Model Class Initialized
+INFO - 2017-09-09 15:15:22 --> Model Class Initialized
+INFO - 2017-09-09 15:15:22 --> Config Class Initialized
+INFO - 2017-09-09 15:15:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:15:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:15:22 --> URI Class Initialized
+INFO - 2017-09-09 15:15:22 --> Router Class Initialized
+INFO - 2017-09-09 15:15:22 --> Output Class Initialized
+INFO - 2017-09-09 15:15:22 --> Security Class Initialized
+INFO - 2017-09-09 15:15:22 --> Input Class Initialized
+INFO - 2017-09-09 15:15:22 --> Language Class Initialized
+INFO - 2017-09-09 15:15:22 --> Language Class Initialized
+INFO - 2017-09-09 15:15:22 --> Config Class Initialized
+INFO - 2017-09-09 15:15:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:15:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:15:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:15:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:15:22 --> Email Class Initialized
+INFO - 2017-09-09 15:15:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:15:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:15:22 --> Model Class Initialized
+INFO - 2017-09-09 15:15:22 --> Model Class Initialized
+INFO - 2017-09-09 15:15:22 --> Model Class Initialized
+INFO - 2017-09-09 15:15:22 --> Model Class Initialized
+INFO - 2017-09-09 15:15:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:15:22 --> Final output sent to browser
+INFO - 2017-09-09 15:15:24 --> Final output sent to browser
+INFO - 2017-09-09 15:16:28 --> Config Class Initialized
+INFO - 2017-09-09 15:16:28 --> Hooks Class Initialized
+INFO - 2017-09-09 15:16:28 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:16:28 --> URI Class Initialized
+INFO - 2017-09-09 15:16:28 --> Router Class Initialized
+INFO - 2017-09-09 15:16:28 --> Output Class Initialized
+INFO - 2017-09-09 15:16:28 --> Security Class Initialized
+INFO - 2017-09-09 15:16:28 --> Input Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language Class Initialized
+INFO - 2017-09-09 15:16:28 --> Config Class Initialized
+INFO - 2017-09-09 15:16:28 --> Loader Class Initialized
+INFO - 2017-09-09 15:16:28 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:16:28 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:16:28 --> Email Class Initialized
+INFO - 2017-09-09 15:16:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:16:28 --> Controller Class Initialized
+INFO - 2017-09-09 15:16:28 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:16:28 --> Config Class Initialized
+INFO - 2017-09-09 15:16:28 --> Hooks Class Initialized
+INFO - 2017-09-09 15:16:28 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:16:28 --> URI Class Initialized
+INFO - 2017-09-09 15:16:28 --> Router Class Initialized
+INFO - 2017-09-09 15:16:28 --> Output Class Initialized
+INFO - 2017-09-09 15:16:28 --> Security Class Initialized
+INFO - 2017-09-09 15:16:28 --> Input Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language Class Initialized
+INFO - 2017-09-09 15:16:28 --> Config Class Initialized
+INFO - 2017-09-09 15:16:28 --> Loader Class Initialized
+INFO - 2017-09-09 15:16:28 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:16:28 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:16:28 --> Email Class Initialized
+INFO - 2017-09-09 15:16:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:16:28 --> Controller Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:16:28 --> Final output sent to browser
+INFO - 2017-09-09 15:16:28 --> Config Class Initialized
+INFO - 2017-09-09 15:16:28 --> Hooks Class Initialized
+INFO - 2017-09-09 15:16:28 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:16:28 --> URI Class Initialized
+INFO - 2017-09-09 15:16:28 --> Router Class Initialized
+INFO - 2017-09-09 15:16:28 --> Output Class Initialized
+INFO - 2017-09-09 15:16:28 --> Security Class Initialized
+INFO - 2017-09-09 15:16:28 --> Input Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language Class Initialized
+INFO - 2017-09-09 15:16:28 --> Config Class Initialized
+INFO - 2017-09-09 15:16:28 --> Loader Class Initialized
+INFO - 2017-09-09 15:16:28 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:16:28 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:16:28 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:16:28 --> Email Class Initialized
+INFO - 2017-09-09 15:16:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:16:28 --> Controller Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Model Class Initialized
+INFO - 2017-09-09 15:16:28 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:16:28 --> Final output sent to browser
+INFO - 2017-09-09 15:16:28 --> Final output sent to browser
+INFO - 2017-09-09 15:16:32 --> Config Class Initialized
+INFO - 2017-09-09 15:16:32 --> Hooks Class Initialized
+INFO - 2017-09-09 15:16:32 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:16:32 --> URI Class Initialized
+INFO - 2017-09-09 15:16:32 --> Router Class Initialized
+INFO - 2017-09-09 15:16:32 --> Output Class Initialized
+INFO - 2017-09-09 15:16:32 --> Security Class Initialized
+INFO - 2017-09-09 15:16:32 --> Input Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language Class Initialized
+INFO - 2017-09-09 15:16:32 --> Config Class Initialized
+INFO - 2017-09-09 15:16:32 --> Loader Class Initialized
+INFO - 2017-09-09 15:16:32 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:16:32 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:16:32 --> Email Class Initialized
+INFO - 2017-09-09 15:16:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:16:32 --> Controller Class Initialized
+INFO - 2017-09-09 15:16:32 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:16:32 --> Config Class Initialized
+INFO - 2017-09-09 15:16:32 --> Hooks Class Initialized
+INFO - 2017-09-09 15:16:32 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:16:32 --> URI Class Initialized
+INFO - 2017-09-09 15:16:32 --> Router Class Initialized
+INFO - 2017-09-09 15:16:32 --> Output Class Initialized
+INFO - 2017-09-09 15:16:32 --> Security Class Initialized
+INFO - 2017-09-09 15:16:32 --> Input Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language Class Initialized
+INFO - 2017-09-09 15:16:32 --> Config Class Initialized
+INFO - 2017-09-09 15:16:32 --> Loader Class Initialized
+INFO - 2017-09-09 15:16:32 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:16:32 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:16:32 --> Email Class Initialized
+INFO - 2017-09-09 15:16:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:16:32 --> Controller Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:16:32 --> Final output sent to browser
+INFO - 2017-09-09 15:16:32 --> Config Class Initialized
+INFO - 2017-09-09 15:16:32 --> Hooks Class Initialized
+INFO - 2017-09-09 15:16:32 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:16:32 --> URI Class Initialized
+INFO - 2017-09-09 15:16:32 --> Router Class Initialized
+INFO - 2017-09-09 15:16:32 --> Output Class Initialized
+INFO - 2017-09-09 15:16:32 --> Security Class Initialized
+INFO - 2017-09-09 15:16:32 --> Input Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language Class Initialized
+INFO - 2017-09-09 15:16:32 --> Config Class Initialized
+INFO - 2017-09-09 15:16:32 --> Loader Class Initialized
+INFO - 2017-09-09 15:16:32 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:16:32 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:16:32 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:16:32 --> Email Class Initialized
+INFO - 2017-09-09 15:16:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:16:32 --> Controller Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Model Class Initialized
+INFO - 2017-09-09 15:16:32 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:16:32 --> Final output sent to browser
+INFO - 2017-09-09 15:16:32 --> Final output sent to browser
+INFO - 2017-09-09 15:17:57 --> Config Class Initialized
+INFO - 2017-09-09 15:17:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:17:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:17:57 --> URI Class Initialized
+INFO - 2017-09-09 15:17:57 --> Router Class Initialized
+INFO - 2017-09-09 15:17:57 --> Output Class Initialized
+INFO - 2017-09-09 15:17:57 --> Security Class Initialized
+INFO - 2017-09-09 15:17:57 --> Input Class Initialized
+INFO - 2017-09-09 15:17:57 --> Language Class Initialized
+INFO - 2017-09-09 15:17:57 --> Language Class Initialized
+INFO - 2017-09-09 15:17:57 --> Config Class Initialized
+INFO - 2017-09-09 15:17:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:17:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:17:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:17:57 --> Email Class Initialized
+INFO - 2017-09-09 15:17:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:17:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:17:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:17:57 --> Model Class Initialized
+INFO - 2017-09-09 15:17:57 --> Model Class Initialized
+INFO - 2017-09-09 15:17:57 --> Config Class Initialized
+INFO - 2017-09-09 15:17:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:17:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:17:57 --> URI Class Initialized
+INFO - 2017-09-09 15:17:57 --> Router Class Initialized
+INFO - 2017-09-09 15:17:57 --> Output Class Initialized
+INFO - 2017-09-09 15:17:57 --> Security Class Initialized
+INFO - 2017-09-09 15:17:57 --> Input Class Initialized
+INFO - 2017-09-09 15:17:57 --> Language Class Initialized
+INFO - 2017-09-09 15:17:57 --> Language Class Initialized
+INFO - 2017-09-09 15:17:57 --> Config Class Initialized
+INFO - 2017-09-09 15:17:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:17:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:17:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:17:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:17:57 --> Email Class Initialized
+INFO - 2017-09-09 15:17:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:17:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:17:57 --> Model Class Initialized
+INFO - 2017-09-09 15:17:57 --> Model Class Initialized
+INFO - 2017-09-09 15:17:57 --> Model Class Initialized
+INFO - 2017-09-09 15:17:57 --> Model Class Initialized
+INFO - 2017-09-09 15:17:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:17:57 --> Final output sent to browser
+INFO - 2017-09-09 15:17:59 --> Final output sent to browser
+INFO - 2017-09-09 15:18:12 --> Config Class Initialized
+INFO - 2017-09-09 15:18:12 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:12 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:12 --> URI Class Initialized
+INFO - 2017-09-09 15:18:12 --> Router Class Initialized
+INFO - 2017-09-09 15:18:12 --> Output Class Initialized
+INFO - 2017-09-09 15:18:12 --> Security Class Initialized
+INFO - 2017-09-09 15:18:12 --> Input Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language Class Initialized
+INFO - 2017-09-09 15:18:12 --> Config Class Initialized
+INFO - 2017-09-09 15:18:12 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:12 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:12 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:12 --> Email Class Initialized
+INFO - 2017-09-09 15:18:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:12 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:12 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:12 --> Config Class Initialized
+INFO - 2017-09-09 15:18:12 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:12 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:12 --> URI Class Initialized
+INFO - 2017-09-09 15:18:12 --> Router Class Initialized
+INFO - 2017-09-09 15:18:12 --> Output Class Initialized
+INFO - 2017-09-09 15:18:12 --> Security Class Initialized
+INFO - 2017-09-09 15:18:12 --> Input Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language Class Initialized
+INFO - 2017-09-09 15:18:12 --> Config Class Initialized
+INFO - 2017-09-09 15:18:12 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:12 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:12 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:12 --> Email Class Initialized
+INFO - 2017-09-09 15:18:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:12 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:12 --> Final output sent to browser
+INFO - 2017-09-09 15:18:12 --> Config Class Initialized
+INFO - 2017-09-09 15:18:12 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:12 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:12 --> URI Class Initialized
+INFO - 2017-09-09 15:18:12 --> Router Class Initialized
+INFO - 2017-09-09 15:18:12 --> Output Class Initialized
+INFO - 2017-09-09 15:18:12 --> Security Class Initialized
+INFO - 2017-09-09 15:18:12 --> Input Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language Class Initialized
+INFO - 2017-09-09 15:18:12 --> Config Class Initialized
+INFO - 2017-09-09 15:18:12 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:12 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:12 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:12 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:12 --> Email Class Initialized
+INFO - 2017-09-09 15:18:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:12 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Model Class Initialized
+INFO - 2017-09-09 15:18:12 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:12 --> Final output sent to browser
+INFO - 2017-09-09 15:18:12 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:18:14 --> Calendar Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:18:14 --> Final output sent to browser
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:14 --> URI Class Initialized
+INFO - 2017-09-09 15:18:14 --> Router Class Initialized
+INFO - 2017-09-09 15:18:14 --> Output Class Initialized
+INFO - 2017-09-09 15:18:14 --> Security Class Initialized
+INFO - 2017-09-09 15:18:14 --> Input Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Language Class Initialized
+INFO - 2017-09-09 15:18:14 --> Config Class Initialized
+INFO - 2017-09-09 15:18:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:14 --> Email Class Initialized
+INFO - 2017-09-09 15:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:14 --> Model Class Initialized
+INFO - 2017-09-09 15:18:15 --> Final output sent to browser
+INFO - 2017-09-09 15:18:15 --> Final output sent to browser
+INFO - 2017-09-09 15:18:59 --> Config Class Initialized
+INFO - 2017-09-09 15:18:59 --> Hooks Class Initialized
+INFO - 2017-09-09 15:18:59 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:18:59 --> URI Class Initialized
+INFO - 2017-09-09 15:18:59 --> Router Class Initialized
+INFO - 2017-09-09 15:18:59 --> Output Class Initialized
+INFO - 2017-09-09 15:18:59 --> Security Class Initialized
+INFO - 2017-09-09 15:18:59 --> Input Class Initialized
+INFO - 2017-09-09 15:18:59 --> Language Class Initialized
+INFO - 2017-09-09 15:18:59 --> Language Class Initialized
+INFO - 2017-09-09 15:18:59 --> Config Class Initialized
+INFO - 2017-09-09 15:18:59 --> Loader Class Initialized
+INFO - 2017-09-09 15:18:59 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:18:59 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:18:59 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:18:59 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:18:59 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:18:59 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:18:59 --> Email Class Initialized
+INFO - 2017-09-09 15:18:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:18:59 --> Controller Class Initialized
+INFO - 2017-09-09 15:18:59 --> Model Class Initialized
+INFO - 2017-09-09 15:18:59 --> Model Class Initialized
+INFO - 2017-09-09 15:18:59 --> Model Class Initialized
+INFO - 2017-09-09 15:18:59 --> Model Class Initialized
+INFO - 2017-09-09 15:18:59 --> Model Class Initialized
+INFO - 2017-09-09 15:18:59 --> Model Class Initialized
+INFO - 2017-09-09 15:18:59 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:18:59 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:18:59 --> USER_INFO 1
+INFO - 2017-09-09 15:18:59 --> ID: 1 CURRENT: 0 New :1
+INFO - 2017-09-09 15:18:59 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 1
+WHERE `id` = '1'
+INFO - 2017-09-09 15:18:59 --> Final output sent to browser
+INFO - 2017-09-09 15:24:32 --> Config Class Initialized
+INFO - 2017-09-09 15:24:32 --> Hooks Class Initialized
+INFO - 2017-09-09 15:24:32 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:24:32 --> URI Class Initialized
+INFO - 2017-09-09 15:24:32 --> Router Class Initialized
+INFO - 2017-09-09 15:24:32 --> Output Class Initialized
+INFO - 2017-09-09 15:24:32 --> Security Class Initialized
+INFO - 2017-09-09 15:24:32 --> Input Class Initialized
+INFO - 2017-09-09 15:24:32 --> Language Class Initialized
+INFO - 2017-09-09 15:24:32 --> Language Class Initialized
+INFO - 2017-09-09 15:24:32 --> Config Class Initialized
+INFO - 2017-09-09 15:24:32 --> Loader Class Initialized
+INFO - 2017-09-09 15:24:32 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:24:32 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:24:32 --> Email Class Initialized
+INFO - 2017-09-09 15:24:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:24:32 --> Controller Class Initialized
+INFO - 2017-09-09 15:24:32 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:24:32 --> Model Class Initialized
+INFO - 2017-09-09 15:24:32 --> Model Class Initialized
+INFO - 2017-09-09 15:24:32 --> Config Class Initialized
+INFO - 2017-09-09 15:24:32 --> Hooks Class Initialized
+INFO - 2017-09-09 15:24:32 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:24:32 --> URI Class Initialized
+INFO - 2017-09-09 15:24:32 --> Router Class Initialized
+INFO - 2017-09-09 15:24:32 --> Output Class Initialized
+INFO - 2017-09-09 15:24:32 --> Security Class Initialized
+INFO - 2017-09-09 15:24:32 --> Input Class Initialized
+INFO - 2017-09-09 15:24:32 --> Language Class Initialized
+INFO - 2017-09-09 15:24:32 --> Language Class Initialized
+INFO - 2017-09-09 15:24:32 --> Config Class Initialized
+INFO - 2017-09-09 15:24:32 --> Loader Class Initialized
+INFO - 2017-09-09 15:24:32 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:24:32 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:24:32 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:24:32 --> Email Class Initialized
+INFO - 2017-09-09 15:24:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:24:32 --> Controller Class Initialized
+INFO - 2017-09-09 15:24:32 --> Model Class Initialized
+INFO - 2017-09-09 15:24:32 --> Model Class Initialized
+INFO - 2017-09-09 15:24:32 --> Model Class Initialized
+INFO - 2017-09-09 15:24:32 --> Model Class Initialized
+INFO - 2017-09-09 15:24:32 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:24:32 --> Final output sent to browser
+INFO - 2017-09-09 15:24:36 --> Final output sent to browser
+INFO - 2017-09-09 15:24:40 --> Config Class Initialized
+INFO - 2017-09-09 15:24:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:24:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:24:40 --> URI Class Initialized
+INFO - 2017-09-09 15:24:40 --> Router Class Initialized
+INFO - 2017-09-09 15:24:40 --> Output Class Initialized
+INFO - 2017-09-09 15:24:40 --> Security Class Initialized
+INFO - 2017-09-09 15:24:40 --> Input Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language Class Initialized
+INFO - 2017-09-09 15:24:40 --> Config Class Initialized
+INFO - 2017-09-09 15:24:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:24:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:24:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:24:40 --> Email Class Initialized
+INFO - 2017-09-09 15:24:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:24:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:24:40 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:24:40 --> Config Class Initialized
+INFO - 2017-09-09 15:24:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:24:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:24:40 --> URI Class Initialized
+INFO - 2017-09-09 15:24:40 --> Router Class Initialized
+INFO - 2017-09-09 15:24:40 --> Output Class Initialized
+INFO - 2017-09-09 15:24:40 --> Security Class Initialized
+INFO - 2017-09-09 15:24:40 --> Input Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language Class Initialized
+INFO - 2017-09-09 15:24:40 --> Config Class Initialized
+INFO - 2017-09-09 15:24:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:24:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:24:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:24:40 --> Email Class Initialized
+INFO - 2017-09-09 15:24:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:24:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:24:40 --> Final output sent to browser
+INFO - 2017-09-09 15:24:40 --> Config Class Initialized
+INFO - 2017-09-09 15:24:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:24:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:24:40 --> URI Class Initialized
+INFO - 2017-09-09 15:24:40 --> Router Class Initialized
+INFO - 2017-09-09 15:24:40 --> Output Class Initialized
+INFO - 2017-09-09 15:24:40 --> Security Class Initialized
+INFO - 2017-09-09 15:24:40 --> Input Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language Class Initialized
+INFO - 2017-09-09 15:24:40 --> Config Class Initialized
+INFO - 2017-09-09 15:24:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:24:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:24:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:24:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:24:40 --> Email Class Initialized
+INFO - 2017-09-09 15:24:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:24:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Model Class Initialized
+INFO - 2017-09-09 15:24:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:24:40 --> Final output sent to browser
+INFO - 2017-09-09 15:24:40 --> Final output sent to browser
+INFO - 2017-09-09 15:25:13 --> Config Class Initialized
+INFO - 2017-09-09 15:25:13 --> Hooks Class Initialized
+INFO - 2017-09-09 15:25:13 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:25:13 --> URI Class Initialized
+INFO - 2017-09-09 15:25:13 --> Router Class Initialized
+INFO - 2017-09-09 15:25:13 --> Output Class Initialized
+INFO - 2017-09-09 15:25:13 --> Security Class Initialized
+INFO - 2017-09-09 15:25:13 --> Input Class Initialized
+INFO - 2017-09-09 15:25:13 --> Language Class Initialized
+INFO - 2017-09-09 15:25:13 --> Language Class Initialized
+INFO - 2017-09-09 15:25:13 --> Config Class Initialized
+INFO - 2017-09-09 15:25:13 --> Loader Class Initialized
+INFO - 2017-09-09 15:25:13 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:25:13 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:25:13 --> Email Class Initialized
+INFO - 2017-09-09 15:25:13 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:25:13 --> Controller Class Initialized
+INFO - 2017-09-09 15:25:13 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:25:13 --> Model Class Initialized
+INFO - 2017-09-09 15:25:13 --> Model Class Initialized
+INFO - 2017-09-09 15:25:13 --> Model Class Initialized
+INFO - 2017-09-09 15:25:13 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:25:13 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:25:13 --> Config Class Initialized
+INFO - 2017-09-09 15:25:13 --> Hooks Class Initialized
+INFO - 2017-09-09 15:25:13 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:25:13 --> URI Class Initialized
+INFO - 2017-09-09 15:25:13 --> Router Class Initialized
+INFO - 2017-09-09 15:25:13 --> Output Class Initialized
+INFO - 2017-09-09 15:25:13 --> Security Class Initialized
+INFO - 2017-09-09 15:25:13 --> Input Class Initialized
+INFO - 2017-09-09 15:25:13 --> Language Class Initialized
+INFO - 2017-09-09 15:25:13 --> Language Class Initialized
+INFO - 2017-09-09 15:25:13 --> Config Class Initialized
+INFO - 2017-09-09 15:25:13 --> Loader Class Initialized
+INFO - 2017-09-09 15:25:13 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:25:13 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:25:13 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:25:13 --> Email Class Initialized
+INFO - 2017-09-09 15:25:13 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:25:13 --> Controller Class Initialized
+INFO - 2017-09-09 15:25:13 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:25:13 --> Model Class Initialized
+INFO - 2017-09-09 15:25:13 --> Model Class Initialized
+INFO - 2017-09-09 15:25:14 --> Config Class Initialized
+INFO - 2017-09-09 15:25:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:25:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:25:14 --> URI Class Initialized
+INFO - 2017-09-09 15:25:14 --> Router Class Initialized
+INFO - 2017-09-09 15:25:14 --> Output Class Initialized
+INFO - 2017-09-09 15:25:14 --> Security Class Initialized
+INFO - 2017-09-09 15:25:14 --> Input Class Initialized
+INFO - 2017-09-09 15:25:14 --> Language Class Initialized
+INFO - 2017-09-09 15:25:14 --> Language Class Initialized
+INFO - 2017-09-09 15:25:14 --> Config Class Initialized
+INFO - 2017-09-09 15:25:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:25:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:25:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:25:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:25:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:25:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:25:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:25:14 --> Email Class Initialized
+INFO - 2017-09-09 15:25:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:25:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:25:14 --> Model Class Initialized
+INFO - 2017-09-09 15:25:14 --> Model Class Initialized
+INFO - 2017-09-09 15:25:14 --> Model Class Initialized
+INFO - 2017-09-09 15:25:14 --> Model Class Initialized
+INFO - 2017-09-09 15:25:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:25:14 --> Final output sent to browser
+INFO - 2017-09-09 15:25:17 --> Final output sent to browser
+INFO - 2017-09-09 15:25:33 --> Config Class Initialized
+INFO - 2017-09-09 15:25:33 --> Hooks Class Initialized
+INFO - 2017-09-09 15:25:33 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:25:33 --> URI Class Initialized
+INFO - 2017-09-09 15:25:33 --> Router Class Initialized
+INFO - 2017-09-09 15:25:33 --> Output Class Initialized
+INFO - 2017-09-09 15:25:33 --> Security Class Initialized
+INFO - 2017-09-09 15:25:33 --> Input Class Initialized
+INFO - 2017-09-09 15:25:33 --> Language Class Initialized
+INFO - 2017-09-09 15:25:33 --> Language Class Initialized
+INFO - 2017-09-09 15:25:33 --> Config Class Initialized
+INFO - 2017-09-09 15:25:33 --> Loader Class Initialized
+INFO - 2017-09-09 15:25:33 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:25:33 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:25:33 --> Email Class Initialized
+INFO - 2017-09-09 15:25:33 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:25:33 --> Controller Class Initialized
+INFO - 2017-09-09 15:25:33 --> Helper loaded: array_helper
+INFO - 2017-09-09 15:25:33 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:25:33 --> Config Class Initialized
+INFO - 2017-09-09 15:25:33 --> Hooks Class Initialized
+INFO - 2017-09-09 15:25:33 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:25:33 --> URI Class Initialized
+INFO - 2017-09-09 15:25:33 --> Router Class Initialized
+INFO - 2017-09-09 15:25:33 --> Output Class Initialized
+INFO - 2017-09-09 15:25:33 --> Security Class Initialized
+INFO - 2017-09-09 15:25:33 --> Input Class Initialized
+INFO - 2017-09-09 15:25:33 --> Language Class Initialized
+INFO - 2017-09-09 15:25:33 --> Language Class Initialized
+INFO - 2017-09-09 15:25:33 --> Config Class Initialized
+INFO - 2017-09-09 15:25:33 --> Loader Class Initialized
+INFO - 2017-09-09 15:25:33 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:25:33 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:25:33 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:25:33 --> Email Class Initialized
+INFO - 2017-09-09 15:25:33 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:25:33 --> Controller Class Initialized
+INFO - 2017-09-09 15:25:33 --> Model Class Initialized
+INFO - 2017-09-09 15:25:33 --> Model Class Initialized
+INFO - 2017-09-09 15:25:33 --> Model Class Initialized
+INFO - 2017-09-09 15:25:33 --> Model Class Initialized
+INFO - 2017-09-09 15:25:33 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:25:33 --> Final output sent to browser
+INFO - 2017-09-09 15:25:33 --> Final output sent to browser
+INFO - 2017-09-09 15:26:34 --> Config Class Initialized
+INFO - 2017-09-09 15:26:34 --> Hooks Class Initialized
+INFO - 2017-09-09 15:26:34 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:26:34 --> URI Class Initialized
+INFO - 2017-09-09 15:26:34 --> Router Class Initialized
+INFO - 2017-09-09 15:26:34 --> Output Class Initialized
+INFO - 2017-09-09 15:26:34 --> Security Class Initialized
+INFO - 2017-09-09 15:26:34 --> Input Class Initialized
+INFO - 2017-09-09 15:26:34 --> Language Class Initialized
+INFO - 2017-09-09 15:26:34 --> Language Class Initialized
+INFO - 2017-09-09 15:26:34 --> Config Class Initialized
+INFO - 2017-09-09 15:26:34 --> Loader Class Initialized
+INFO - 2017-09-09 15:26:34 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:26:34 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:26:34 --> Email Class Initialized
+INFO - 2017-09-09 15:26:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:26:34 --> Controller Class Initialized
+INFO - 2017-09-09 15:26:34 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:26:34 --> Model Class Initialized
+INFO - 2017-09-09 15:26:34 --> Model Class Initialized
+INFO - 2017-09-09 15:26:34 --> Config Class Initialized
+INFO - 2017-09-09 15:26:34 --> Hooks Class Initialized
+INFO - 2017-09-09 15:26:34 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:26:34 --> URI Class Initialized
+INFO - 2017-09-09 15:26:34 --> Router Class Initialized
+INFO - 2017-09-09 15:26:34 --> Output Class Initialized
+INFO - 2017-09-09 15:26:34 --> Security Class Initialized
+INFO - 2017-09-09 15:26:34 --> Input Class Initialized
+INFO - 2017-09-09 15:26:34 --> Language Class Initialized
+INFO - 2017-09-09 15:26:34 --> Language Class Initialized
+INFO - 2017-09-09 15:26:34 --> Config Class Initialized
+INFO - 2017-09-09 15:26:34 --> Loader Class Initialized
+INFO - 2017-09-09 15:26:34 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:26:34 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:26:34 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:26:34 --> Email Class Initialized
+INFO - 2017-09-09 15:26:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:26:34 --> Controller Class Initialized
+INFO - 2017-09-09 15:26:34 --> Model Class Initialized
+INFO - 2017-09-09 15:26:34 --> Model Class Initialized
+INFO - 2017-09-09 15:26:34 --> Model Class Initialized
+INFO - 2017-09-09 15:26:34 --> Model Class Initialized
+INFO - 2017-09-09 15:26:34 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:26:34 --> Final output sent to browser
+INFO - 2017-09-09 15:26:37 --> Final output sent to browser
+INFO - 2017-09-09 15:28:46 --> Config Class Initialized
+INFO - 2017-09-09 15:28:46 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:46 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:46 --> URI Class Initialized
+INFO - 2017-09-09 15:28:46 --> Router Class Initialized
+INFO - 2017-09-09 15:28:46 --> Output Class Initialized
+INFO - 2017-09-09 15:28:46 --> Security Class Initialized
+INFO - 2017-09-09 15:28:46 --> Input Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language Class Initialized
+INFO - 2017-09-09 15:28:46 --> Config Class Initialized
+INFO - 2017-09-09 15:28:46 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:46 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:46 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:46 --> Email Class Initialized
+INFO - 2017-09-09 15:28:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:46 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:46 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:46 --> Config Class Initialized
+INFO - 2017-09-09 15:28:46 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:46 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:46 --> URI Class Initialized
+INFO - 2017-09-09 15:28:46 --> Router Class Initialized
+INFO - 2017-09-09 15:28:46 --> Output Class Initialized
+INFO - 2017-09-09 15:28:46 --> Security Class Initialized
+INFO - 2017-09-09 15:28:46 --> Input Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language Class Initialized
+INFO - 2017-09-09 15:28:46 --> Config Class Initialized
+INFO - 2017-09-09 15:28:46 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:46 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:46 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:46 --> Email Class Initialized
+INFO - 2017-09-09 15:28:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:46 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:46 --> Final output sent to browser
+INFO - 2017-09-09 15:28:46 --> Config Class Initialized
+INFO - 2017-09-09 15:28:46 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:46 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:46 --> URI Class Initialized
+INFO - 2017-09-09 15:28:46 --> Router Class Initialized
+INFO - 2017-09-09 15:28:46 --> Output Class Initialized
+INFO - 2017-09-09 15:28:46 --> Security Class Initialized
+INFO - 2017-09-09 15:28:46 --> Input Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language Class Initialized
+INFO - 2017-09-09 15:28:46 --> Config Class Initialized
+INFO - 2017-09-09 15:28:46 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:46 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:46 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:46 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:46 --> Email Class Initialized
+INFO - 2017-09-09 15:28:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:46 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Model Class Initialized
+INFO - 2017-09-09 15:28:46 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:46 --> Final output sent to browser
+INFO - 2017-09-09 15:28:46 --> Final output sent to browser
+INFO - 2017-09-09 15:28:51 --> Config Class Initialized
+INFO - 2017-09-09 15:28:51 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:51 --> URI Class Initialized
+INFO - 2017-09-09 15:28:51 --> Router Class Initialized
+INFO - 2017-09-09 15:28:51 --> Output Class Initialized
+INFO - 2017-09-09 15:28:51 --> Security Class Initialized
+INFO - 2017-09-09 15:28:51 --> Input Class Initialized
+INFO - 2017-09-09 15:28:51 --> Language Class Initialized
+INFO - 2017-09-09 15:28:51 --> Language Class Initialized
+INFO - 2017-09-09 15:28:51 --> Config Class Initialized
+INFO - 2017-09-09 15:28:51 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:51 --> Email Class Initialized
+INFO - 2017-09-09 15:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:51 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:51 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:28:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:51 --> Config Class Initialized
+INFO - 2017-09-09 15:28:51 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:51 --> URI Class Initialized
+INFO - 2017-09-09 15:28:51 --> Router Class Initialized
+INFO - 2017-09-09 15:28:51 --> Output Class Initialized
+INFO - 2017-09-09 15:28:51 --> Security Class Initialized
+INFO - 2017-09-09 15:28:51 --> Input Class Initialized
+INFO - 2017-09-09 15:28:51 --> Language Class Initialized
+INFO - 2017-09-09 15:28:51 --> Language Class Initialized
+INFO - 2017-09-09 15:28:51 --> Config Class Initialized
+INFO - 2017-09-09 15:28:51 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:51 --> Email Class Initialized
+INFO - 2017-09-09 15:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:51 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Model Class Initialized
+INFO - 2017-09-09 15:28:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:51 --> Final output sent to browser
+INFO - 2017-09-09 15:28:51 --> Final output sent to browser
+INFO - 2017-09-09 15:28:53 --> Config Class Initialized
+INFO - 2017-09-09 15:28:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:53 --> URI Class Initialized
+INFO - 2017-09-09 15:28:53 --> Router Class Initialized
+INFO - 2017-09-09 15:28:53 --> Output Class Initialized
+INFO - 2017-09-09 15:28:53 --> Security Class Initialized
+INFO - 2017-09-09 15:28:53 --> Input Class Initialized
+INFO - 2017-09-09 15:28:53 --> Language Class Initialized
+INFO - 2017-09-09 15:28:53 --> Language Class Initialized
+INFO - 2017-09-09 15:28:53 --> Config Class Initialized
+INFO - 2017-09-09 15:28:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:53 --> Email Class Initialized
+INFO - 2017-09-09 15:28:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:53 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:53 --> Config Class Initialized
+INFO - 2017-09-09 15:28:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:53 --> URI Class Initialized
+INFO - 2017-09-09 15:28:53 --> Router Class Initialized
+INFO - 2017-09-09 15:28:53 --> Output Class Initialized
+INFO - 2017-09-09 15:28:53 --> Security Class Initialized
+INFO - 2017-09-09 15:28:53 --> Input Class Initialized
+INFO - 2017-09-09 15:28:53 --> Language Class Initialized
+INFO - 2017-09-09 15:28:53 --> Language Class Initialized
+INFO - 2017-09-09 15:28:53 --> Config Class Initialized
+INFO - 2017-09-09 15:28:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:53 --> Email Class Initialized
+INFO - 2017-09-09 15:28:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Model Class Initialized
+INFO - 2017-09-09 15:28:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:53 --> Final output sent to browser
+INFO - 2017-09-09 15:28:53 --> Final output sent to browser
+INFO - 2017-09-09 15:28:55 --> Config Class Initialized
+INFO - 2017-09-09 15:28:55 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:55 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:55 --> URI Class Initialized
+INFO - 2017-09-09 15:28:55 --> Router Class Initialized
+INFO - 2017-09-09 15:28:55 --> Output Class Initialized
+INFO - 2017-09-09 15:28:55 --> Security Class Initialized
+INFO - 2017-09-09 15:28:55 --> Input Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language Class Initialized
+INFO - 2017-09-09 15:28:55 --> Config Class Initialized
+INFO - 2017-09-09 15:28:55 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:55 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:55 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:55 --> Email Class Initialized
+INFO - 2017-09-09 15:28:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:55 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:55 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:55 --> Config Class Initialized
+INFO - 2017-09-09 15:28:55 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:55 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:55 --> URI Class Initialized
+INFO - 2017-09-09 15:28:55 --> Router Class Initialized
+INFO - 2017-09-09 15:28:55 --> Output Class Initialized
+INFO - 2017-09-09 15:28:55 --> Security Class Initialized
+INFO - 2017-09-09 15:28:55 --> Input Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language Class Initialized
+INFO - 2017-09-09 15:28:55 --> Config Class Initialized
+INFO - 2017-09-09 15:28:55 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:55 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:55 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:55 --> Email Class Initialized
+INFO - 2017-09-09 15:28:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:55 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:55 --> Final output sent to browser
+INFO - 2017-09-09 15:28:55 --> Config Class Initialized
+INFO - 2017-09-09 15:28:55 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:55 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:55 --> URI Class Initialized
+INFO - 2017-09-09 15:28:55 --> Router Class Initialized
+INFO - 2017-09-09 15:28:55 --> Output Class Initialized
+INFO - 2017-09-09 15:28:55 --> Security Class Initialized
+INFO - 2017-09-09 15:28:55 --> Input Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language Class Initialized
+INFO - 2017-09-09 15:28:55 --> Config Class Initialized
+INFO - 2017-09-09 15:28:55 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:55 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:55 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:55 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:55 --> Email Class Initialized
+INFO - 2017-09-09 15:28:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:55 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Model Class Initialized
+INFO - 2017-09-09 15:28:55 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:55 --> Final output sent to browser
+INFO - 2017-09-09 15:28:55 --> Final output sent to browser
+INFO - 2017-09-09 15:28:56 --> Config Class Initialized
+INFO - 2017-09-09 15:28:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:56 --> URI Class Initialized
+INFO - 2017-09-09 15:28:56 --> Router Class Initialized
+INFO - 2017-09-09 15:28:56 --> Output Class Initialized
+INFO - 2017-09-09 15:28:56 --> Security Class Initialized
+INFO - 2017-09-09 15:28:56 --> Input Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language Class Initialized
+INFO - 2017-09-09 15:28:56 --> Config Class Initialized
+INFO - 2017-09-09 15:28:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:56 --> Email Class Initialized
+INFO - 2017-09-09 15:28:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:56 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:56 --> Config Class Initialized
+INFO - 2017-09-09 15:28:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:56 --> URI Class Initialized
+INFO - 2017-09-09 15:28:56 --> Router Class Initialized
+INFO - 2017-09-09 15:28:56 --> Output Class Initialized
+INFO - 2017-09-09 15:28:56 --> Security Class Initialized
+INFO - 2017-09-09 15:28:56 --> Input Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language Class Initialized
+INFO - 2017-09-09 15:28:56 --> Config Class Initialized
+INFO - 2017-09-09 15:28:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:56 --> Email Class Initialized
+INFO - 2017-09-09 15:28:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:56 --> Final output sent to browser
+INFO - 2017-09-09 15:28:56 --> Config Class Initialized
+INFO - 2017-09-09 15:28:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:56 --> URI Class Initialized
+INFO - 2017-09-09 15:28:56 --> Router Class Initialized
+INFO - 2017-09-09 15:28:56 --> Output Class Initialized
+INFO - 2017-09-09 15:28:56 --> Security Class Initialized
+INFO - 2017-09-09 15:28:56 --> Input Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language Class Initialized
+INFO - 2017-09-09 15:28:56 --> Config Class Initialized
+INFO - 2017-09-09 15:28:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:56 --> Email Class Initialized
+INFO - 2017-09-09 15:28:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Model Class Initialized
+INFO - 2017-09-09 15:28:56 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:56 --> Final output sent to browser
+INFO - 2017-09-09 15:28:56 --> Final output sent to browser
+INFO - 2017-09-09 15:28:57 --> Config Class Initialized
+INFO - 2017-09-09 15:28:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:57 --> URI Class Initialized
+INFO - 2017-09-09 15:28:57 --> Router Class Initialized
+INFO - 2017-09-09 15:28:57 --> Output Class Initialized
+INFO - 2017-09-09 15:28:57 --> Security Class Initialized
+INFO - 2017-09-09 15:28:57 --> Input Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language Class Initialized
+INFO - 2017-09-09 15:28:57 --> Config Class Initialized
+INFO - 2017-09-09 15:28:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:57 --> Email Class Initialized
+INFO - 2017-09-09 15:28:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:57 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:57 --> Config Class Initialized
+INFO - 2017-09-09 15:28:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:57 --> URI Class Initialized
+INFO - 2017-09-09 15:28:57 --> Router Class Initialized
+INFO - 2017-09-09 15:28:57 --> Output Class Initialized
+INFO - 2017-09-09 15:28:57 --> Security Class Initialized
+INFO - 2017-09-09 15:28:57 --> Input Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language Class Initialized
+INFO - 2017-09-09 15:28:57 --> Config Class Initialized
+INFO - 2017-09-09 15:28:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:57 --> Email Class Initialized
+INFO - 2017-09-09 15:28:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:57 --> Final output sent to browser
+INFO - 2017-09-09 15:28:57 --> Config Class Initialized
+INFO - 2017-09-09 15:28:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:28:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:28:57 --> URI Class Initialized
+INFO - 2017-09-09 15:28:57 --> Router Class Initialized
+INFO - 2017-09-09 15:28:57 --> Output Class Initialized
+INFO - 2017-09-09 15:28:57 --> Security Class Initialized
+INFO - 2017-09-09 15:28:57 --> Input Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language Class Initialized
+INFO - 2017-09-09 15:28:57 --> Config Class Initialized
+INFO - 2017-09-09 15:28:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:28:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:28:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:28:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:28:57 --> Email Class Initialized
+INFO - 2017-09-09 15:28:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:28:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Model Class Initialized
+INFO - 2017-09-09 15:28:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:28:57 --> Final output sent to browser
+INFO - 2017-09-09 15:28:57 --> Final output sent to browser
+INFO - 2017-09-09 15:29:02 --> Config Class Initialized
+INFO - 2017-09-09 15:29:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:02 --> URI Class Initialized
+INFO - 2017-09-09 15:29:02 --> Router Class Initialized
+INFO - 2017-09-09 15:29:02 --> Output Class Initialized
+INFO - 2017-09-09 15:29:02 --> Security Class Initialized
+INFO - 2017-09-09 15:29:02 --> Input Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language Class Initialized
+INFO - 2017-09-09 15:29:02 --> Config Class Initialized
+INFO - 2017-09-09 15:29:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:02 --> Email Class Initialized
+INFO - 2017-09-09 15:29:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:02 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:02 --> Config Class Initialized
+INFO - 2017-09-09 15:29:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:02 --> URI Class Initialized
+INFO - 2017-09-09 15:29:02 --> Router Class Initialized
+INFO - 2017-09-09 15:29:02 --> Output Class Initialized
+INFO - 2017-09-09 15:29:02 --> Security Class Initialized
+INFO - 2017-09-09 15:29:02 --> Input Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language Class Initialized
+INFO - 2017-09-09 15:29:02 --> Config Class Initialized
+INFO - 2017-09-09 15:29:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:02 --> Email Class Initialized
+INFO - 2017-09-09 15:29:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Config Class Initialized
+INFO - 2017-09-09 15:29:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:02 --> URI Class Initialized
+INFO - 2017-09-09 15:29:02 --> Router Class Initialized
+INFO - 2017-09-09 15:29:02 --> Output Class Initialized
+INFO - 2017-09-09 15:29:02 --> Security Class Initialized
+INFO - 2017-09-09 15:29:02 --> Input Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language Class Initialized
+INFO - 2017-09-09 15:29:02 --> Config Class Initialized
+INFO - 2017-09-09 15:29:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:02 --> Email Class Initialized
+INFO - 2017-09-09 15:29:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Model Class Initialized
+INFO - 2017-09-09 15:29:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:02 --> Final output sent to browser
+INFO - 2017-09-09 15:29:02 --> Final output sent to browser
+INFO - 2017-09-09 15:29:04 --> Config Class Initialized
+INFO - 2017-09-09 15:29:04 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:04 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:04 --> URI Class Initialized
+INFO - 2017-09-09 15:29:04 --> Router Class Initialized
+INFO - 2017-09-09 15:29:04 --> Output Class Initialized
+INFO - 2017-09-09 15:29:04 --> Security Class Initialized
+INFO - 2017-09-09 15:29:04 --> Input Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language Class Initialized
+INFO - 2017-09-09 15:29:04 --> Config Class Initialized
+INFO - 2017-09-09 15:29:04 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:04 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:04 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:04 --> Email Class Initialized
+INFO - 2017-09-09 15:29:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:04 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:04 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:04 --> Config Class Initialized
+INFO - 2017-09-09 15:29:04 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:04 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:04 --> URI Class Initialized
+INFO - 2017-09-09 15:29:04 --> Router Class Initialized
+INFO - 2017-09-09 15:29:04 --> Output Class Initialized
+INFO - 2017-09-09 15:29:04 --> Security Class Initialized
+INFO - 2017-09-09 15:29:04 --> Input Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language Class Initialized
+INFO - 2017-09-09 15:29:04 --> Config Class Initialized
+INFO - 2017-09-09 15:29:04 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:04 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:04 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:04 --> Email Class Initialized
+INFO - 2017-09-09 15:29:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:04 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:04 --> Final output sent to browser
+INFO - 2017-09-09 15:29:04 --> Config Class Initialized
+INFO - 2017-09-09 15:29:04 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:04 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:04 --> URI Class Initialized
+INFO - 2017-09-09 15:29:04 --> Router Class Initialized
+INFO - 2017-09-09 15:29:04 --> Output Class Initialized
+INFO - 2017-09-09 15:29:04 --> Security Class Initialized
+INFO - 2017-09-09 15:29:04 --> Input Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language Class Initialized
+INFO - 2017-09-09 15:29:04 --> Config Class Initialized
+INFO - 2017-09-09 15:29:04 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:04 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:04 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:04 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:04 --> Email Class Initialized
+INFO - 2017-09-09 15:29:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:04 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Model Class Initialized
+INFO - 2017-09-09 15:29:04 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:04 --> Final output sent to browser
+INFO - 2017-09-09 15:29:04 --> Final output sent to browser
+INFO - 2017-09-09 15:29:08 --> Config Class Initialized
+INFO - 2017-09-09 15:29:08 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:08 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:08 --> URI Class Initialized
+INFO - 2017-09-09 15:29:08 --> Router Class Initialized
+INFO - 2017-09-09 15:29:08 --> Output Class Initialized
+INFO - 2017-09-09 15:29:08 --> Security Class Initialized
+INFO - 2017-09-09 15:29:08 --> Input Class Initialized
+INFO - 2017-09-09 15:29:08 --> Language Class Initialized
+INFO - 2017-09-09 15:29:08 --> Language Class Initialized
+INFO - 2017-09-09 15:29:08 --> Config Class Initialized
+INFO - 2017-09-09 15:29:08 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:08 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:08 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:08 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:08 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:08 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:08 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:08 --> Email Class Initialized
+INFO - 2017-09-09 15:29:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:08 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:08 --> Helper loaded: array_helper
+INFO - 2017-09-09 15:29:08 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Config Class Initialized
+INFO - 2017-09-09 15:29:11 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:11 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:11 --> URI Class Initialized
+INFO - 2017-09-09 15:29:11 --> Router Class Initialized
+INFO - 2017-09-09 15:29:11 --> Output Class Initialized
+INFO - 2017-09-09 15:29:11 --> Security Class Initialized
+INFO - 2017-09-09 15:29:11 --> Input Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language Class Initialized
+INFO - 2017-09-09 15:29:11 --> Config Class Initialized
+INFO - 2017-09-09 15:29:11 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:11 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:11 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:11 --> Email Class Initialized
+INFO - 2017-09-09 15:29:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:11 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:11 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:11 --> Config Class Initialized
+INFO - 2017-09-09 15:29:11 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:11 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:11 --> URI Class Initialized
+INFO - 2017-09-09 15:29:11 --> Router Class Initialized
+INFO - 2017-09-09 15:29:11 --> Output Class Initialized
+INFO - 2017-09-09 15:29:11 --> Security Class Initialized
+INFO - 2017-09-09 15:29:11 --> Input Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language Class Initialized
+INFO - 2017-09-09 15:29:11 --> Config Class Initialized
+INFO - 2017-09-09 15:29:11 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:11 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:11 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:11 --> Email Class Initialized
+INFO - 2017-09-09 15:29:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:11 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:11 --> Final output sent to browser
+INFO - 2017-09-09 15:29:11 --> Config Class Initialized
+INFO - 2017-09-09 15:29:11 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:11 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:11 --> URI Class Initialized
+INFO - 2017-09-09 15:29:11 --> Router Class Initialized
+INFO - 2017-09-09 15:29:11 --> Output Class Initialized
+INFO - 2017-09-09 15:29:11 --> Security Class Initialized
+INFO - 2017-09-09 15:29:11 --> Input Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language Class Initialized
+INFO - 2017-09-09 15:29:11 --> Config Class Initialized
+INFO - 2017-09-09 15:29:11 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:11 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:11 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:11 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:11 --> Email Class Initialized
+INFO - 2017-09-09 15:29:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:11 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Model Class Initialized
+INFO - 2017-09-09 15:29:11 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:11 --> Final output sent to browser
+INFO - 2017-09-09 15:29:11 --> Final output sent to browser
+INFO - 2017-09-09 15:29:41 --> Config Class Initialized
+INFO - 2017-09-09 15:29:41 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:41 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:41 --> URI Class Initialized
+INFO - 2017-09-09 15:29:41 --> Router Class Initialized
+INFO - 2017-09-09 15:29:41 --> Output Class Initialized
+INFO - 2017-09-09 15:29:41 --> Security Class Initialized
+INFO - 2017-09-09 15:29:41 --> Input Class Initialized
+INFO - 2017-09-09 15:29:41 --> Language Class Initialized
+INFO - 2017-09-09 15:29:41 --> Language Class Initialized
+INFO - 2017-09-09 15:29:41 --> Config Class Initialized
+INFO - 2017-09-09 15:29:41 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:41 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:41 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:41 --> Email Class Initialized
+INFO - 2017-09-09 15:29:41 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:41 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:41 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:41 --> Config Class Initialized
+INFO - 2017-09-09 15:29:41 --> Hooks Class Initialized
+INFO - 2017-09-09 15:29:41 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:29:41 --> URI Class Initialized
+INFO - 2017-09-09 15:29:41 --> Router Class Initialized
+INFO - 2017-09-09 15:29:41 --> Output Class Initialized
+INFO - 2017-09-09 15:29:41 --> Security Class Initialized
+INFO - 2017-09-09 15:29:41 --> Input Class Initialized
+INFO - 2017-09-09 15:29:41 --> Language Class Initialized
+INFO - 2017-09-09 15:29:41 --> Language Class Initialized
+INFO - 2017-09-09 15:29:41 --> Config Class Initialized
+INFO - 2017-09-09 15:29:41 --> Loader Class Initialized
+INFO - 2017-09-09 15:29:41 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:29:41 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:29:41 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:29:41 --> Email Class Initialized
+INFO - 2017-09-09 15:29:41 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:29:41 --> Controller Class Initialized
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Model Class Initialized
+INFO - 2017-09-09 15:29:41 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:29:41 --> Final output sent to browser
+INFO - 2017-09-09 15:29:41 --> Final output sent to browser
+INFO - 2017-09-09 15:30:51 --> Config Class Initialized
+INFO - 2017-09-09 15:30:51 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:51 --> URI Class Initialized
+INFO - 2017-09-09 15:30:51 --> Router Class Initialized
+INFO - 2017-09-09 15:30:51 --> Output Class Initialized
+INFO - 2017-09-09 15:30:51 --> Security Class Initialized
+INFO - 2017-09-09 15:30:51 --> Input Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language Class Initialized
+INFO - 2017-09-09 15:30:51 --> Config Class Initialized
+INFO - 2017-09-09 15:30:51 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:51 --> Email Class Initialized
+INFO - 2017-09-09 15:30:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:51 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:51 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:51 --> Config Class Initialized
+INFO - 2017-09-09 15:30:51 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:51 --> URI Class Initialized
+INFO - 2017-09-09 15:30:51 --> Router Class Initialized
+INFO - 2017-09-09 15:30:51 --> Output Class Initialized
+INFO - 2017-09-09 15:30:51 --> Security Class Initialized
+INFO - 2017-09-09 15:30:51 --> Input Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language Class Initialized
+INFO - 2017-09-09 15:30:51 --> Config Class Initialized
+INFO - 2017-09-09 15:30:51 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:51 --> Email Class Initialized
+INFO - 2017-09-09 15:30:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:51 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:51 --> Final output sent to browser
+INFO - 2017-09-09 15:30:51 --> Config Class Initialized
+INFO - 2017-09-09 15:30:51 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:51 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:51 --> URI Class Initialized
+INFO - 2017-09-09 15:30:51 --> Router Class Initialized
+INFO - 2017-09-09 15:30:51 --> Output Class Initialized
+INFO - 2017-09-09 15:30:51 --> Security Class Initialized
+INFO - 2017-09-09 15:30:51 --> Input Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language Class Initialized
+INFO - 2017-09-09 15:30:51 --> Config Class Initialized
+INFO - 2017-09-09 15:30:51 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:51 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:51 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:51 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:51 --> Email Class Initialized
+INFO - 2017-09-09 15:30:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:51 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Model Class Initialized
+INFO - 2017-09-09 15:30:51 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:51 --> Final output sent to browser
+INFO - 2017-09-09 15:30:51 --> Final output sent to browser
+INFO - 2017-09-09 15:30:53 --> Config Class Initialized
+INFO - 2017-09-09 15:30:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:53 --> URI Class Initialized
+INFO - 2017-09-09 15:30:53 --> Router Class Initialized
+INFO - 2017-09-09 15:30:53 --> Output Class Initialized
+INFO - 2017-09-09 15:30:53 --> Security Class Initialized
+INFO - 2017-09-09 15:30:53 --> Input Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language Class Initialized
+INFO - 2017-09-09 15:30:53 --> Config Class Initialized
+INFO - 2017-09-09 15:30:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:53 --> Email Class Initialized
+INFO - 2017-09-09 15:30:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:53 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:53 --> Config Class Initialized
+INFO - 2017-09-09 15:30:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:53 --> URI Class Initialized
+INFO - 2017-09-09 15:30:53 --> Router Class Initialized
+INFO - 2017-09-09 15:30:53 --> Output Class Initialized
+INFO - 2017-09-09 15:30:53 --> Security Class Initialized
+INFO - 2017-09-09 15:30:53 --> Input Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language Class Initialized
+INFO - 2017-09-09 15:30:53 --> Config Class Initialized
+INFO - 2017-09-09 15:30:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:53 --> Email Class Initialized
+INFO - 2017-09-09 15:30:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:53 --> Final output sent to browser
+INFO - 2017-09-09 15:30:53 --> Config Class Initialized
+INFO - 2017-09-09 15:30:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:53 --> URI Class Initialized
+INFO - 2017-09-09 15:30:53 --> Router Class Initialized
+INFO - 2017-09-09 15:30:53 --> Output Class Initialized
+INFO - 2017-09-09 15:30:53 --> Security Class Initialized
+INFO - 2017-09-09 15:30:53 --> Input Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language Class Initialized
+INFO - 2017-09-09 15:30:53 --> Config Class Initialized
+INFO - 2017-09-09 15:30:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:53 --> Email Class Initialized
+INFO - 2017-09-09 15:30:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Model Class Initialized
+INFO - 2017-09-09 15:30:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:53 --> Final output sent to browser
+INFO - 2017-09-09 15:30:53 --> Final output sent to browser
+INFO - 2017-09-09 15:30:56 --> Config Class Initialized
+INFO - 2017-09-09 15:30:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:56 --> URI Class Initialized
+INFO - 2017-09-09 15:30:56 --> Router Class Initialized
+INFO - 2017-09-09 15:30:56 --> Output Class Initialized
+INFO - 2017-09-09 15:30:56 --> Security Class Initialized
+INFO - 2017-09-09 15:30:56 --> Input Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language Class Initialized
+INFO - 2017-09-09 15:30:56 --> Config Class Initialized
+INFO - 2017-09-09 15:30:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:56 --> Email Class Initialized
+INFO - 2017-09-09 15:30:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:56 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:56 --> Config Class Initialized
+INFO - 2017-09-09 15:30:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:56 --> URI Class Initialized
+INFO - 2017-09-09 15:30:56 --> Router Class Initialized
+INFO - 2017-09-09 15:30:56 --> Output Class Initialized
+INFO - 2017-09-09 15:30:56 --> Security Class Initialized
+INFO - 2017-09-09 15:30:56 --> Input Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language Class Initialized
+INFO - 2017-09-09 15:30:56 --> Config Class Initialized
+INFO - 2017-09-09 15:30:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:56 --> Email Class Initialized
+INFO - 2017-09-09 15:30:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Config Class Initialized
+INFO - 2017-09-09 15:30:56 --> Hooks Class Initialized
+INFO - 2017-09-09 15:30:56 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:30:56 --> URI Class Initialized
+INFO - 2017-09-09 15:30:56 --> Router Class Initialized
+INFO - 2017-09-09 15:30:56 --> Output Class Initialized
+INFO - 2017-09-09 15:30:56 --> Security Class Initialized
+INFO - 2017-09-09 15:30:56 --> Input Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language Class Initialized
+INFO - 2017-09-09 15:30:56 --> Config Class Initialized
+INFO - 2017-09-09 15:30:56 --> Loader Class Initialized
+INFO - 2017-09-09 15:30:56 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:30:56 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:30:56 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:30:56 --> Email Class Initialized
+INFO - 2017-09-09 15:30:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:30:56 --> Controller Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Model Class Initialized
+INFO - 2017-09-09 15:30:56 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:30:56 --> Final output sent to browser
+INFO - 2017-09-09 15:30:56 --> Final output sent to browser
+INFO - 2017-09-09 15:31:03 --> Config Class Initialized
+INFO - 2017-09-09 15:31:03 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:03 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:03 --> URI Class Initialized
+INFO - 2017-09-09 15:31:03 --> Router Class Initialized
+INFO - 2017-09-09 15:31:03 --> Output Class Initialized
+INFO - 2017-09-09 15:31:03 --> Security Class Initialized
+INFO - 2017-09-09 15:31:03 --> Input Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language Class Initialized
+INFO - 2017-09-09 15:31:03 --> Config Class Initialized
+INFO - 2017-09-09 15:31:03 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:03 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:03 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:03 --> Email Class Initialized
+INFO - 2017-09-09 15:31:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:03 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:03 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:03 --> Config Class Initialized
+INFO - 2017-09-09 15:31:03 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:03 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:03 --> URI Class Initialized
+INFO - 2017-09-09 15:31:03 --> Router Class Initialized
+INFO - 2017-09-09 15:31:03 --> Output Class Initialized
+INFO - 2017-09-09 15:31:03 --> Security Class Initialized
+INFO - 2017-09-09 15:31:03 --> Input Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language Class Initialized
+INFO - 2017-09-09 15:31:03 --> Config Class Initialized
+INFO - 2017-09-09 15:31:03 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:03 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:03 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:03 --> Email Class Initialized
+INFO - 2017-09-09 15:31:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:03 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:03 --> Final output sent to browser
+INFO - 2017-09-09 15:31:03 --> Config Class Initialized
+INFO - 2017-09-09 15:31:03 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:03 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:03 --> URI Class Initialized
+INFO - 2017-09-09 15:31:03 --> Router Class Initialized
+INFO - 2017-09-09 15:31:03 --> Output Class Initialized
+INFO - 2017-09-09 15:31:03 --> Security Class Initialized
+INFO - 2017-09-09 15:31:03 --> Input Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language Class Initialized
+INFO - 2017-09-09 15:31:03 --> Config Class Initialized
+INFO - 2017-09-09 15:31:03 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:03 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:03 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:03 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:03 --> Email Class Initialized
+INFO - 2017-09-09 15:31:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:03 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Model Class Initialized
+INFO - 2017-09-09 15:31:03 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:03 --> Final output sent to browser
+INFO - 2017-09-09 15:31:03 --> Final output sent to browser
+INFO - 2017-09-09 15:31:10 --> Config Class Initialized
+INFO - 2017-09-09 15:31:10 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:10 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:10 --> URI Class Initialized
+INFO - 2017-09-09 15:31:10 --> Router Class Initialized
+INFO - 2017-09-09 15:31:10 --> Output Class Initialized
+INFO - 2017-09-09 15:31:10 --> Security Class Initialized
+INFO - 2017-09-09 15:31:10 --> Input Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language Class Initialized
+INFO - 2017-09-09 15:31:10 --> Config Class Initialized
+INFO - 2017-09-09 15:31:10 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:10 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:10 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:10 --> Email Class Initialized
+INFO - 2017-09-09 15:31:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:10 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:10 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:10 --> Config Class Initialized
+INFO - 2017-09-09 15:31:10 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:10 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:10 --> URI Class Initialized
+INFO - 2017-09-09 15:31:10 --> Router Class Initialized
+INFO - 2017-09-09 15:31:10 --> Output Class Initialized
+INFO - 2017-09-09 15:31:10 --> Security Class Initialized
+INFO - 2017-09-09 15:31:10 --> Input Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language Class Initialized
+INFO - 2017-09-09 15:31:10 --> Config Class Initialized
+INFO - 2017-09-09 15:31:10 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:10 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:10 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:10 --> Email Class Initialized
+INFO - 2017-09-09 15:31:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:10 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:10 --> Final output sent to browser
+INFO - 2017-09-09 15:31:10 --> Config Class Initialized
+INFO - 2017-09-09 15:31:10 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:10 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:10 --> URI Class Initialized
+INFO - 2017-09-09 15:31:10 --> Router Class Initialized
+INFO - 2017-09-09 15:31:10 --> Output Class Initialized
+INFO - 2017-09-09 15:31:10 --> Security Class Initialized
+INFO - 2017-09-09 15:31:10 --> Input Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language Class Initialized
+INFO - 2017-09-09 15:31:10 --> Config Class Initialized
+INFO - 2017-09-09 15:31:10 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:10 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:10 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:10 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:10 --> Email Class Initialized
+INFO - 2017-09-09 15:31:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:10 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Model Class Initialized
+INFO - 2017-09-09 15:31:10 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:10 --> Final output sent to browser
+INFO - 2017-09-09 15:31:10 --> Final output sent to browser
+INFO - 2017-09-09 15:31:11 --> Config Class Initialized
+INFO - 2017-09-09 15:31:11 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:11 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:11 --> URI Class Initialized
+INFO - 2017-09-09 15:31:11 --> Router Class Initialized
+INFO - 2017-09-09 15:31:11 --> Output Class Initialized
+INFO - 2017-09-09 15:31:11 --> Security Class Initialized
+INFO - 2017-09-09 15:31:11 --> Input Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language Class Initialized
+INFO - 2017-09-09 15:31:11 --> Config Class Initialized
+INFO - 2017-09-09 15:31:11 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:11 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:11 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:11 --> Email Class Initialized
+INFO - 2017-09-09 15:31:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:11 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:11 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:11 --> Config Class Initialized
+INFO - 2017-09-09 15:31:11 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:11 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:11 --> URI Class Initialized
+INFO - 2017-09-09 15:31:11 --> Router Class Initialized
+INFO - 2017-09-09 15:31:11 --> Output Class Initialized
+INFO - 2017-09-09 15:31:11 --> Security Class Initialized
+INFO - 2017-09-09 15:31:11 --> Input Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language Class Initialized
+INFO - 2017-09-09 15:31:11 --> Config Class Initialized
+INFO - 2017-09-09 15:31:11 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:11 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:11 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:11 --> Email Class Initialized
+INFO - 2017-09-09 15:31:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:11 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:11 --> Final output sent to browser
+INFO - 2017-09-09 15:31:11 --> Config Class Initialized
+INFO - 2017-09-09 15:31:11 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:11 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:11 --> URI Class Initialized
+INFO - 2017-09-09 15:31:11 --> Router Class Initialized
+INFO - 2017-09-09 15:31:11 --> Output Class Initialized
+INFO - 2017-09-09 15:31:11 --> Security Class Initialized
+INFO - 2017-09-09 15:31:11 --> Input Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language Class Initialized
+INFO - 2017-09-09 15:31:11 --> Config Class Initialized
+INFO - 2017-09-09 15:31:11 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:11 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:11 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:11 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:11 --> Email Class Initialized
+INFO - 2017-09-09 15:31:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:11 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Model Class Initialized
+INFO - 2017-09-09 15:31:11 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:11 --> Final output sent to browser
+INFO - 2017-09-09 15:31:11 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:31:43 --> Calendar Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:43 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:43 --> URI Class Initialized
+INFO - 2017-09-09 15:31:43 --> Router Class Initialized
+INFO - 2017-09-09 15:31:43 --> Output Class Initialized
+INFO - 2017-09-09 15:31:43 --> Security Class Initialized
+INFO - 2017-09-09 15:31:43 --> Input Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Language Class Initialized
+INFO - 2017-09-09 15:31:43 --> Config Class Initialized
+INFO - 2017-09-09 15:31:43 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:43 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:43 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:43 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:43 --> Email Class Initialized
+INFO - 2017-09-09 15:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:43 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:43 --> Model Class Initialized
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:43 --> Final output sent to browser
+INFO - 2017-09-09 15:31:48 --> Config Class Initialized
+INFO - 2017-09-09 15:31:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:48 --> URI Class Initialized
+INFO - 2017-09-09 15:31:48 --> Router Class Initialized
+INFO - 2017-09-09 15:31:48 --> Output Class Initialized
+INFO - 2017-09-09 15:31:48 --> Security Class Initialized
+INFO - 2017-09-09 15:31:48 --> Input Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language Class Initialized
+INFO - 2017-09-09 15:31:48 --> Config Class Initialized
+INFO - 2017-09-09 15:31:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:48 --> Email Class Initialized
+INFO - 2017-09-09 15:31:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:48 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:48 --> Config Class Initialized
+INFO - 2017-09-09 15:31:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:48 --> URI Class Initialized
+INFO - 2017-09-09 15:31:48 --> Router Class Initialized
+INFO - 2017-09-09 15:31:48 --> Output Class Initialized
+INFO - 2017-09-09 15:31:48 --> Security Class Initialized
+INFO - 2017-09-09 15:31:48 --> Input Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language Class Initialized
+INFO - 2017-09-09 15:31:48 --> Config Class Initialized
+INFO - 2017-09-09 15:31:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:48 --> Email Class Initialized
+INFO - 2017-09-09 15:31:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:48 --> Final output sent to browser
+INFO - 2017-09-09 15:31:48 --> Config Class Initialized
+INFO - 2017-09-09 15:31:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:31:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:31:48 --> URI Class Initialized
+INFO - 2017-09-09 15:31:48 --> Router Class Initialized
+INFO - 2017-09-09 15:31:48 --> Output Class Initialized
+INFO - 2017-09-09 15:31:48 --> Security Class Initialized
+INFO - 2017-09-09 15:31:48 --> Input Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language Class Initialized
+INFO - 2017-09-09 15:31:48 --> Config Class Initialized
+INFO - 2017-09-09 15:31:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:31:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:31:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:31:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:31:48 --> Email Class Initialized
+INFO - 2017-09-09 15:31:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:31:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Model Class Initialized
+INFO - 2017-09-09 15:31:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:31:48 --> Final output sent to browser
+INFO - 2017-09-09 15:31:48 --> Final output sent to browser
+INFO - 2017-09-09 15:32:14 --> Config Class Initialized
+INFO - 2017-09-09 15:32:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:14 --> URI Class Initialized
+INFO - 2017-09-09 15:32:14 --> Router Class Initialized
+INFO - 2017-09-09 15:32:14 --> Output Class Initialized
+INFO - 2017-09-09 15:32:14 --> Security Class Initialized
+INFO - 2017-09-09 15:32:14 --> Input Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language Class Initialized
+INFO - 2017-09-09 15:32:14 --> Config Class Initialized
+INFO - 2017-09-09 15:32:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:14 --> Email Class Initialized
+INFO - 2017-09-09 15:32:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:14 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:14 --> Config Class Initialized
+INFO - 2017-09-09 15:32:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:14 --> URI Class Initialized
+INFO - 2017-09-09 15:32:14 --> Router Class Initialized
+INFO - 2017-09-09 15:32:14 --> Output Class Initialized
+INFO - 2017-09-09 15:32:14 --> Security Class Initialized
+INFO - 2017-09-09 15:32:14 --> Input Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language Class Initialized
+INFO - 2017-09-09 15:32:14 --> Config Class Initialized
+INFO - 2017-09-09 15:32:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:14 --> Email Class Initialized
+INFO - 2017-09-09 15:32:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Config Class Initialized
+INFO - 2017-09-09 15:32:14 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:14 --> URI Class Initialized
+INFO - 2017-09-09 15:32:14 --> Router Class Initialized
+INFO - 2017-09-09 15:32:14 --> Output Class Initialized
+INFO - 2017-09-09 15:32:14 --> Security Class Initialized
+INFO - 2017-09-09 15:32:14 --> Input Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language Class Initialized
+INFO - 2017-09-09 15:32:14 --> Config Class Initialized
+INFO - 2017-09-09 15:32:14 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:14 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:14 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:14 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:14 --> Email Class Initialized
+INFO - 2017-09-09 15:32:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:14 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Model Class Initialized
+INFO - 2017-09-09 15:32:14 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:14 --> Final output sent to browser
+INFO - 2017-09-09 15:32:15 --> Final output sent to browser
+INFO - 2017-09-09 15:32:20 --> Config Class Initialized
+INFO - 2017-09-09 15:32:20 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:20 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:20 --> URI Class Initialized
+INFO - 2017-09-09 15:32:20 --> Router Class Initialized
+INFO - 2017-09-09 15:32:20 --> Output Class Initialized
+INFO - 2017-09-09 15:32:20 --> Security Class Initialized
+INFO - 2017-09-09 15:32:20 --> Input Class Initialized
+INFO - 2017-09-09 15:32:20 --> Language Class Initialized
+INFO - 2017-09-09 15:32:20 --> Language Class Initialized
+INFO - 2017-09-09 15:32:20 --> Config Class Initialized
+INFO - 2017-09-09 15:32:20 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:20 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:20 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:20 --> Email Class Initialized
+INFO - 2017-09-09 15:32:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:20 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:20 --> Helper loaded: array_helper
+INFO - 2017-09-09 15:32:20 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:20 --> Config Class Initialized
+INFO - 2017-09-09 15:32:20 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:20 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:20 --> URI Class Initialized
+INFO - 2017-09-09 15:32:20 --> Router Class Initialized
+INFO - 2017-09-09 15:32:20 --> Output Class Initialized
+INFO - 2017-09-09 15:32:20 --> Security Class Initialized
+INFO - 2017-09-09 15:32:20 --> Input Class Initialized
+INFO - 2017-09-09 15:32:20 --> Language Class Initialized
+INFO - 2017-09-09 15:32:20 --> Language Class Initialized
+INFO - 2017-09-09 15:32:20 --> Config Class Initialized
+INFO - 2017-09-09 15:32:20 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:20 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:20 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:20 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:20 --> Email Class Initialized
+INFO - 2017-09-09 15:32:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:20 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:20 --> Model Class Initialized
+INFO - 2017-09-09 15:32:20 --> Model Class Initialized
+INFO - 2017-09-09 15:32:20 --> Model Class Initialized
+INFO - 2017-09-09 15:32:20 --> Model Class Initialized
+INFO - 2017-09-09 15:32:20 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:20 --> Final output sent to browser
+INFO - 2017-09-09 15:32:20 --> Final output sent to browser
+INFO - 2017-09-09 15:32:21 --> Config Class Initialized
+INFO - 2017-09-09 15:32:21 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:21 --> URI Class Initialized
+INFO - 2017-09-09 15:32:21 --> Router Class Initialized
+INFO - 2017-09-09 15:32:21 --> Output Class Initialized
+INFO - 2017-09-09 15:32:21 --> Security Class Initialized
+INFO - 2017-09-09 15:32:21 --> Input Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language Class Initialized
+INFO - 2017-09-09 15:32:21 --> Config Class Initialized
+INFO - 2017-09-09 15:32:21 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:21 --> Email Class Initialized
+INFO - 2017-09-09 15:32:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:21 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:21 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:21 --> Config Class Initialized
+INFO - 2017-09-09 15:32:21 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:21 --> URI Class Initialized
+INFO - 2017-09-09 15:32:21 --> Router Class Initialized
+INFO - 2017-09-09 15:32:21 --> Output Class Initialized
+INFO - 2017-09-09 15:32:21 --> Security Class Initialized
+INFO - 2017-09-09 15:32:21 --> Input Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language Class Initialized
+INFO - 2017-09-09 15:32:21 --> Config Class Initialized
+INFO - 2017-09-09 15:32:21 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:21 --> Email Class Initialized
+INFO - 2017-09-09 15:32:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:21 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Config Class Initialized
+INFO - 2017-09-09 15:32:21 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:21 --> URI Class Initialized
+INFO - 2017-09-09 15:32:21 --> Router Class Initialized
+INFO - 2017-09-09 15:32:21 --> Output Class Initialized
+INFO - 2017-09-09 15:32:21 --> Security Class Initialized
+INFO - 2017-09-09 15:32:21 --> Input Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language Class Initialized
+INFO - 2017-09-09 15:32:21 --> Config Class Initialized
+INFO - 2017-09-09 15:32:21 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:21 --> Email Class Initialized
+INFO - 2017-09-09 15:32:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:21 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Model Class Initialized
+INFO - 2017-09-09 15:32:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:21 --> Final output sent to browser
+INFO - 2017-09-09 15:32:22 --> Final output sent to browser
+INFO - 2017-09-09 15:32:39 --> Config Class Initialized
+INFO - 2017-09-09 15:32:39 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:39 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:39 --> URI Class Initialized
+INFO - 2017-09-09 15:32:39 --> Router Class Initialized
+INFO - 2017-09-09 15:32:39 --> Output Class Initialized
+INFO - 2017-09-09 15:32:39 --> Security Class Initialized
+INFO - 2017-09-09 15:32:39 --> Input Class Initialized
+INFO - 2017-09-09 15:32:39 --> Language Class Initialized
+INFO - 2017-09-09 15:32:39 --> Language Class Initialized
+INFO - 2017-09-09 15:32:39 --> Config Class Initialized
+INFO - 2017-09-09 15:32:39 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:39 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:39 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:39 --> Email Class Initialized
+INFO - 2017-09-09 15:32:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:39 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:39 --> Helper loaded: array_helper
+INFO - 2017-09-09 15:32:39 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:39 --> Config Class Initialized
+INFO - 2017-09-09 15:32:39 --> Hooks Class Initialized
+INFO - 2017-09-09 15:32:39 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:32:39 --> URI Class Initialized
+INFO - 2017-09-09 15:32:39 --> Router Class Initialized
+INFO - 2017-09-09 15:32:39 --> Output Class Initialized
+INFO - 2017-09-09 15:32:39 --> Security Class Initialized
+INFO - 2017-09-09 15:32:39 --> Input Class Initialized
+INFO - 2017-09-09 15:32:39 --> Language Class Initialized
+INFO - 2017-09-09 15:32:39 --> Language Class Initialized
+INFO - 2017-09-09 15:32:39 --> Config Class Initialized
+INFO - 2017-09-09 15:32:39 --> Loader Class Initialized
+INFO - 2017-09-09 15:32:39 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:32:39 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:32:39 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:32:39 --> Email Class Initialized
+INFO - 2017-09-09 15:32:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:32:39 --> Controller Class Initialized
+INFO - 2017-09-09 15:32:39 --> Model Class Initialized
+INFO - 2017-09-09 15:32:39 --> Model Class Initialized
+INFO - 2017-09-09 15:32:39 --> Model Class Initialized
+INFO - 2017-09-09 15:32:39 --> Model Class Initialized
+INFO - 2017-09-09 15:32:39 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:32:39 --> Final output sent to browser
+INFO - 2017-09-09 15:32:39 --> Final output sent to browser
+INFO - 2017-09-09 15:33:02 --> Config Class Initialized
+INFO - 2017-09-09 15:33:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:02 --> URI Class Initialized
+INFO - 2017-09-09 15:33:02 --> Router Class Initialized
+INFO - 2017-09-09 15:33:02 --> Output Class Initialized
+INFO - 2017-09-09 15:33:02 --> Security Class Initialized
+INFO - 2017-09-09 15:33:02 --> Input Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language Class Initialized
+INFO - 2017-09-09 15:33:02 --> Config Class Initialized
+INFO - 2017-09-09 15:33:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:02 --> Email Class Initialized
+INFO - 2017-09-09 15:33:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:02 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:02 --> Config Class Initialized
+INFO - 2017-09-09 15:33:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:02 --> URI Class Initialized
+INFO - 2017-09-09 15:33:02 --> Router Class Initialized
+INFO - 2017-09-09 15:33:02 --> Output Class Initialized
+INFO - 2017-09-09 15:33:02 --> Security Class Initialized
+INFO - 2017-09-09 15:33:02 --> Input Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language Class Initialized
+INFO - 2017-09-09 15:33:02 --> Config Class Initialized
+INFO - 2017-09-09 15:33:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:02 --> Email Class Initialized
+INFO - 2017-09-09 15:33:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:02 --> Final output sent to browser
+INFO - 2017-09-09 15:33:02 --> Config Class Initialized
+INFO - 2017-09-09 15:33:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:02 --> URI Class Initialized
+INFO - 2017-09-09 15:33:02 --> Router Class Initialized
+INFO - 2017-09-09 15:33:02 --> Output Class Initialized
+INFO - 2017-09-09 15:33:02 --> Security Class Initialized
+INFO - 2017-09-09 15:33:02 --> Input Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language Class Initialized
+INFO - 2017-09-09 15:33:02 --> Config Class Initialized
+INFO - 2017-09-09 15:33:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:02 --> Email Class Initialized
+INFO - 2017-09-09 15:33:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Model Class Initialized
+INFO - 2017-09-09 15:33:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:02 --> Final output sent to browser
+INFO - 2017-09-09 15:33:02 --> Final output sent to browser
+INFO - 2017-09-09 15:33:08 --> Config Class Initialized
+INFO - 2017-09-09 15:33:08 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:08 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:08 --> URI Class Initialized
+INFO - 2017-09-09 15:33:08 --> Router Class Initialized
+INFO - 2017-09-09 15:33:08 --> Output Class Initialized
+INFO - 2017-09-09 15:33:08 --> Security Class Initialized
+INFO - 2017-09-09 15:33:08 --> Input Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language Class Initialized
+INFO - 2017-09-09 15:33:08 --> Config Class Initialized
+INFO - 2017-09-09 15:33:08 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:08 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:08 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:08 --> Email Class Initialized
+INFO - 2017-09-09 15:33:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:08 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:08 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:08 --> Config Class Initialized
+INFO - 2017-09-09 15:33:08 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:08 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:08 --> URI Class Initialized
+INFO - 2017-09-09 15:33:08 --> Router Class Initialized
+INFO - 2017-09-09 15:33:08 --> Output Class Initialized
+INFO - 2017-09-09 15:33:08 --> Security Class Initialized
+INFO - 2017-09-09 15:33:08 --> Input Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language Class Initialized
+INFO - 2017-09-09 15:33:08 --> Config Class Initialized
+INFO - 2017-09-09 15:33:08 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:08 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:08 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:08 --> Email Class Initialized
+INFO - 2017-09-09 15:33:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:08 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Config Class Initialized
+INFO - 2017-09-09 15:33:08 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:08 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:08 --> URI Class Initialized
+INFO - 2017-09-09 15:33:08 --> Router Class Initialized
+INFO - 2017-09-09 15:33:08 --> Output Class Initialized
+INFO - 2017-09-09 15:33:08 --> Security Class Initialized
+INFO - 2017-09-09 15:33:08 --> Input Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language Class Initialized
+INFO - 2017-09-09 15:33:08 --> Config Class Initialized
+INFO - 2017-09-09 15:33:08 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:08 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:08 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:08 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:08 --> Email Class Initialized
+INFO - 2017-09-09 15:33:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:08 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Model Class Initialized
+INFO - 2017-09-09 15:33:08 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:08 --> Final output sent to browser
+INFO - 2017-09-09 15:33:08 --> Final output sent to browser
+INFO - 2017-09-09 15:33:15 --> Config Class Initialized
+INFO - 2017-09-09 15:33:15 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:15 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:15 --> URI Class Initialized
+INFO - 2017-09-09 15:33:15 --> Router Class Initialized
+INFO - 2017-09-09 15:33:15 --> Output Class Initialized
+INFO - 2017-09-09 15:33:15 --> Security Class Initialized
+INFO - 2017-09-09 15:33:15 --> Input Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language Class Initialized
+INFO - 2017-09-09 15:33:15 --> Config Class Initialized
+INFO - 2017-09-09 15:33:15 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:15 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:15 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:15 --> Email Class Initialized
+INFO - 2017-09-09 15:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:15 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:15 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:15 --> Config Class Initialized
+INFO - 2017-09-09 15:33:15 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:15 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:15 --> URI Class Initialized
+INFO - 2017-09-09 15:33:15 --> Router Class Initialized
+INFO - 2017-09-09 15:33:15 --> Output Class Initialized
+INFO - 2017-09-09 15:33:15 --> Security Class Initialized
+INFO - 2017-09-09 15:33:15 --> Input Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language Class Initialized
+INFO - 2017-09-09 15:33:15 --> Config Class Initialized
+INFO - 2017-09-09 15:33:15 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:15 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:15 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:15 --> Email Class Initialized
+INFO - 2017-09-09 15:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:15 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:15 --> Final output sent to browser
+INFO - 2017-09-09 15:33:15 --> Config Class Initialized
+INFO - 2017-09-09 15:33:15 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:15 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:15 --> URI Class Initialized
+INFO - 2017-09-09 15:33:15 --> Router Class Initialized
+INFO - 2017-09-09 15:33:15 --> Output Class Initialized
+INFO - 2017-09-09 15:33:15 --> Security Class Initialized
+INFO - 2017-09-09 15:33:15 --> Input Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language Class Initialized
+INFO - 2017-09-09 15:33:15 --> Config Class Initialized
+INFO - 2017-09-09 15:33:15 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:15 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:15 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:15 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:15 --> Email Class Initialized
+INFO - 2017-09-09 15:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:15 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Model Class Initialized
+INFO - 2017-09-09 15:33:15 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:15 --> Final output sent to browser
+INFO - 2017-09-09 15:33:15 --> Final output sent to browser
+INFO - 2017-09-09 15:33:21 --> Config Class Initialized
+INFO - 2017-09-09 15:33:21 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:21 --> URI Class Initialized
+INFO - 2017-09-09 15:33:21 --> Router Class Initialized
+INFO - 2017-09-09 15:33:21 --> Output Class Initialized
+INFO - 2017-09-09 15:33:21 --> Security Class Initialized
+INFO - 2017-09-09 15:33:21 --> Input Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language Class Initialized
+INFO - 2017-09-09 15:33:21 --> Config Class Initialized
+INFO - 2017-09-09 15:33:21 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:21 --> Email Class Initialized
+INFO - 2017-09-09 15:33:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:21 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:21 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:21 --> Config Class Initialized
+INFO - 2017-09-09 15:33:21 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:21 --> URI Class Initialized
+INFO - 2017-09-09 15:33:21 --> Router Class Initialized
+INFO - 2017-09-09 15:33:21 --> Output Class Initialized
+INFO - 2017-09-09 15:33:21 --> Security Class Initialized
+INFO - 2017-09-09 15:33:21 --> Input Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language Class Initialized
+INFO - 2017-09-09 15:33:21 --> Config Class Initialized
+INFO - 2017-09-09 15:33:21 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:21 --> Email Class Initialized
+INFO - 2017-09-09 15:33:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:21 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:21 --> Final output sent to browser
+INFO - 2017-09-09 15:33:21 --> Config Class Initialized
+INFO - 2017-09-09 15:33:21 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:21 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:21 --> URI Class Initialized
+INFO - 2017-09-09 15:33:21 --> Router Class Initialized
+INFO - 2017-09-09 15:33:21 --> Output Class Initialized
+INFO - 2017-09-09 15:33:21 --> Security Class Initialized
+INFO - 2017-09-09 15:33:21 --> Input Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language Class Initialized
+INFO - 2017-09-09 15:33:21 --> Config Class Initialized
+INFO - 2017-09-09 15:33:21 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:21 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:21 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:21 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:21 --> Email Class Initialized
+INFO - 2017-09-09 15:33:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:21 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Model Class Initialized
+INFO - 2017-09-09 15:33:21 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:21 --> Final output sent to browser
+INFO - 2017-09-09 15:33:21 --> Final output sent to browser
+INFO - 2017-09-09 15:33:22 --> Config Class Initialized
+INFO - 2017-09-09 15:33:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:22 --> URI Class Initialized
+INFO - 2017-09-09 15:33:22 --> Router Class Initialized
+INFO - 2017-09-09 15:33:22 --> Output Class Initialized
+INFO - 2017-09-09 15:33:22 --> Security Class Initialized
+INFO - 2017-09-09 15:33:22 --> Input Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language Class Initialized
+INFO - 2017-09-09 15:33:22 --> Config Class Initialized
+INFO - 2017-09-09 15:33:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:22 --> Email Class Initialized
+INFO - 2017-09-09 15:33:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:22 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:22 --> Config Class Initialized
+INFO - 2017-09-09 15:33:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:22 --> URI Class Initialized
+INFO - 2017-09-09 15:33:22 --> Router Class Initialized
+INFO - 2017-09-09 15:33:22 --> Output Class Initialized
+INFO - 2017-09-09 15:33:22 --> Security Class Initialized
+INFO - 2017-09-09 15:33:22 --> Input Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language Class Initialized
+INFO - 2017-09-09 15:33:22 --> Config Class Initialized
+INFO - 2017-09-09 15:33:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:22 --> Email Class Initialized
+INFO - 2017-09-09 15:33:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:22 --> Final output sent to browser
+INFO - 2017-09-09 15:33:22 --> Config Class Initialized
+INFO - 2017-09-09 15:33:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:22 --> URI Class Initialized
+INFO - 2017-09-09 15:33:22 --> Router Class Initialized
+INFO - 2017-09-09 15:33:22 --> Output Class Initialized
+INFO - 2017-09-09 15:33:22 --> Security Class Initialized
+INFO - 2017-09-09 15:33:22 --> Input Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language Class Initialized
+INFO - 2017-09-09 15:33:22 --> Config Class Initialized
+INFO - 2017-09-09 15:33:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:22 --> Email Class Initialized
+INFO - 2017-09-09 15:33:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Model Class Initialized
+INFO - 2017-09-09 15:33:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:22 --> Final output sent to browser
+INFO - 2017-09-09 15:33:22 --> Final output sent to browser
+INFO - 2017-09-09 15:33:38 --> Config Class Initialized
+INFO - 2017-09-09 15:33:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:38 --> URI Class Initialized
+INFO - 2017-09-09 15:33:38 --> Router Class Initialized
+INFO - 2017-09-09 15:33:38 --> Output Class Initialized
+INFO - 2017-09-09 15:33:38 --> Security Class Initialized
+INFO - 2017-09-09 15:33:38 --> Input Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language Class Initialized
+INFO - 2017-09-09 15:33:38 --> Config Class Initialized
+INFO - 2017-09-09 15:33:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:38 --> Email Class Initialized
+INFO - 2017-09-09 15:33:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:38 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:38 --> Config Class Initialized
+INFO - 2017-09-09 15:33:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:38 --> URI Class Initialized
+INFO - 2017-09-09 15:33:38 --> Router Class Initialized
+INFO - 2017-09-09 15:33:38 --> Output Class Initialized
+INFO - 2017-09-09 15:33:38 --> Security Class Initialized
+INFO - 2017-09-09 15:33:38 --> Input Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language Class Initialized
+INFO - 2017-09-09 15:33:38 --> Config Class Initialized
+INFO - 2017-09-09 15:33:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:38 --> Email Class Initialized
+INFO - 2017-09-09 15:33:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:38 --> Final output sent to browser
+INFO - 2017-09-09 15:33:38 --> Config Class Initialized
+INFO - 2017-09-09 15:33:38 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:38 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:38 --> URI Class Initialized
+INFO - 2017-09-09 15:33:38 --> Router Class Initialized
+INFO - 2017-09-09 15:33:38 --> Output Class Initialized
+INFO - 2017-09-09 15:33:38 --> Security Class Initialized
+INFO - 2017-09-09 15:33:38 --> Input Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language Class Initialized
+INFO - 2017-09-09 15:33:38 --> Config Class Initialized
+INFO - 2017-09-09 15:33:38 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:38 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:38 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:38 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:38 --> Email Class Initialized
+INFO - 2017-09-09 15:33:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:38 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Model Class Initialized
+INFO - 2017-09-09 15:33:38 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:38 --> Final output sent to browser
+INFO - 2017-09-09 15:33:38 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:33:40 --> Calendar Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Hooks Class Initialized
+INFO - 2017-09-09 15:33:40 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:33:40 --> URI Class Initialized
+INFO - 2017-09-09 15:33:40 --> Router Class Initialized
+INFO - 2017-09-09 15:33:40 --> Output Class Initialized
+INFO - 2017-09-09 15:33:40 --> Security Class Initialized
+INFO - 2017-09-09 15:33:40 --> Input Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Language Class Initialized
+INFO - 2017-09-09 15:33:40 --> Config Class Initialized
+INFO - 2017-09-09 15:33:40 --> Loader Class Initialized
+INFO - 2017-09-09 15:33:40 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:33:40 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:33:40 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:33:40 --> Email Class Initialized
+INFO - 2017-09-09 15:33:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:33:40 --> Controller Class Initialized
+INFO - 2017-09-09 15:33:40 --> Model Class Initialized
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:33:40 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:34:48 --> Calendar Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Hooks Class Initialized
+INFO - 2017-09-09 15:34:48 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:34:48 --> URI Class Initialized
+INFO - 2017-09-09 15:34:48 --> Router Class Initialized
+INFO - 2017-09-09 15:34:48 --> Output Class Initialized
+INFO - 2017-09-09 15:34:48 --> Security Class Initialized
+INFO - 2017-09-09 15:34:48 --> Input Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Language Class Initialized
+INFO - 2017-09-09 15:34:48 --> Config Class Initialized
+INFO - 2017-09-09 15:34:48 --> Loader Class Initialized
+INFO - 2017-09-09 15:34:48 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:34:48 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:34:48 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:34:48 --> Email Class Initialized
+INFO - 2017-09-09 15:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:34:48 --> Controller Class Initialized
+INFO - 2017-09-09 15:34:48 --> Model Class Initialized
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:34:48 --> Final output sent to browser
+INFO - 2017-09-09 15:35:37 --> Config Class Initialized
+INFO - 2017-09-09 15:35:37 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:37 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:37 --> URI Class Initialized
+INFO - 2017-09-09 15:35:37 --> Router Class Initialized
+INFO - 2017-09-09 15:35:37 --> Output Class Initialized
+INFO - 2017-09-09 15:35:37 --> Security Class Initialized
+INFO - 2017-09-09 15:35:37 --> Input Class Initialized
+INFO - 2017-09-09 15:35:37 --> Language Class Initialized
+INFO - 2017-09-09 15:35:37 --> Language Class Initialized
+INFO - 2017-09-09 15:35:37 --> Config Class Initialized
+INFO - 2017-09-09 15:35:37 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:37 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:37 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:37 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:37 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:37 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:37 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:37 --> Email Class Initialized
+INFO - 2017-09-09 15:35:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:37 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:37 --> Model Class Initialized
+INFO - 2017-09-09 15:35:37 --> Model Class Initialized
+INFO - 2017-09-09 15:35:37 --> Model Class Initialized
+INFO - 2017-09-09 15:35:37 --> Model Class Initialized
+INFO - 2017-09-09 15:35:37 --> Model Class Initialized
+INFO - 2017-09-09 15:35:37 --> Model Class Initialized
+INFO - 2017-09-09 15:35:37 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:35:37 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:35:37 --> USER_INFO 3
+INFO - 2017-09-09 15:35:37 --> ID: 3 CURRENT: 0 New :1
+INFO - 2017-09-09 15:35:37 --> USER_INFO >>>>>>22 UPDATE `urend_car_details` SET `featured` = 1
+WHERE `id` = '3'
+INFO - 2017-09-09 15:35:37 --> Final output sent to browser
+INFO - 2017-09-09 15:35:42 --> Config Class Initialized
+INFO - 2017-09-09 15:35:42 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:42 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:42 --> URI Class Initialized
+INFO - 2017-09-09 15:35:42 --> Router Class Initialized
+INFO - 2017-09-09 15:35:42 --> Output Class Initialized
+INFO - 2017-09-09 15:35:42 --> Security Class Initialized
+INFO - 2017-09-09 15:35:42 --> Input Class Initialized
+INFO - 2017-09-09 15:35:42 --> Language Class Initialized
+INFO - 2017-09-09 15:35:42 --> Language Class Initialized
+INFO - 2017-09-09 15:35:42 --> Config Class Initialized
+INFO - 2017-09-09 15:35:42 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:42 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:42 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:42 --> Email Class Initialized
+INFO - 2017-09-09 15:35:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:42 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:42 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:42 --> Model Class Initialized
+INFO - 2017-09-09 15:35:42 --> Model Class Initialized
+INFO - 2017-09-09 15:35:42 --> Config Class Initialized
+INFO - 2017-09-09 15:35:42 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:42 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:42 --> URI Class Initialized
+INFO - 2017-09-09 15:35:42 --> Router Class Initialized
+INFO - 2017-09-09 15:35:42 --> Output Class Initialized
+INFO - 2017-09-09 15:35:42 --> Security Class Initialized
+INFO - 2017-09-09 15:35:42 --> Input Class Initialized
+INFO - 2017-09-09 15:35:42 --> Language Class Initialized
+INFO - 2017-09-09 15:35:42 --> Language Class Initialized
+INFO - 2017-09-09 15:35:42 --> Config Class Initialized
+INFO - 2017-09-09 15:35:42 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:42 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:42 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:42 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:42 --> Email Class Initialized
+INFO - 2017-09-09 15:35:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:42 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:42 --> Model Class Initialized
+INFO - 2017-09-09 15:35:42 --> Model Class Initialized
+INFO - 2017-09-09 15:35:42 --> Model Class Initialized
+INFO - 2017-09-09 15:35:42 --> Model Class Initialized
+INFO - 2017-09-09 15:35:42 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:42 --> Final output sent to browser
+INFO - 2017-09-09 15:35:43 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:35:53 --> Calendar Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:53 --> Final output sent to browser
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:53 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:53 --> URI Class Initialized
+INFO - 2017-09-09 15:35:53 --> Router Class Initialized
+INFO - 2017-09-09 15:35:53 --> Output Class Initialized
+INFO - 2017-09-09 15:35:53 --> Security Class Initialized
+INFO - 2017-09-09 15:35:53 --> Input Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Language Class Initialized
+INFO - 2017-09-09 15:35:53 --> Config Class Initialized
+INFO - 2017-09-09 15:35:53 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:53 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:53 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:53 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:53 --> Email Class Initialized
+INFO - 2017-09-09 15:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:53 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:53 --> Model Class Initialized
+INFO - 2017-09-09 15:35:54 --> Final output sent to browser
+INFO - 2017-09-09 15:35:54 --> Final output sent to browser
+INFO - 2017-09-09 15:35:57 --> Config Class Initialized
+INFO - 2017-09-09 15:35:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:57 --> URI Class Initialized
+INFO - 2017-09-09 15:35:57 --> Router Class Initialized
+INFO - 2017-09-09 15:35:57 --> Output Class Initialized
+INFO - 2017-09-09 15:35:57 --> Security Class Initialized
+INFO - 2017-09-09 15:35:57 --> Input Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language Class Initialized
+INFO - 2017-09-09 15:35:57 --> Config Class Initialized
+INFO - 2017-09-09 15:35:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:57 --> Email Class Initialized
+INFO - 2017-09-09 15:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:57 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:57 --> Config Class Initialized
+INFO - 2017-09-09 15:35:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:57 --> URI Class Initialized
+INFO - 2017-09-09 15:35:57 --> Router Class Initialized
+INFO - 2017-09-09 15:35:57 --> Output Class Initialized
+INFO - 2017-09-09 15:35:57 --> Security Class Initialized
+INFO - 2017-09-09 15:35:57 --> Input Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language Class Initialized
+INFO - 2017-09-09 15:35:57 --> Config Class Initialized
+INFO - 2017-09-09 15:35:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:57 --> Email Class Initialized
+INFO - 2017-09-09 15:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:57 --> Final output sent to browser
+INFO - 2017-09-09 15:35:57 --> Config Class Initialized
+INFO - 2017-09-09 15:35:57 --> Hooks Class Initialized
+INFO - 2017-09-09 15:35:57 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:35:57 --> URI Class Initialized
+INFO - 2017-09-09 15:35:57 --> Router Class Initialized
+INFO - 2017-09-09 15:35:57 --> Output Class Initialized
+INFO - 2017-09-09 15:35:57 --> Security Class Initialized
+INFO - 2017-09-09 15:35:57 --> Input Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language Class Initialized
+INFO - 2017-09-09 15:35:57 --> Config Class Initialized
+INFO - 2017-09-09 15:35:57 --> Loader Class Initialized
+INFO - 2017-09-09 15:35:57 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:35:57 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:35:57 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:35:57 --> Email Class Initialized
+INFO - 2017-09-09 15:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:35:57 --> Controller Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Model Class Initialized
+INFO - 2017-09-09 15:35:57 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:35:57 --> Final output sent to browser
+INFO - 2017-09-09 15:35:57 --> Final output sent to browser
+INFO - 2017-09-09 15:39:05 --> Config Class Initialized
+INFO - 2017-09-09 15:39:05 --> Hooks Class Initialized
+INFO - 2017-09-09 15:39:05 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:39:05 --> URI Class Initialized
+INFO - 2017-09-09 15:39:05 --> Router Class Initialized
+INFO - 2017-09-09 15:39:05 --> Output Class Initialized
+INFO - 2017-09-09 15:39:05 --> Security Class Initialized
+INFO - 2017-09-09 15:39:05 --> Input Class Initialized
+INFO - 2017-09-09 15:39:05 --> Language Class Initialized
+INFO - 2017-09-09 15:39:05 --> Language Class Initialized
+INFO - 2017-09-09 15:39:05 --> Config Class Initialized
+INFO - 2017-09-09 15:39:05 --> Loader Class Initialized
+INFO - 2017-09-09 15:39:05 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:39:05 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:39:05 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:39:05 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:39:05 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:39:05 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:39:05 --> Email Class Initialized
+INFO - 2017-09-09 15:39:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:39:05 --> Controller Class Initialized
+INFO - 2017-09-09 15:39:05 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:39:05 --> Model Class Initialized
+INFO - 2017-09-09 15:39:05 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Config Class Initialized
+INFO - 2017-09-09 15:40:31 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:31 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:31 --> URI Class Initialized
+INFO - 2017-09-09 15:40:31 --> Router Class Initialized
+INFO - 2017-09-09 15:40:31 --> Output Class Initialized
+INFO - 2017-09-09 15:40:31 --> Security Class Initialized
+INFO - 2017-09-09 15:40:31 --> Input Class Initialized
+INFO - 2017-09-09 15:40:31 --> Language Class Initialized
+INFO - 2017-09-09 15:40:31 --> Language Class Initialized
+INFO - 2017-09-09 15:40:31 --> Config Class Initialized
+INFO - 2017-09-09 15:40:31 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:31 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:31 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:31 --> Email Class Initialized
+INFO - 2017-09-09 15:40:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:31 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:31 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:31 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Config Class Initialized
+INFO - 2017-09-09 15:40:31 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:31 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:31 --> URI Class Initialized
+INFO - 2017-09-09 15:40:31 --> Router Class Initialized
+INFO - 2017-09-09 15:40:31 --> Output Class Initialized
+INFO - 2017-09-09 15:40:31 --> Security Class Initialized
+INFO - 2017-09-09 15:40:31 --> Input Class Initialized
+INFO - 2017-09-09 15:40:31 --> Language Class Initialized
+INFO - 2017-09-09 15:40:31 --> Language Class Initialized
+INFO - 2017-09-09 15:40:31 --> Config Class Initialized
+INFO - 2017-09-09 15:40:31 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:31 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:31 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:31 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:31 --> Email Class Initialized
+INFO - 2017-09-09 15:40:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:31 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:31 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Model Class Initialized
+INFO - 2017-09-09 15:40:31 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:31 --> Final output sent to browser
+INFO - 2017-09-09 15:40:33 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:40:35 --> Calendar Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Hooks Class Initialized
+INFO - 2017-09-09 15:40:35 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:40:35 --> URI Class Initialized
+INFO - 2017-09-09 15:40:35 --> Router Class Initialized
+INFO - 2017-09-09 15:40:35 --> Output Class Initialized
+INFO - 2017-09-09 15:40:35 --> Security Class Initialized
+INFO - 2017-09-09 15:40:35 --> Input Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Language Class Initialized
+INFO - 2017-09-09 15:40:35 --> Config Class Initialized
+INFO - 2017-09-09 15:40:35 --> Loader Class Initialized
+INFO - 2017-09-09 15:40:35 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:40:35 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:40:35 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:40:35 --> Email Class Initialized
+INFO - 2017-09-09 15:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:40:35 --> Controller Class Initialized
+INFO - 2017-09-09 15:40:35 --> Model Class Initialized
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:40:35 --> Final output sent to browser
+INFO - 2017-09-09 15:41:02 --> Config Class Initialized
+INFO - 2017-09-09 15:41:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:02 --> URI Class Initialized
+INFO - 2017-09-09 15:41:02 --> Router Class Initialized
+INFO - 2017-09-09 15:41:02 --> Output Class Initialized
+INFO - 2017-09-09 15:41:02 --> Security Class Initialized
+INFO - 2017-09-09 15:41:02 --> Input Class Initialized
+INFO - 2017-09-09 15:41:02 --> Language Class Initialized
+INFO - 2017-09-09 15:41:02 --> Language Class Initialized
+INFO - 2017-09-09 15:41:02 --> Config Class Initialized
+INFO - 2017-09-09 15:41:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:02 --> Email Class Initialized
+INFO - 2017-09-09 15:41:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:02 --> Model Class Initialized
+INFO - 2017-09-09 15:41:02 --> Model Class Initialized
+INFO - 2017-09-09 15:41:02 --> Config Class Initialized
+INFO - 2017-09-09 15:41:02 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:02 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:02 --> URI Class Initialized
+INFO - 2017-09-09 15:41:02 --> Router Class Initialized
+INFO - 2017-09-09 15:41:02 --> Output Class Initialized
+INFO - 2017-09-09 15:41:02 --> Security Class Initialized
+INFO - 2017-09-09 15:41:02 --> Input Class Initialized
+INFO - 2017-09-09 15:41:02 --> Language Class Initialized
+INFO - 2017-09-09 15:41:02 --> Language Class Initialized
+INFO - 2017-09-09 15:41:02 --> Config Class Initialized
+INFO - 2017-09-09 15:41:02 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:02 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:02 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:02 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:02 --> Email Class Initialized
+INFO - 2017-09-09 15:41:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:02 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:02 --> Model Class Initialized
+INFO - 2017-09-09 15:41:02 --> Model Class Initialized
+INFO - 2017-09-09 15:41:02 --> Model Class Initialized
+INFO - 2017-09-09 15:41:02 --> Model Class Initialized
+INFO - 2017-09-09 15:41:02 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:02 --> Final output sent to browser
+INFO - 2017-09-09 15:41:03 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: form_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: html_helper
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Form Validation Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2017-09-09 15:41:06 --> Calendar Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Helper loaded: date_helper
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Hooks Class Initialized
+INFO - 2017-09-09 15:41:06 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:41:06 --> URI Class Initialized
+INFO - 2017-09-09 15:41:06 --> Router Class Initialized
+INFO - 2017-09-09 15:41:06 --> Output Class Initialized
+INFO - 2017-09-09 15:41:06 --> Security Class Initialized
+INFO - 2017-09-09 15:41:06 --> Input Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Language Class Initialized
+INFO - 2017-09-09 15:41:06 --> Config Class Initialized
+INFO - 2017-09-09 15:41:06 --> Loader Class Initialized
+INFO - 2017-09-09 15:41:06 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:41:06 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:41:06 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:41:06 --> Email Class Initialized
+INFO - 2017-09-09 15:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:41:06 --> Controller Class Initialized
+INFO - 2017-09-09 15:41:06 --> Model Class Initialized
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:41:06 --> Final output sent to browser
+INFO - 2017-09-09 15:42:22 --> Config Class Initialized
+INFO - 2017-09-09 15:42:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:42:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:42:22 --> URI Class Initialized
+INFO - 2017-09-09 15:42:22 --> Router Class Initialized
+INFO - 2017-09-09 15:42:22 --> Output Class Initialized
+INFO - 2017-09-09 15:42:22 --> Security Class Initialized
+INFO - 2017-09-09 15:42:22 --> Input Class Initialized
+INFO - 2017-09-09 15:42:22 --> Language Class Initialized
+INFO - 2017-09-09 15:42:22 --> Language Class Initialized
+INFO - 2017-09-09 15:42:22 --> Config Class Initialized
+INFO - 2017-09-09 15:42:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:42:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:42:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:42:22 --> Email Class Initialized
+INFO - 2017-09-09 15:42:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:42:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:42:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:42:22 --> Model Class Initialized
+INFO - 2017-09-09 15:42:22 --> Model Class Initialized
+INFO - 2017-09-09 15:42:22 --> Config Class Initialized
+INFO - 2017-09-09 15:42:22 --> Hooks Class Initialized
+INFO - 2017-09-09 15:42:22 --> Utf8 Class Initialized
+INFO - 2017-09-09 15:42:22 --> URI Class Initialized
+INFO - 2017-09-09 15:42:22 --> Router Class Initialized
+INFO - 2017-09-09 15:42:22 --> Output Class Initialized
+INFO - 2017-09-09 15:42:22 --> Security Class Initialized
+INFO - 2017-09-09 15:42:22 --> Input Class Initialized
+INFO - 2017-09-09 15:42:22 --> Language Class Initialized
+INFO - 2017-09-09 15:42:22 --> Language Class Initialized
+INFO - 2017-09-09 15:42:22 --> Config Class Initialized
+INFO - 2017-09-09 15:42:22 --> Loader Class Initialized
+INFO - 2017-09-09 15:42:22 --> Helper loaded: cookie_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: url_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: custom_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: push_helper
+INFO - 2017-09-09 15:42:22 --> Helper loaded: web_meta_helper
+INFO - 2017-09-09 15:42:22 --> Database Driver Class Initialized
+INFO - 2017-09-09 15:42:22 --> Email Class Initialized
+INFO - 2017-09-09 15:42:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 15:42:22 --> Controller Class Initialized
+INFO - 2017-09-09 15:42:22 --> Model Class Initialized
+INFO - 2017-09-09 15:42:22 --> Model Class Initialized
+INFO - 2017-09-09 15:42:22 --> Model Class Initialized
+INFO - 2017-09-09 15:42:22 --> Model Class Initialized
+INFO - 2017-09-09 15:42:22 --> Language file loaded: language/english/master_lang.php
+INFO - 2017-09-09 15:42:22 --> Final output sent to browser
+INFO - 2017-09-09 15:42:23 --> Final output sent to browser

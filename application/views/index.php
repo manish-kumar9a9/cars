@@ -41,98 +41,123 @@
                 </div>
                 <div class="row">
                     <div class="carholder">
-                        <div class="carpanel col-sm-6 col-md-4 margin-top-20  family sport">
-                            <div>
-                                <div class="new gradient_filter"><?php echo $this->lang->line('NEW');?></div>
-                                <img src="<?php echo base_url(); ?>assets/image/porsche.png"/>
-                                <div class="info">
-                                    <div class="col-xs-9">
-                                        <div class="title">Porsche Macan</div>
-                                        <div>3600cc, 4 Door, Petrol</div>
+                        <?php if($featured_cars): ?>
+                            <?php foreach ($featured_cars as $car): ?>
+                                <a href="<?php echo site_url('user/car_data/' . $car->id )?>">
+                                    <div class="carpanel col-sm-6 col-md-4 margin-top-20  <?php echo $car->category?>">
+                                        <div>
+                                            <div class="new gradient_filter"><?php echo $this->lang->line('NEW');?></div>
+                                            <img src="<?php echo base_url(); ?>assets/image/<?php echo $car->CarImage?>"/>
+                                            <div class="info">
+                                                <div class="col-xs-9">
+                                                    <div class="title"><?php echo /*$car->id.", ".*/$car->company." "
+                                                            .$car->modelnmae?></div>
+                                                    <div><?php echo $car->cubicCapacity.", ".$car->doors.", "
+                                                        .$car->fuel ?></div>
+                                                </div>
+                                                <div class="col-xs-3 text-right">
+                                                    <div class="col-md-12 price no-padding">€<?php echo
+                                                        $car->price_daily; ?></div>
+                                                    <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="col-xs-3 text-right">
-                                        <div class="col-md-12 price no-padding">€350</div>
-                                        <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20  sport">
-                            <div>
-                                <img src="<?php echo base_url(); ?>assets/image/vwgolf.png"/>
-                                <div class="info">
-                                    <div class="col-xs-9">
-                                        <div class="title">VW Golf GTI</div>
-                                        <div>1600cc, 2 Door, Petrol</div>
-                                    </div>
-                                    <div class="col-xs-3 text-right">
-                                        <div class="col-md-12 price no-padding">€100</div>
-                                        <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20 sport 4x4">
-                            <div>
-                                <img src="<?php echo base_url(); ?>assets/image/bmw.png"/>
-                                <div class="info">
-                                    <div class="col-xs-9">
-                                        <div class="title">BMW X1</div>
-                                        <div>1800cc, 4 Door, Diesel</div>
-                                    </div>
-                                    <div class="col-xs-3 text-right">
-                                        <div class="col-md-12 price no-padding">€250</div>
-                                        <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20  sport 4x4">
-                            <div>
-                                <img src="<?php echo base_url(); ?>assets/image/bmw.png"/>
-                                <div class="info">
-                                    <div class="col-xs-9">
-                                        <div class="title">BMW X1</div>
-                                        <div>1800cc, 4 Door, Diesel</div>
-                                    </div>
-                                    <div class="col-xs-3 text-right">
-                                        <div class="col-md-12 price no-padding">€250</div>
-                                        <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20  sport">
-                            <div>
-                                <div class="new gradient_filter"><?php echo $this->lang->line('NEW');?></div>
-                                <img src="<?php echo base_url(); ?>assets/image/vwgolf.png"/>
-                                <div class="info">
-                                    <div class="col-xs-9">
-                                        <div class="title">VW Golf GTI</div>
-                                        <div>1600cc, 2 Door, Petrol</div>
-                                    </div>
-                                    <div class="col-xs-3 text-right">
-                                        <div class="col-md-12 price no-padding">€100</div>
-                                        <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20 family sport ">
-                            <div>
-                                <img src="<?php echo base_url(); ?>assets/image/porsche.png"/>
-                                <div class="info">
-                                    <div class="col-xs-9">
-                                        <div class="title">Porsche Macan</div>
-                                        <div>3600cc, 4 Door, Petrol</div>
-                                    </div>
-                                    <div class="col-xs-3 text-right">
-                                        <div class="col-md-12 price no-padding">€350</div>
-                                        <div class="col-md-12 no-padding"><?php echo $this->lang->line('PER_DAY');?></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                </a>
+                            <?php endforeach ;?>
+                        <?php endif; ?>
+<!--                        <div class="carpanel col-sm-6 col-md-4 margin-top-20  family sport">-->
+<!--                            <div>-->
+<!--                                <div class="new gradient_filter">--><?php //echo $this->lang->line('NEW');?><!--</div>-->
+<!--                                <img src="--><?php //echo base_url(); ?><!--assets/image/porsche.png"/>-->
+<!--                                <div class="info">-->
+<!--                                    <div class="col-xs-9">-->
+<!--                                        <div class="title">Porsche Macan</div>-->
+<!--                                        <div>3600cc, 4 Door, Petrol</div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-xs-3 text-right">-->
+<!--                                        <div class="col-md-12 price no-padding">€350</div>-->
+<!--                                        <div class="col-md-12 no-padding">--><?php //echo $this->lang->line('PER_DAY');?><!--</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20  sport">-->
+<!--                            <div>-->
+<!--                                <img src="--><?php //echo base_url(); ?><!--assets/image/vwgolf.png"/>-->
+<!--                                <div class="info">-->
+<!--                                    <div class="col-xs-9">-->
+<!--                                        <div class="title">VW Golf GTI</div>-->
+<!--                                        <div>1600cc, 2 Door, Petrol</div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-xs-3 text-right">-->
+<!--                                        <div class="col-md-12 price no-padding">€100</div>-->
+<!--                                        <div class="col-md-12 no-padding">--><?php //echo $this->lang->line('PER_DAY');?><!--</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20 sport 4x4">-->
+<!--                            <div>-->
+<!--                                <img src="--><?php //echo base_url(); ?><!--assets/image/bmw.png"/>-->
+<!--                                <div class="info">-->
+<!--                                    <div class="col-xs-9">-->
+<!--                                        <div class="title">BMW X1</div>-->
+<!--                                        <div>1800cc, 4 Door, Diesel</div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-xs-3 text-right">-->
+<!--                                        <div class="col-md-12 price no-padding">€250</div>-->
+<!--                                        <div class="col-md-12 no-padding">--><?php //echo $this->lang->line('PER_DAY');?><!--</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20  sport 4x4">-->
+<!--                            <div>-->
+<!--                                <img src="--><?php //echo base_url(); ?><!--assets/image/bmw.png"/>-->
+<!--                                <div class="info">-->
+<!--                                    <div class="col-xs-9">-->
+<!--                                        <div class="title">BMW X1</div>-->
+<!--                                        <div>1800cc, 4 Door, Diesel</div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-xs-3 text-right">-->
+<!--                                        <div class="col-md-12 price no-padding">€250</div>-->
+<!--                                        <div class="col-md-12 no-padding">--><?php //echo $this->lang->line('PER_DAY');?><!--</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20  sport">-->
+<!--                            <div>-->
+<!--                                <div class="new gradient_filter">--><?php //echo $this->lang->line('NEW');?><!--</div>-->
+<!--                                <img src="--><?php //echo base_url(); ?><!--assets/image/vwgolf.png"/>-->
+<!--                                <div class="info">-->
+<!--                                    <div class="col-xs-9">-->
+<!--                                        <div class="title">VW Golf GTI</div>-->
+<!--                                        <div>1600cc, 2 Door, Petrol</div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-xs-3 text-right">-->
+<!--                                        <div class="col-md-12 price no-padding">€100</div>-->
+<!--                                        <div class="col-md-12 no-padding">--><?php //echo $this->lang->line('PER_DAY');?><!--</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="carpanel  col-sm-6 col-md-4 margin-top-20 family sport ">-->
+<!--                            <div>-->
+<!--                                <img src="--><?php //echo base_url(); ?><!--assets/image/porsche.png"/>-->
+<!--                                <div class="info">-->
+<!--                                    <div class="col-xs-9">-->
+<!--                                        <div class="title">Porsche Macan</div>-->
+<!--                                        <div>3600cc, 4 Door, Petrol</div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-xs-3 text-right">-->
+<!--                                        <div class="col-md-12 price no-padding">€350</div>-->
+<!--                                        <div class="col-md-12 no-padding">--><?php //echo $this->lang->line('PER_DAY');?><!--</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-xs-12"><div class="gradient_filter show_more button"><?php echo $this->lang->line('SHOW_MORE');?></div></div>
                 </div>

@@ -157,12 +157,15 @@ class CarModel extends CI_Model
 //        $this->db->limit(0,10);
 //        $result = $this->db->get()->result();
 
-        $result = $this->db->query("SELECT price_daily, doors, cubicCapacity, make, model, fuelType, type,cm.name AS  
-        modelnmae, cc.name AS company, ft.fuel_type as fuel, ct.name as catagory FROM urend_car_details AS cd JOIN
+        $result = $this->db->query("SELECT cd.id, price_daily, doors, cubicCapacity, make, model, fuelType, type,cm
+        .name AS 
+         modelnmae, cc.name AS company, ft.fuel_type as fuel, ct.name as category, ci.CarImage FROM urend_car_details AS cd JOIN
 urend_car_models AS cm ON cd.model = cm.id JOIN 
 urend_car_makes AS cc ON cd.make = cc.id JOIN
 urend_car_fuel_types AS ft ON cd.fuelType = ft.id JOIN
-urend_car_types AS ct ON cd.type = ct.id WHERE cd.featured = 1")->result();
+urend_car_types AS ct ON cd.type = ct.id JOIN
+urend_car_images AS ci ON cd.id = ci.fkCarId
+WHERE cd.featured = 1;")->result();
         //price_daily doors cubicCapacity fuelType
         //join urend_car_models urend_car_type urend_car_makes
 

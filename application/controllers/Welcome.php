@@ -15,8 +15,17 @@ class Welcome extends CI_Controller {
 		$this->load->model('UserModel');
 		$this->load->model('CarModel');
 		$data['country'] = $this->UserModel->get_country_code();
-		$data['featured_cars'] = $this->CarModel->get_featured_car();
-		print_r($data['featured_cars']); //die();
+		$temp = [];
+		$result= $this->CarModel->get_featured_car();
+		foreach ($result as $row)
+		{
+			$temp[$row->id] = $row;
+		}
+
+		$data['featured_cars'] = $temp;
+		//array_unique($data['featured_cars']);
+		//log_message('info', "7777777777777777777777777777777temp >> ".gettype($temp));
+
 		$this->load->view('index', $data);
 	}
 
