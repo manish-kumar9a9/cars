@@ -8,7 +8,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
 		<link rel="shortcut icon" href="img/favicon.png">
 
-		<title>Blank</title>
+		<title><?php echo isset($page_title) ? $page_title : ""; ?></title>
 
 		<!-- Bootstrap core CSS -->
 		<link href="<?php echo AUTH_ASSETS; ?>css/bootstrap.min.css" rel="stylesheet">

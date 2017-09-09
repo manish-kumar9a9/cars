@@ -1,5 +1,9 @@
+<script src="<?php echo base_url() ?>auth_panel_assets/js/alertfy.min.js" ></script>
+<!-- include a theme, can be included into the core instead of 2 separate files -->
+<link rel="stylesheet" href="<?php echo base_url() ?>auth_panel_assets/css/alert-themes/alertify.core.css" />
+<link rel="stylesheet" href="<?php echo base_url() ?>auth_panel_assets/css/alert-themes/alertify.default.css" />
+<?php //print_r($ter); ?>
 
-<?php print_r($ter); ?>
 <div class="col-sm-12">
 	<section class="panel">
 		<header class="panel-heading">
@@ -88,23 +92,23 @@ $custum_js = <<<EOD
 		  });
 		  //console.log(featured);
 		  if(featured.length > 0 ){
-		  	 alert("My favourite sports are: " + featured.join(", "));
 		  	 $.ajax({
-				url: "$adminurl"+"car/make_feature",
+				url: "$adminurl"+"car/make_bulk_feature",
 				type: 'POST',
 				data: {
 					key: featured
 				},
 				//dataType: 'json',
 				success: function(data) {
-					
+					alertify.success("Success");
 					console.log('daasasd');
 					console.log(data);
 				}
 			});
+			window.location.reload();
 
 		  }else{
-		   	alert("Please select at least on record!");
+		   	alertify.error("Please select at least on record!");
 		   	return false;
 		  }
 	  }
@@ -127,6 +131,7 @@ $custum_js = <<<EOD
 				}else{
 					$(element).html(fhtmldata);
 				}
+				alertify.success("Success");
 				console.log('daasasd');
 				console.log(data);
 			}

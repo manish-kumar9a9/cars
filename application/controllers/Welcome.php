@@ -13,7 +13,10 @@ class Welcome extends CI_Controller {
 
 	public function index() {
 		$this->load->model('UserModel');
+		$this->load->model('CarModel');
 		$data['country'] = $this->UserModel->get_country_code();
+		$data['featured_cars'] = $this->CarModel->get_featured_car();
+		print_r($data['featured_cars']); //die();
 		$this->load->view('index', $data);
 	}
 
@@ -47,5 +50,7 @@ class Welcome extends CI_Controller {
 		
 		pre($return);
 	}
+
+	
 
 }

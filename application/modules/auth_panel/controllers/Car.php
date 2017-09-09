@@ -243,6 +243,7 @@ class Car extends MX_Controller {
 		/////
 		//print_r($result); die();
 		$temp['ter'] = $result;
+		$data['page_title'] = "Featured Cars";
 		$data['page_data'] = $this->load->view('car_data/featured_car_list', $temp, TRUE);
 		echo modules::run(AUTH_DEFAULT_TEMPLATE, $data);
 
@@ -623,8 +624,49 @@ class Car extends MX_Controller {
 
 	public function make_feature(){
 		$id = $_POST['key'];
-		$result = $this->db->select('*')->get_where('urend_car_details', array('id', $id))->row();
+		log_message('info','USER_INFO '.$id);
+
+		$result = $this->db->select('featured')->get_where('urend_car_details', array('id'=> $id))->row();
+
+		if($result && $result != ''){
+			$cur = $result->featured;
+			$newstaus = 0;
+			if($cur == 1){
+				$newstaus = 0;
+			}else{
+				$newstaus = 1;
+			}
+			//update
+			$this->db->where('id', $id);
+			$res = $this->db->update('urend_car_details', array('featured'=> $newstaus));
+			echo $this->db->last_query();
+
+			log_message('info','ID: '.$id.' CURRENT: '.$cur." New :".$newstaus);
+			log_message('info','USER_INFO >>>>>>22 '.$this->db->last_query());
+		}else{
+			log_message('error','USER_INFO >>>>>>22 '.print_r($result, true));
+		}
+
+		//log_message('info','USER_INFO >>>>>> '.$this->db->last_query());
+		//log_message('info','USER_INFO >>>>>>22 '.print_r($result, true));
 		$param = array('featured', 1);
 		print_r($result);
+	}
+
+	public function make_bulk_feature(){
+		$ids = $_POST['key'];
+		log_message('info',print_r($ids, true));
+		log_message('info', 'length'.count($ids));
+
+		if(count($ids) > 0){
+			//update
+			$this->db->where_in('id', $ids);
+			$res = $this->db->update('urend_car_details', array('featured'=> 1));
+			//echo $this->db->last_query();
+
+			log_message('info','Query: '.$this->db->last_query());
+		}else{
+			//log_message('error','USER_INFO >>>>>>22 '.print_r($result, true));
+		}
 	}
 }
