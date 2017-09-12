@@ -64,14 +64,14 @@ $this->load->view('header');
                                                 <div class="dropdown">
                                                     <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarmake" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span >Select</span>
-                                                        <input type="hidden" class="btn-select-input" name="carmake" value="" />
+                                                        <input type="hidden" id="carmake" class="btn-select-input" name="carmake" value="" />
                                                         <span class="caret"></span>
                                                     </button>
-                                                    <ul class="dropdown-menu" aria-labelledby="dropdowncarmake">
+                                                    <ul class="dropdown-menu carmake-menu" aria-labelledby="dropdowncarmake">
                                                         <li class=""><a href="#">Select</a></li>
                                                         <?php
                                                         foreach ($car_makers as $cm) {
-                                                            echo "<li data-id='".$cm['id']."'><a href='#'>".$cm['name']."</a></li>";
+                                                            echo "<li class='carmake-menu-li' data-id='".$cm['id']."'><a href='#'>".$cm['name']."</a></li>";
                                                         } ?>
                                                     </ul>
                                                 </div>
@@ -114,7 +114,7 @@ $this->load->view('header');
                                                         <input type="hidden" class="btn-select-input" name="carmodel" value="" />
                                                         <span class="caret"></span>
                                                     </button>
-                                                    <ul class="dropdown-menu" aria-labelledby="dropdowncarmodel">
+                                                    <ul id="ddcarmodel" class="dropdown-menu" aria-labelledby="dropdowncarmodel">
                                                         <li class=""><a href="#">Select</a></li>
 
                                                     </ul>
@@ -747,8 +747,9 @@ $this->load->view('header');
         });
     }
 
-    function get_car_model() {
-        m_id = jQuery("#car_maker").val();
+    function get_car_model(id) {
+        m_id = id;
+        alert(m_id);
         jQuery.ajax({
             url: '<?php echo base_url('index.php/user/call_car_model'); ?>',
             method: 'POST',
@@ -759,7 +760,9 @@ $this->load->view('header');
             },
             success: function (data) {
                 if (data.status == 1) {
-                    jQuery("#car_model").html(data.html);
+                    //jQuery("#car_model").html(data.html);
+                    jQuery("#ddcarmodel").html(data.html);
+                    console.log(data);
                 }
             }
         });
@@ -1119,6 +1122,19 @@ $this->load->view('header');
          mask:true,
          timepicker:false
          });*/
+       
+
+        $('#dropdowncarmake .dropdown-menu').click(function(){
+    //Show table
+             alert('9999'); 
+        });
+        $('.carmake-menu-li').click(function(){
+            console.log(this);
+            var z = $(this).data('id')
+
+            console.log(z);
+            get_car_model(z);
+        });
     });
     $(document).ready(function () {
         $('.xdsoft_today_button').trigger("mousedown");
