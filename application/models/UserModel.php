@@ -229,6 +229,7 @@ class UserModel extends CI_Model {
         if (!empty($result)) {
             return $result;
         }
+        log_message('info','Fuel query '.$this->db->last_query());
         return array();
     }
 

@@ -516,27 +516,27 @@ class User extends CI_Controller {
 		die;
 	}
 
-	// public function call_car_model() {
-	// 	$model_list = $this->UserModel->get_list_of_car_models($this->input->post('id'));
-	// 	$html = "<option value=''>--Select Model -- </option>";
-	// 	foreach ($model_list as $ml) {
-	// 		$html .= "<option value='" . $ml['id'] . "'>" . $ml['name'] . "</option>";
-	// 	}
-	// 	echo json_encode(array('status' => 1, 'html' => "$html"));
-	// 	die;
-	// }
 	public function call_car_model() {
 		$model_list = $this->UserModel->get_list_of_car_models($this->input->post('id'));
-		//$html = "<option value=''>--Select Model -- </option>";
-		$html = '<li class=""><a href="#">Select</a></li>';
+		$html = "<option value=''> SELECT </option>";
 		foreach ($model_list as $ml) {
-			//$html .= "<option value='" . $ml['id'] . "'>" . $ml['name'] . "</option>";
-			$html .= "<li data-id='".$ml['id']."'><a href='#'>".$ml['name']."</a></li>";
-
+			$html .= "<option value='" . $ml['id'] . "'>" . $ml['name'] . "</option>";
 		}
 		echo json_encode(array('status' => 1, 'html' => "$html"));
 		die;
 	}
+	// public function call_car_model() {
+	// 	$model_list = $this->UserModel->get_list_of_car_models($this->input->post('id'));
+	// 	//$html = "<option value=''>--Select Model -- </option>";
+	// 	$html = '<li class=""><a href="#">Select</a></li>';
+	// 	foreach ($model_list as $ml) {
+	// 		//$html .= "<option value='" . $ml['id'] . "'>" . $ml['name'] . "</option>";
+	// 		$html .= "<li data-id='".$ml['id']."'><a href='#'>".$ml['name']."</a></li>";
+
+	// 	}
+	// 	echo json_encode(array('status' => 1, 'html' => "$html"));
+	// 	die;
+	// }
 
 	public function call_city_list() {
 		$model_list = $this->UserModel->get_car_city_list($this->input->post('id'));

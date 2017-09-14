@@ -9,8 +9,13 @@ $result = get_data_with_curl($option);
 $car_input_data = $result['Result'];
 
 $this->load->view('header');
-?>
 
+print_r($car_input_data);
+//print_r($airbag_types);
+?>
+$custum_js = <<<EOD
+<script type="text/javascript" charset="utf8" src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+EOD;
 <div class="view-car" xmlns="http://www.w3.org/1999/html">
 
     <div class="banner">
@@ -62,7 +67,7 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('MAKE'); ?></div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarmake" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarmake" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span >Select</span>
                                                         <input type="hidden" id="carmake" class="btn-select-input" name="carmake" value="" />
                                                         <span class="caret"></span>
@@ -73,7 +78,14 @@ $this->load->view('header');
                                                         foreach ($car_makers as $cm) {
                                                             echo "<li class='carmake-menu-li' data-id='".$cm['id']."'><a href='#'>".$cm['name']."</a></li>";
                                                         } ?>
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select class="selectpicker" id="car_maker" onchange="get_car_model()">
+                                                        <option value="">SELECT</option>
+                                                        <?php
+                                                        foreach ($car_makers as $cm) {
+                                                            echo "<option class='carmake-menu-li' value='".$cm['id']."'>".$cm['name']."</option>";
+                                                        } ?>
+                                                    </select>
                                                 </div>
                                             </div>
                                         </div>
@@ -109,7 +121,7 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('MODEL'); ?></div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarmodel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarmodel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="carmodel" value="" />
                                                         <span class="caret"></span>
@@ -117,8 +129,12 @@ $this->load->view('header');
                                                     <ul id="ddcarmodel" class="dropdown-menu" aria-labelledby="dropdowncarmodel">
                                                         <li class=""><a href="#">Select</a></li>
 
-                                                    </ul>
-                                                </div>
+                                                    </ul>-->
+                                                
+                                                <select id="car_model">
+                                                    
+                                                </select>
+                                                </div> 
                                             </div>
                                         </div>
                                     </div>
@@ -203,15 +219,22 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('FUEL_TYPE'); ?> (cc)</div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarfuel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarfuel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="carfuel" value="" />
                                                         <span class="caret"></span>
                                                     </button>
                                                     <ul class="dropdown-menu" aria-labelledby="dropdowncarfuel">
                                                         <li class=""><a href="#">Select</a></li>
-
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select id="fuel_type">
+                                                        <option value="">SELECT</option>
+                                                        <?php
+                                                        foreach ($fuel_types as $ft) {
+                                                            echo "<option class='carmake-menu-li' value='".$ft['id']."'>".$ft['fuel_type']."</option>";
+                                                        } ?>
+                                                        
+                                                    </select>
                                                 </div>
                                             </div>
                                         </div>
@@ -221,7 +244,7 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('TRANSMISSION'); ?> (cc)</div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncartransmission" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncartransmission" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="cartransmission" value="" />
                                                         <span class="caret"></span>
@@ -229,7 +252,14 @@ $this->load->view('header');
                                                     <ul class="dropdown-menu" aria-labelledby="dropdowncartransmission">
                                                         <li class=""><a href="#">Select</a></li>
 
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select id="transmission">
+                                                         <option value="">SELECT</option>
+                                                        <?php
+                                                        foreach ($transmission_types as $t) {
+                                                            echo "<option class='carmake-menu-li' value='".$t['id']."'>".$t['transmission']."</option>";
+                                                        } ?>
+                                                    </select>
                                                 </div>
                                             </div>
                                         </div>
@@ -242,7 +272,7 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('COLOR'); ?></div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarcolor" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarcolor" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="carcolor" value="" />
                                                         <span class="caret"></span>
@@ -250,7 +280,14 @@ $this->load->view('header');
                                                     <ul class="dropdown-menu" aria-labelledby="dropdowncarcolor">
                                                         <li class=""><a href="#">Select</a></li>
 
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select id="color">
+                                                        <option class='carmake-menu-li' value="0">SELECT</option>
+                                                        <?php
+                                                        foreach ($colour_types as $clr) {
+                                                            echo "<option class='carmake-menu-li' value='".$clr['id']."'>".$clr['name']."</option>";
+                                                        } ?>
+                                                    </select>
                                                 </div>
                                             </div>
                                         </div>
@@ -260,7 +297,7 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('DOORS'); ?></div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncardoors" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncardoors" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="cardoors" value="" />
                                                         <span class="caret"></span>
@@ -268,7 +305,15 @@ $this->load->view('header');
                                                     <ul class="dropdown-menu" aria-labelledby="dropdowncardoors">
                                                         <li ><a href="#">Select</a></li>
 
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select id="car_seat">
+                                                        <option>SELECT</option>
+                                                        <?php
+                                                        $car_element_doors = explode(",",$car_input_data['car_element_doors']);
+                                                        foreach($car_element_doors as $car_door ) {
+                                                            echo "<option value='".$car_door."'>".$car_door."</option>";
+                                                        } ?>
+                                                    </select>
                                                 </div>
                                             </div>
                                         </div>
@@ -278,14 +323,23 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('SEATS'); ?></div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarseats" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarseats" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="carseats" value="" />
                                                         <span class="caret"></span>
                                                     </button>
                                                     <ul class="dropdown-menu" aria-labelledby="dropdowncarseats">
                                                         <li ><a href="#">Select</a></li>
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select id="car_seat">
+                                                        <option>SELECT</option>
+                                                        <?php
+                                                        $car_element_seats = explode(",",$car_input_data['car_element_seats']);
+                                                        foreach($car_element_seats as $car_seat ) {
+                                                            echo "<option value='".$car_seat."'>".$car_seat."</option>";
+                                                        } ?>
+                                                    </select>
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -295,7 +349,7 @@ $this->load->view('header');
                                             <div class="col-xs-6"><?php echo $this->lang->line('AIRBAGS'); ?></div>
                                             <div class="col-xs-6 text-right">
                                                 <div class="dropdown">
-                                                    <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarairbags" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                    <!-- <button class="btn btn-default dropdown-toggle button white pull-right" type="button" id="dropdowncarairbags" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                                         <span>Select</span>
                                                         <input type="hidden" class="btn-select-input" name="carairbags" value="" />
                                                         <span class="caret"></span>
@@ -303,7 +357,15 @@ $this->load->view('header');
                                                     <ul class="dropdown-menu" aria-labelledby="dropdowncarairbags">
                                                         <li ><a href="#">Select</a></li>
 
-                                                    </ul>
+                                                    </ul> -->
+                                                    <select id="fuel_type">
+                                                        <option value="">SELECT</option>
+                                                        <?php
+                                                        foreach ($airbag_types as $abg) {
+                                                            echo "<option class='carmake-menu-li' value='".$abg['id']."'>".$abg['name']."</option>";
+                                                        } ?>
+                                                        
+                                                    </select>
                                                 </div>
                                             </div>
                                         </div>
@@ -747,7 +809,26 @@ $this->load->view('header');
         });
     }
 
-    function get_car_model(id) {
+    function get_car_model() {
+        alert('here');
+        m_id = jQuery("#car_maker").val();
+        console.log(m_id);
+        jQuery.ajax({
+            url: '<?php echo base_url('index.php/user/call_car_model'); ?>',
+            method: 'POST',
+            dataType: 'json',
+            async: false,
+            data: {
+                id: m_id
+            },
+            success: function (data) {
+                if (data.status == 1) {
+                    jQuery("#car_model").html(data.html);
+                }
+            }
+        });
+    }
+    function get_car_model_new(id) {
         m_id = id;
         alert(m_id);
         jQuery.ajax({
@@ -1311,3 +1392,9 @@ $this->load->view('header');
 <!--footer-->
 <?php $this->load->view('include/footer_block'); ?>
 <!--/footer-->
+
+<style type="text/css">
+.view-car .spec select {
+    background: none;
+}
+</style>
