@@ -610,14 +610,14 @@ $this->load->view('header');
                                     <h3><?php echo $this->lang->line('CAR').'&nbsp'.$this->lang->line('DELIVERY_OPTIONS'); ?></h3>
                                     <div class="col-xs-12 padding-bottom-20">
                                         <label class="col-xs-12 custom-control custom-radio margin-top">
-                                            <input type="radio" name="car_delivery" checked class="custom-control-input">
+                                            <input type="radio" name="deliveryOption" checked class="custom-control-input">
                                             <span class="custom-control-indicator"></span>
                                         <span class="custom-control-description">
                                             Car must be collected from Pickup address
                                         </span>
                                         </label>
                                         <label class="col-xs-12 custom-control custom-radio margin-top">
-                                            <input type="radio" name="car_delivery" class="custom-control-input">
+                                            <input type="radio" name="deliveryOption" class="custom-control-input">
                                             <span class="custom-control-indicator"></span>
                                         <span class="custom-control-description">
                                             Car can be delivered for a cost of
@@ -1199,14 +1199,15 @@ $this->load->view('header');
                 //contentType: false,
                 //cache: false,
                 //processData: false,
-                //dataType: 'json',
+                dataType: 'json',
                 success: function (data)
                 {
-                    alert(data);
+                    //alert(data);
                     if(data.isSuccess){
                         show_success('car information updated.');
                         location.href = '<?php echo base_url() . 'index.php/user/car_list' ?>';
                     }else{
+                        console.log(data);
                         show_error(data.message);
                         $('#loading').hide();
                     }
@@ -1248,7 +1249,7 @@ $this->load->view('header');
 
         $('#dropdowncarmake .dropdown-menu').click(function(){
     //Show table
-             alert('9999'); 
+             //alert('9999'); 
         });
         $('.carmake-menu-li').click(function(){
             console.log(this);
@@ -1315,6 +1316,7 @@ $this->load->view('header');
 <div id="testy" style="margin: 0 auto;position: fixed;top:7.5%;width: 100%;z-index: 100;"></div>
 <script>
     function show_error(text){
+        console.log(text);
         $('#testy').toastee({
             header: 'Error!',
             type: 'error',
@@ -1322,6 +1324,7 @@ $this->load->view('header');
         });
     }
     function show_success(text){
+        console.log(text);
         $('#testy').toastee({
             type: 'success',
             message: text

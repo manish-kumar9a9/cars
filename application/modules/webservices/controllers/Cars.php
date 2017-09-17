@@ -181,7 +181,7 @@ class Cars extends MX_Controller {
 		$this->language = ($this->input->get('language') == "") ? "english" : $this->input->get('language');
 		$this->lang->load('master', "$this->language");
 
-		print_r($_REQUEST);
+		//print_r($_REQUEST);
 		//print_r($_POST);
 		log_message('info','RESULT');
 		log_message('info',print_r($_REQUEST, true));
@@ -205,7 +205,12 @@ class Cars extends MX_Controller {
 			$car_data['airbags'] = $_REQUEST['airbags'];
 			$car_data['seat'] = $_REQUEST['seat'];
 			$car_data['description'] = $_REQUEST['description'];
-			$car_data['availablity'] = $this->car_availabilty_validator($_REQUEST['availablity']);
+			$availablity = (isset($_REQUEST['kmOrMiles'])) ? $_REQUEST['kmOrMiles'] : '';
+
+			//if($availablity){
+				$car_data['availablity'] = $this->car_availabilty_validator($availablity);
+			//}
+
 			$car_data['price_daily'] = $_REQUEST['price_daily'];
 			$car_data['price_weekly'] = $this->input->post('price_weekly');
 			$car_data['price_monthly'] = $this->input->post('price_monthly');
@@ -216,16 +221,26 @@ class Cars extends MX_Controller {
 				$car_data['price'] = 0;
 			}
 			$car_data['airbags'] = $_REQUEST['airbags'];
-			$car_data['kmOrMiles'] = $_REQUEST['kmOrMiles'];
-			$car_data['kmOrMilesValue'] = $_REQUEST['kmOrMilesValue'];
-			$car_data['youEarn'] = $_REQUEST['youEarn'];
+			//$car_data['kmOrMiles'] = $_REQUEST['kmOrMiles'];
+			$car_data['kmOrMiles'] = (isset($_REQUEST['kmOrMiles'])) ? $_REQUEST['kmOrMiles'] : '';
+			//$car_data['kmOrMilesValue'] = $_REQUEST['kmOrMilesValue'];
+			$car_data['kmOrMilesValue'] = (isset($_REQUEST['kmOrMilesValue'])) ? $_REQUEST['kmOrMilesValue'] : '';
+			//$car_data['youEarn'] = $_REQUEST['youEarn'];
+			$car_data['youEarn'] = (isset($_REQUEST['youEarn'])) ? $_REQUEST['youEarn'] : '';
 			$car_data['carExtraKmOrMl'] = $_REQUEST['carExtraKmOrMl'];
-			$car_data['country'] = $_REQUEST['country'];
+			// $car_data['country'] = $_REQUEST['country'];
+			// $car_data['city'] = $_REQUEST['city'];
+			$car_data['country'] = (isset($_REQUEST['country'])) ? $_REQUEST['country'] : '';
 			$car_data['city'] = (isset($_REQUEST['city'])) ? $_REQUEST['city'] : '';
-			// because i m getting string here so i will validate it with database
-			$car_data['city'] = $this->validate_city_string($car_data['country'], $car_data['city']);
 
-			$car_data['zipCode'] = strtoupper($_REQUEST['zipCode']);
+			// because i m getting string here so i will validate it with database
+			if($car_data['city'] && $car_data['country']){
+				$car_data['city'] = $this->validate_city_string($car_data['country'], $car_data['city']);
+			}
+
+			//$car_data['zipCode'] = strtoupper($_REQUEST['zipCode']);
+			$zipcode = (isset($_REQUEST['zipCode'])) ? $_REQUEST['zipCode'] : '';
+			$car_data['zipCode'] = strtoupper($zipcode);
 			$car_data['carDropOffLocation'] = $_REQUEST['carDropOffLocation'];
 			$car_data['carDropOffLat'] = $_REQUEST['carDropOffLat'];
 			$car_data['carDropOffLon'] = $_REQUEST['carDropOffLon'];
@@ -233,7 +248,8 @@ class Cars extends MX_Controller {
 			$car_data['carPickUpLat'] = $_REQUEST['carPickUpLat'];
 			$car_data['carPickUpLon'] = $_REQUEST['carPickUpLon'];
 			$car_data['carPlateNumber'] = strtoupper($_REQUEST['carPlateNumber']);
-			$car_data['insuranceType'] = $_REQUEST['insuranceType'];
+			//$car_data['insuranceType'] = $_REQUEST['insuranceType'];
+			$car_data['insuranceType'] = (isset($_REQUEST['insuranceType'])) ? $_REQUEST['insuranceType'] : '';
 			$car_data['insuranceValidTill'] = $_REQUEST['insuranceValidTill'];
 			$uploaded_with = (isset($_REQUEST['uploaded_with'])) ? $_REQUEST['uploaded_with'] : '';
 
@@ -529,14 +545,21 @@ class Cars extends MX_Controller {
 				$car_data['price'] = 0;
 			}
 			$car_data['airbags'] = $_REQUEST['airbags'];
-			$car_data['kmOrMiles'] = $_REQUEST['kmOrMiles'];
-			$car_data['kmOrMilesValue'] = $_REQUEST['kmOrMilesValue'];
+			//$car_data['kmOrMiles'] = $_REQUEST['kmOrMiles'];
+			$car_data['kmOrMiles'] = (isset($_REQUEST['kmOrMiles'])) ? $_REQUEST['kmOrMiles'] : '';
+			//$car_data['kmOrMilesValue'] = $_REQUEST['kmOrMilesValue'];
+			$car_data['kmOrMilesValue'] = (isset($_REQUEST['kmOrMilesValue'])) ? $_REQUEST['kmOrMilesValue'] : '';
 			$car_data['youEarn'] = $_REQUEST['youEarn'];
 			$car_data['carExtraKmOrMl'] = $_REQUEST['carExtraKmOrMl'];
-			$car_data['country'] = $_REQUEST['country'];
-			$car_data['city'] = $_REQUEST['city'];
+			// $car_data['country'] = $_REQUEST['country'];
+			// $car_data['city'] = $_REQUEST['city'];
+			$car_data['country'] = (isset($_REQUEST['country'])) ? $_REQUEST['country'] : '';
+			$car_data['city'] = (isset($_REQUEST['city'])) ? $_REQUEST['city'] : '';
+
 			// because i m getting string here so i will validate it with database
-			$car_data['city'] = $this->validate_city_string($car_data['country'], $car_data['city']);
+			if($car_data['city'] && $car_data['country']){
+				$car_data['city'] = $this->validate_city_string($car_data['country'], $car_data['city']);
+			}
 
 			$car_data['zipCode'] = strtoupper($_REQUEST['zipCode']);
 			$car_data['carDropOffLocation'] = $_REQUEST['carDropOffLocation'];
