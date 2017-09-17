@@ -181,6 +181,14 @@ class Cars extends MX_Controller {
 		$this->language = ($this->input->get('language') == "") ? "english" : $this->input->get('language');
 		$this->lang->load('master', "$this->language");
 
+		print_r($_REQUEST);
+		//print_r($_POST);
+		log_message('info','RESULT');
+		log_message('info',print_r($_REQUEST, true));
+		//log_message('info',print_r($_POST, true));
+		//log_message('info','-------------------------------------------');
+		//log_message('info',print_r($this->input->post(), true));
+
 		if ($_REQUEST) {
 
 			$car_data['fk_user_id'] = $_REQUEST['fk_user_id'];
