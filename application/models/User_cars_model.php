@@ -249,6 +249,8 @@ class User_cars_model extends CI_Model {
                                     ");
 
 		$result = $query->result_array();
+		//print_r($this->db->last_query());
+
 		if (!empty($result)) {
 			$return = array();
 			foreach ($result as $r) {

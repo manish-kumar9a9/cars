@@ -560,8 +560,10 @@ class User extends CI_Controller {
 			'data' => json_encode(array('fk_user_id' => $this->session->userdata('userId')))
 		);
 
+		//print_r($option);
 		$result = get_data_with_curl($option);
 		$data['car_list'] = $result['Result'];
+		//print_r($result); die;
 
 		/* get all car information of user */
 		//$data ['car_list'] = $this->CarModel->fetch_user_car_data(array('fk_user_id' => $this->session->userdata('userId')));

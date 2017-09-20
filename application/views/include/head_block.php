@@ -146,7 +146,7 @@
 								<ul>
 									<li class="dropdown">
 										<div class="dropdown-content" id="myDropdownLang">
-											<a href="#" onclick="lang_changer('english');" 
+											<a id="lang_selector" href="#" onclick="lang_changer('english');" 
 											   <?php if( $this->input->cookie('lang') == "english" or  $this->input->cookie('lang') == "" ){ 
 												echo "class='active'";  } ?>
 											   >
@@ -243,6 +243,8 @@
 		<?php } ?>
 
 	<?php } ?>
+	<!-- <script src="https://maps.googleapis.com/maps/api/js?key=<?php//echo GOOGLE_MAP_API_KEY ; ?>&sensor=false&libraries=places"
+    ></script> -->
 	<script>
         function getCookie(cname) {
             var name = cname + "=";

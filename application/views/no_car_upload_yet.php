@@ -23,7 +23,7 @@
 
 
     <div class="listcar-home">
-      <div class="no-car"><a href="<?php echo base_url()?>index.php/user/add_car"><input  class="theme-btn-basic" type="button" value="List your Car"></a><div class="clr"><input style="background:transparent;border:solid 2px #fff;" type="button" value="Help"></div></div>
+      <div class="no-car"><a href="<?php echo base_url()?>index.php/user/add_car"><input  class="theme-btn-basic" type="button" value="Add your Car"></a><div class="clr"><input style="background:transparent;border:solid 2px #fff;" type="button" value="Help"></div></div>
     </div>
 
         <!--footers-->

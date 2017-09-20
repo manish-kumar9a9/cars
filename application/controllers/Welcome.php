@@ -21,8 +21,24 @@ class Welcome extends CI_Controller {
 		{
 			$temp[$row->id] = $row;
 		}
-		$data['featured_cars'] = $temp;
+		//$data['featured_cars'] = $temp;
+		
+		$ftot = ceil(count($temp)/6);
+		$featuredTemp = [];
+		for($i=0; $i < $ftot ; $i++)
+        {
+        	$j=0;
+            foreach ($temp as $key=> $car)
+            {
+                if($j == 6){break;}
+                $featuredTemp[$i][] = $car;
+                unset($temp[$key]);
+                $j++;
 
+            }
+        }
+        $data['featured_cars'] = $featuredTemp;
+        $data['total_featured_car'] = $ftot;
         //owners list
         $owners= $this->CarModel->get_owner_list();
         $ownertemp = [];
